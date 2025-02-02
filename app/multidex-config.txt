@@ -1,0 +1,5 @@
+com/alexwbaule/flexprofile/tasks/PopfromAssets.class
+com/alexwbaule/flexprofile/domain/SQLiteHelper.class
+com/alexwbaule/flexprofile/domain/SQLiteHelper$DBandFile.class
+com/alexwbaule/flexprofile/dialogs/MakeBackup.class
+com/alexwbaule/flexprofile/dialogs/MakeRestore.class

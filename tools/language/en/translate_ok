@@ -1,0 +1,262 @@
+""
+My Car
+Flex Calculator
+Supplies
+Oil
+Vehicles
+Help
+Settings
+Maintenance
+Reports
+Open navigation menu
+Close navigation menu
+Add vehicle
+Include oil change
+Include supply
+Settings
+Insert a vehicle to make the fuel calculation.
+Enter a supply to improve the calculation of consumption
+Insert a vehicle to calculate the consumption
+Enter an oil change to calculate the next exchange
+Select cars
+Select oil changes
+Select the supplies
+Undo
+Gasoline
+Alcohol
+CNG
+Diesel
+The valid range of %1$s is %2$d to% 3 $ d
+ %1$s is valid from %2$d
+ %1$s previous %2$d
+ %1$s current
+Select a fuel
+Volume can not be zero ( %1$d)!
+The volume can not be larger than %1$s ( %2$s)!
+The current odometer ( %1$d) can not be equal to or HIGHER than the last ( %2$d)!
+The current odometer ( %1$d) can not be equal to or LESS than the last ( %2$d)! "
+Inactive
+Active
+Save
+Delete
+Setar as Default
+Edit
+Fuel
+Autonomy
+Cost
+-
+Cost KM
+Full tank
+07/12/2014
+Date supply
+Current odometer
+volume stocked
+fuel
+date of oil change
+odometer next exchange
+oil used
+oil volume
+Filter
+Car Name
+and fuel consumption
+fuel volume
+Fuel Volume
+Volume of CNG
+type of vehicle
+Oil
+Odometer next exchange
+Volume
+Consumption
+Travelled distance
+£
+0.00
+"This vehicle is already"
+This consumption already exists
+None
+Error in the date inserted
+Insert a vehicle
+Existing record
+Error updating
+Error deleting
+Sport
+Sedan
+Hatch
+SW
+SUV
+Convertible
+Utilitarian
+Moto Sport
+Chooper
+Scooter
+Cross
+The first use selected can not be empty
+The second selected consumption can not be empty
+The third selected consumption can not be empty
+The fourth selected consumption can not be empty
+The vehicle name can not be empty
+Select at least one fuel
+Indicating the fuel tank volume
+Tell the cylinder volume of CNG
+The oil name can not be empty
+The current mileage can not be zero
+The mileage of the next exchange can not be empty
+ %1$s previous %2$d (next to %2$d)
+ %1$s next exchange
+km/L
+L/100km
+km/L
+L/100km
+ml/L
+G/100MI
+thousand
+U/100MI
+km/m³
+m³/100km
+km/yd³
+yd³/100km
+ml/yd³
+yd³/100MI
+mi/m³
+m³/100MI
+mpv
+v100m
+Autonomy
+Cost
+autonomy
+cost
+None
+Gasoline
+Alcohol
+CNG
+Diesel
+Kilometers
+Miles
+km
+mi
+Liters
+US gallons
+UK gallons
+LTS
+GUS
+GUK
+Cubic meters (m³)
+Cubic yards (yd³)
+MTS
+YAD
+All abastacimentos
+5 abastacimentos
+10 abastacimentos
+15 abastacimentos
+20 abastacimentos
+0
+5
+10
+15
+20
+The app My Car, formerly known as Flex Profile has been updated to solve some problems related to the old way of selecting numbers.\n This application will help you decide the most advantageous fuel at the time of supply.\n This calculation is made by cost KM/L. \ n For the same work, the supply should be \ "complete the tank to fill it \" he needs it for the correct calculation of consumption. \ n If you have migrated from the Flex Profile, the mode of operation is the same, but with improvements in data entry and also the new menu "Oil", where the user can register the vehicle oil changes. \ n For the new user, you must enter a vehicle for the calculation is made. \ n This can be done by adding a new vehicle to the application, pulling the lateral menu to the right and going to the Vehicle option. \ n Within this option the user can see a list of registered vehicles, and selecting Button \ "+ \" can add a vehicle. \ n In add vehicle, inform the car's name, fuels and their consumption and the same tank capacity in liters (if CNG, also add the cubic footage of the drum ). \ n With the registered car, enter the amount of each liter of fuel that the calculation is done automatically by modifying the price of them. \ n
+If you find any bug or have any suggestions, send email to
+mailto:? subject = My alexwbaule@gmail.com% 20Carro% 20App
+m³
+yd³
+L
+G
+G
+LTS
+MTS
+mpv
+mpv
+cost
+0
+km
+Fuel
+CNG
+Odometer
+Tank
+Odometer
+Consumption
+Cylinder
+Calculation
+Supply
+General Average
+The overall average consumption will be for all supplies
+The overall average consumption will be the last 5 supplies
+The overall average consumption will be 10 by the last supplies
+The overall average consumption will be the 15 last supplies
+The overall average consumption will be 20 by the last supplies
+The calculation will be for autonomy
+The calculation will be made at cost
+The volume is measured in cubic meters
+Consumption is measured in km/L
+Consumption is measured in km/L
+Consumption will be measured in E/L
+Consumption will be measured in E/G
+Consumption will be measured in L/100km
+Consumption will be measured in L/100MI
+Consumption will be measured in L/100km
+Consumption is measured in G/100MI
+Consumption is measured in km/m³
+Consumption is measured in km/yd³
+Consumption is measured in mi/m³
+Consumption will be measured in E/yd³
+Consumption is measured in m³/100km
+Consumption is measured in m³/100MI
+Consumption will be measured in yd³/100km
+Consumption will be measured in yd³/100MI
+The volume is measured in liters
+The volume will be measured in US Gallons
+The volume is measured in gallons UK
+The volume is measured in cubic meters
+The volume will be measured in yd³
+The Odometer is Kilometers (KM)
+The Odometer is Miles (Mi)
+Gallons
+Liters
+Cubic meters
+Cubic yards
+MI
+KM
+yd³/100MI
+yd³/100km
+m³/100MI
+m³/100km
+ml/yd³
+km/yd³
+mi/m³
+km/m³
+G/100MI
+L/100km
+G/100MI
+U/100MI
+L/100km
+MPG
+km/L
+thousand
+km/L
+Kind of calculation
+You do not have vehicles.
+You have no supplies.
+You do not have oil changes.
+You do not have vehicles to make a calculation.
+No Vehicle Joined
+Loading ...
+New supply
+New vehicle
+New oil change
+Edit supply
+Edit oil change
+Edit vehicle
+Date
+Hour
+Name/oil brand
+Name/Brand Oil
+You do not have vehicles to have oil changes.
+You have no vehicles to take supplies.
+Maximum capacity %1$s %2$s
+1 selected car
+%d selected cars
+1 selected oil
+%d oil selected
+1 selected supply
+%d selected supply
+1 deleted
+%d excluded

@@ -1,0 +1,878 @@
+Marca	Modelo	 (D) sem peso 	 (T) sem peso 	( D) com peso 	 (T) com peso
+Alfa Romeo	145 Todas	31 psi	28 psi	31 psi	31 psi
+Alfa Romeo	146 Todas	32 psi	30 psi	34 psi	34 psi
+Alfa Romeo	155 Todas	31 psi	28 psi	35 psi	35 psi
+Alfa Romeo	156 Todas	32 psi	30 psi	36 psi	36 psi
+Alfa Romeo	164 Com Aro 15	31 psi	28 psi	35 psi	35 psi
+Alfa Romeo	164 Com Aro 15	35 psi	32 psi	41 psi	41 psi
+Alfa Romeo	166 Todas	36 psi	35 psi	42 psi	42 psi
+Alfa Romeo	Gtv Todas	36 psi	33 psi	36 psi	33 psi
+Alfa Romeo	Spider Todas	36 psi	33 psi	36 psi	33 psi
+Am General	Hummer Todas	75 psi	75 psi	75 psi	75 psi
+Asia Motors	Galloper Ii Todas	26 psi	29 psi	26 psi	29 psi
+Asia Motors	Rocsta Todas	30 psi	30 psi	30 psi	30 psi
+Asia Motors	Topic Todas	43 psi	55 psi	43 psi	55 psi
+Asia Motors	Towner Com 155/80R12	29 psi	29 psi	31 psi	48 psi
+Asia Motors	Towner Com 165/70R12	31 psi	31 psi	25 psi	25 psi
+Audi	80 Cabriolet	32 psi	32 psi	35 psi	39 psi
+Audi	80 Com 195/65R15	32 psi	32 psi	35 psi	39 psi
+Audi	80 Com 205/55R16	35 psi	35 psi	41 psi	42 psi
+Audi	A3 Todas	28 psi	28 psi	32 psi	40 psi
+Audi	A4 Cabriolet	42 psi	42 psi	42 psi	42 psi
+Audi	A4 Com 195/65R15	30 psi	30 psi	34 psi	38 psi
+Audi	A4 1.8 205/60R15	35 psi	35 psi	41 psi	42 psi
+Audi	A4 2 .0 Com 205/60R15	35 psi	35 psi	41 psi	42 psi
+Audi	A4 2.4 Com 205/60R15	35 psi	35 psi	41 psi	42 psi
+Audi	A4 2.8 Com 205/60R15	32 psi	32 psi	41 psi	42 psi
+Audi	A4 Com 205/55R16	38 psi	38 psi	42 psi	42 psi
+Audi	A4 Com 215/55R16	42 psi	42 psi	42 psi	42 psi
+Audi	A4 1.8 – Com 225/45R17 ate 2002	38 psi	38 psi	42 psi	42 psi
+Audi	A4 2.0 – Com 225/45R17 ate 2002	38 psi	38 psi	42 psi	42 psi
+Audi	A4 2.0 – Com 225/45R17	30 psi	30 psi	34 psi	38 psi
+Audi	A4 3.0 – Com 225/45R17 ate 2002	42 psi	42 psi	42 psi	42 psi
+Audi	A4 2.0 – Com 225/40R18	38 psi	38 psi	42 psi	42 psi
+Audi	A4 3.2 – Com 235/45R17 e 235/40R18	8 psi	38 psi	42 psi	42 psi
+Audi	A4 1.8T – Com 235/45R17	42 psi	42 psi	42 psi	42 psi
+Audi	A4 Todas	42 psi	42 psi	42 psi	42 psi
+Audi	A4 Todas	38 psi	38 psi	42 psi	42 psi
+Audi	A6 Todas	34 psi	34 psi	40 psi	42 psi
+Audi	A8 Todas	32 psi	32 psi	42 psi	42 psi
+Audi	Allroad Quattro Todas	32 psi	32 psi	40 psi	42 psi
+Audi	Q7 Todas	32 psi	32 psi	32 psi	32 psi
+Audi	Rs2 Todas	39 psi	39 psi	44 psi	44 psi
+Audi	Rs4 Todas	39 psi	39 psi	44 psi	44 psi
+Audi	Rs6 Todas	39 psi	39 psi	44 psi	44 psi
+Audi	S3 Todas	28 psi	28 psi	32 psi	40 psi
+Audi	S4 Todas	35 psi	35 psi	39 psi	39 psi
+Audi	S6 Com Aro 16	35 psi	35 psi	39 psi	39 psi
+Audi	S6 Com Aro 17	44 psi	44 psi	50 psi	50 psi
+Audi	S8 Todas	40 psi	40 psi	50 psi	50 psi
+Audi	Tt Todas	36 psi	30 psi	36 psi	33 psi
+Audi	A3 1.8 Turbo 205/55R16 91W 2006	28 psi	28 psi	34 psi	40 psi
+Audi	A3 1.8 195/65R15 91H 2004	28 psi	28 psi	35 psi	35 psi
+Audi	A3 1.8T 180cv 205/55R16 91V 2006	28 psi	28 psi	34 psi	40 psi
+Bentley	Brooklands Todas	34 psi	34 psi	36 psi	36 psi
+Bentley	Continental Todas	34 psi	34 psi	36 psi	36 psi
+Bentley	Turbo Todas	34 psi	34 psi	36 psi	36 psi
+Bmw	Serie 1 Com Aro 16	32 psi	38 psi	38 psi	44 psi
+Bmw	Serie 1 Com Aro 17	29 psi	32 psi	35 psi	38 psi
+Bmw	Serie 3 328 Cabrio	32 psi	38 psi	38 psi	45 psi
+Bmw	Serie 3 325	32 psi	38 psi	38 psi	45 psi
+Bmw	Serie 3 330 Cabrio	36 psi	36 psi	42 psi	49 psi
+Bmw	Serie 3 Coupe	26 psi	29 psi	29 psi	36 psi
+Bmw	Serie 3 Compact	26 psi	29 psi	29 psi	36 psi
+Bmw	Serie 3 318	26 psi	29 psi	29 psi	36 psi
+Bmw	Serie 3 320	26 psi	29 psi	29 psi	36 psi
+Bmw	Serie 3 323	26 psi	29 psi	29 psi	36 psi
+Bmw	Serie 3 325	26 psi	29 psi	29 psi	36 psi
+Bmw	Serie 3 328 Sedan	26 psi	29 psi	29 psi	36 psi
+Bmw	Serie 3 330 Sedan	36 psi	36 psi	42 psi	49 psi
+Bmw	Serie 3 M3	36 psi	36 psi	42 psi	49 psi
+Bmw	Serie 3 Touring	26 psi	29 psi	29 psi	36 psi
+Bmw	Serie 5 525 – Com Aro 15	29 psi	33 psi	35 psi	42 psi
+Bmw	Serie 5 528 – Com Aro 15	29 psi	33 psi	35 psi	42 psi
+Bmw	Serie 5 528 -Com Aro 16	29 psi	35 psi	36 psi	45 psi
+Bmw	Serie 5 540 – Com Aro 16	29 psi	35 psi	36 psi	45 psi
+Bmw	Serie 5 540 – Com Aro 17	33 psi	41 psi	41 psi	48 psi
+Bmw	Serie 5 530/545	32 psi	38 psi	38 psi	45 psi
+Bmw	Serie 5 550	33 psi	41 psi	41 psi	48 psi
+Bmw	Serie 5 M5 ate 1999	29 psi	35 psi	35 psi	42 psi
+Bmw	Serie 5 M5 ate 2004	33 psi	41 psi	41 psi	48 psi
+Bmw	Serie 5 M5	29 psi	35 psi	35 psi	42 psi
+Bmw	Serie 5 Touring – Com Aro 15	29 psi	35 psi	36 psi	45 psi
+Bmw	Serie 5 Touring – Com Aro 16	29 psi	35 psi	36 psi	45 psi
+Bmw	Serie 5 Touring – Com Aro 17	39 psi	42 psi	44 psi	51 psi
+Bmw	Serie 6 Todas	32 psi	39 psi	38 psi	46 psi
+Bmw	Serie 7 740	32 psi	40 psi	40 psi	42 psi
+Bmw	Serie 7 745	32 psi	40 psi	40 psi	42 psi
+Bmw	Serie 8 840	33 psi	34 psi	38 psi	43 psi
+Bmw	Serie 8 850	36 psi	36 psi	38 psi	44 psi
+Bmw	X3 Todas	42 psi	42 psi	46 psi	51 psi
+Bmw	X5 Todas	32 psi	32 psi	32 psi	39 psi
+Bmw	Z3 1.9	32 psi	32 psi	32 psi	39 psi
+Bmw	Z3 2.8	32 psi	32 psi	32 psi	39 psi
+Bmw	Z3 3.0/M	29 psi	35 psi	35 psi	38 psi
+Bmw	Z4 2	30 psi	32 psi	30 psi	32 psi
+Bmw	Z4 3.0/M	30 psi	35 psi	35 psi	38 psi
+Bmw	Z8 4.9	30 psi	32 psi	30 psi	32 psi
+Chery	Face 1.3 175/60R14 2010	32 psi	32 psi	32 psi	32 psi
+Chery	QQ 1.1 155/65R13 73h 2011	32 psi	32 psi	35 psi	35 psi
+Chevrolet	Astra Com 175/65R14	33 psi	29 psi	33 psi	36 psi
+Chevrolet	Astra Com 185/60R14	29 psi	26 psi	30 psi	44 psi
+Chevrolet	Astra Com 185/65R14	30 psi	29 psi	33 psi	36 psi
+Chevrolet	Astra Com 195/60R15	30 psi	28 psi	33 psi	38 psi
+Chevrolet	Astra Com 205/55R16	27 psi	27 psi	30 psi	36 psi
+Chevrolet	Blazer Com 225/75R15	31 psi	28 psi	35 psi	40 psi
+Chevrolet	Blazer Com 235/75R15	35 psi	30 psi	35 psi	40 psi
+Chevrolet	Blazer Com 235/70R16	35 psi	30 psi	35 psi	40 psi
+Chevrolet	C-20 Todas	35 psi	30 psi	45 psi	50 psi
+Chevrolet	Calibra 2 16V	35 psi	32 psi	36 psi	46 psi
+Chevrolet	Celta Todas	31 psi	25 psi	31 psi	31 psi
+Chevrolet	Classic Todas	27 psi	27 psi	30 psi	36 psi
+Chevrolet	Corsa Picape	28 psi	26 psi	30 psi	36 psi
+Chevrolet	Corsa Picape	28 psi	26 psi	30 psi	36 psi
+Chevrolet	Corsa Hatch – Com 165/70R13 ate 2002	28 psi	25 psi	30 psi	35 psi
+Chevrolet	Corsa Sedan – Com 165/70R13 ate 2002	27 psi	27 psi	30 psi	36 psi
+Chevrolet	Corsa Hatch/Sedan – Com 175/65R14 ate 2002	27 psi	27 psi	30 psi	36 psi
+Chevrolet	Corsa Hatch/Sedan – Com 185/60R14 ate 2002	27 psi	27 psi	30 psi	36 psi
+Chevrolet	Corsa Hatch/Sedan – Com 165/70R13 desde 2003	34 psi	38 psi	35 psi	42 psi
+Chevrolet	Corsa Hatch/Sedan – Com 175/65R14 desde 2003	32 psi	28 psi	34 psi	40 psi
+Chevrolet	Corsa Hatch/Sedan – Com 185/60R14 desde 2003	28 psi	26 psi	32 psi	38 psi
+Chevrolet	Corsa Wagon	27 psi	27 psi	30 psi	36 psi
+Chevrolet	Astra Com 175/65R14	33 psi	29 psi	33 psi	36 psi
+Chevrolet	Astra Com 185/60R14	29 psi	26 psi	30 psi	44 psi
+Chevrolet	Astra Com 185/65R14	30 psi	29 psi	33 psi	3 psi
+Chevrolet	D-20 Todas	35 psi	30 psi	45 psi	50 psi
+Chevrolet	Grand Blazer Todas	35 psi	30 psi	46 psi	48 psi
+Chevrolet	Ipanema Todas	25 psi	26 psi	27 psi	29 psi
+Chevrolet	Kadett Com Aro 13	25 psi	24 psi	27 psi	27 psi
+Chevrolet	Kadett Com Aro 14	25 psi	24 psi	29 psi	29 psi
+Chevrolet	Meriva Com 175/70R14	33 psi	29 psi	36 psi	42 psi
+Chevrolet	Meriva Com 185/60R15	34 psi	30 psi	36 psi	42 psi
+Chevrolet	Montana 1.8 8V Flexpower	32 psi	28 psi	32 psi	41 psi
+Chevrolet	Monza Com Aro 13	26 psi	26 psi	26 psi	26 psi
+Chevrolet	Monza Com Aro 14	27 psi	27 psi	30 psi	32 psi
+Chevrolet	Omega Com 195/65R15	29 psi	29 psi	29 psi	44 psi
+Chevrolet	Omega Com 205/60R15	32 psi	32 psi	38 psi	44 psi
+Chevrolet	Omega Com 215/60R16	30 psi	30 psi	35 psi	40 psi
+Chevrolet	Prisma Todas	27 psi	27 psi	30 psi	36 psi
+Chevrolet	S-10 Com 225/75R15	31 psi	28 psi	35 psi	40 psi
+Chevrolet	S-10 Com 205/75R15	31 psi	28 psi	35 psi	40 psi
+Chevrolet	S-10 Com 235/75R15	35 psi	30 psi	35 psi	40 psi
+Chevrolet	S-10 Com 235/70R16	35 psi	30 psi	35 psi	40 psi
+Chevrolet	Silverado Todas	35 psi	30 psi	45 psi	50 psi
+Chevrolet	Space Van Todas	42 psi	55 psi	60 psi	65 psi
+Chevrolet	Suprema Todas	29 psi	29 psi	35 psi	46 psi
+Chevrolet	Tigra Todas	27 psi	27 psi	30 psi	36 psi
+Chevrolet	Tracker Todas	28 psi	28 psi	36 psi	36 psi
+Chevrolet	Vectra Com 185/70R14	29 psi	26 psi	30 psi	36 psi
+Chevrolet	Vectra Com 195/60R15	27 psi	24 psi	30 psi	36 psi
+Chevrolet	Vectra Com 205/55R16- Exceto Elite	27 psi	24 psi	30 psi	36 psi
+Chevrolet	Vectra Elite	30 psi	27 psi	30 psi	34 psi
+Chevrolet	Veraneio Todas	31 psi	28 psi	35 psi	40 psi
+Chevrolet	Zafira Todas	30 psi	30 psi	38 psi	38 psi
+Chevrolet	Montana 1.8 Com 185/60R15 2005	32 psi	28 psi	32 psi	41 psi
+Chevrolet	Vectra GT-X 215/45R17 91V	30 psi	27 psi	34 psi	36 psi
+Chevrolet	Celta 1.0 8v 165/70R13 2002	31 psi	25 psi	31 psi	31 psi
+Chevrolet	Corsa Wind 145/80R13 1996	28 psi	25 psi	30 psi	35 psi
+Chevrolet	Classic 1.0 8v 165/70R13 79T 2010	27 psi	27 psi	30 psi	36 psi
+Chevrolet	Cruze 1.8 225/50R17 94V 2011	32 psi	32 psi	32 psi	32 psi
+Chevrolet	Captiva 3.6 V6 235/60R17 2011	35 psi	35 psi	35 psi	35 psi
+Chevrolet	Vectra Vectra Elite 225/45R17 94W 2006	0 psi	0 psi	30 psi	34 psi
+Chevrolet	Meriva 1.8 175/70R14 84T 2002	33 psi	29 psi	36 psi	42 psi
+Chevrolet	Agile 1.4 LTZ 185/60R15 88H 2012	28 psi	26 psi	32 psi	32 psi
+Chevrolet	Vectra GLS 195/65R15 91H 1997	27 psi	24 psi	30 psi	36 psi
+Chevrolet	Celta Spirit 1.0 165/70R13 79T 2005	31 psi	25 psi	31 psi	31 psi
+Chevrolet	Prisma LT1.4 175/65R14 82H 2012	27 psi	27 psi	30 psi	36 psi
+Chevrolet	Prisma Joy 1.4 175/65R14 82H 2009	27 psi	27 psi	30 psi	36 psi
+Chevrolet	Corsa Wagon GLS 1.6 8V 185/60R14 82H 2001	27 psi	27 psi	30 psi	36 psi
+Chevrolet	Ipanema 1.8 175/70R13 82T 1996	25 psi	26 psi	27 psi	29 psi
+Chevrolet	Celta Flexpower 1.0 165/70R13 79T 2007	31 psi	25 psi	31 psi	31 psi
+Chevrolet	Opala 250S 195/70R14 91T 1978	25 psi	26 psi	30 psi	32 psi
+Chevrolet	Tracker 2.0 235/60R16 100H 2008	26 psi	26 psi	28 psi	28 psi
+Chevrolet	Prisma LT 1.4 175/65R14 82H 2012	27 psi	27 psi	30 psi	36 psi
+Chevrolet	Onix LT 1.0 185/70R14 88H 2013	35 psi	35 psi	35 psi	35 psi
+Chevrolet	Prisma Max 1.4 175/65R14 82T 2011	27 psi	27 psi	30 psi	36 psi
+Chevrolet	Celta 1.0 Spirit 165/70R13 79T 2005	31 psi	28 psi	31 psi	31 psi
+Chevrolet	Onix LT 1.0 185/70R14 88H 2012	35 psi	35 psi	35 psi	35 psi
+Chevrolet	Monza SL/E 2.0 álcool 185/70R13 86T 1988	26 psi	25 psi	29 psi	31 psi
+Chevrolet	Celta LT 165/70R13 79T 2013	27 psi	27 psi	30 psi	36 psi
+Chevrolet	Agile LTZ 1.4 Flex 185/60R15 Pirelli P7 88H XL 2010	28 psi	26 psi	32 psi	32 psi
+Chevrolet	Celta LT 165/70R13 79T 2013	27 psi	27 psi	30 psi	36 psi
+Chevrolet	Montana 1.8 Sport 185/60R15 88T XL 2005	32 psi	28 psi	32 psi	41 psi
+Chevrolet	Celta FLEX 1.0 165/70R13 79T 2012	27 psi	27 psi	30 psi	36 psi
+Chevrolet	Celta 1.0 165/70R13 79T 2012	27 psi	27 psi	30 psi	36 psi
+Chevrolet	Onix Lt 1.4 185/65R15 88H 2014	32 psi	32 psi	32 psi	32 psi
+Chevrolet	Spin LT 2013 195/65R15 91H 2012	35 psi	35 psi	35 psi	35 psi
+Chevrolet	Classic LS 165/70R13 79T 2009	27 psi	27 psi	30 psi	36 psi
+Chevrolet	Prisma Max 1.4 175/65R14 82T 2007	27 psi	27 psi	30 psi	36 psi
+Chevrolet	Onix Lt 1.0 185/70R14 88H 2013	35 psi	35 psi	35 psi	35 psi
+Chrysler	300C Todas	32 psi	32 psi	32 psi	32 psi
+Chrysler	300M Todas	30 psi	30 psi	30 psi	30 psi
+Chrysler	Caravan Todas	35 psi	35 psi	35 psi	35 psi
+Chrysler	Grand Caravan Todas	35 psi	35 psi	35 psi	35 psi
+Chrysler	Neon Todas	32 psi	32 psi	32 psi	32 psi
+Chrysler	Pt Cruiser Todas	35 psi	35 psi	35 psi	35 psi
+Chrysler	Sebring Todas	32 psi	32 psi	32 psi	32 psi
+Chrysler	Stratus Todas	32 psi	32 psi	32 psi	32 psi
+Chrysler	Stratus Todas	32 psi	32 psi	32 psi	32 psi
+Chrysler	Viper Todas	35 psi	35 psi	35 psi	35 psi
+Citroen	Ax Todas	27 psi	27 psi	27 psi	27 psi
+Citroen	Berlingo Todas 175/65R14 82T	38 psi	38 psi	38 psi	42 psi
+Citroen	C2 Todas	30 psi	32 psi	30 psi	36 psi
+Citroen	C3 Todas	30 psi	33 psi	30 psi	41 psi
+Citroen	C3 Pluriel Todas	30 psi	33 psi	30 psi	38 psi
+Citroen	C4 Todas	33 psi	29 psi	33 psi	36 psi
+Citroen	C5 Todas	33 psi	33 psi	33 psi	40 psi
+Citroen	C6 Todas	30 psi	30 psi	30 psi	32 psi
+Citroen	C8 Todas	33 psi	33 psi	33 psi	33 psi
+Citroen	Evasion Todas	33 psi	33 psi	36 psi	36 psi
+Citroen	Jumper Com 195/70R15	36 psi	60 psi	36 psi	60 psi
+Citroen	Jumper Com 205/70R15	39 psi	65 psi	39 psi	65 psi
+Citroen	Jumper Com 205/75R15	39 psi	65 psi	39 psi	65 psi
+Citroen	Saxo Todas	32 psi	30 psi	34 psi	36 psi
+Citroen	Xantia Todas	33 psi	30 psi	33 psi	30 psi
+Citroen	Xm Hatch	31 psi	27 psi	31 psi	27 psi
+Citroen	Xm Wagon	33 psi	33 psi	33 psi	33 psi
+Citroen	Xsara Hatch	33 psi	30 psi	36 psi	38 psi
+Citroen	Xsara Wagon	33 psi	30 psi	33 psi	40 psi
+Citroen	Xsara Picasso Todas	30 psi	30 psi	38 psi	38 psi
+Citroen	Zx Com 175/65R14	31 psi	30 psi	31 psi	30 psi
+Citroen	Zx Com 185/60R14	31 psi	31 psi	31 psi	31 psi
+Citroen	Zx Com 195/55R15	31 psi	33 psi	31 psi	33 psi
+Citroen	C4 Pallas 215/55R16 93V	34 psi	32 psi	34 psi	40 psi
+Citroen	C4 Hatch Sport 2.0 205/55R16 91V 2011	30 psi	30 psi	30 psi	39 psi
+Citroen	C4 VTR 2.0 195/65R15 91H 2007	33 psi	29 psi	33 psi	36 psi
+Citroen	C4 VTR 195/65R15 91H 2007	33 psi	29 psi	33 psi	36 psi
+Citroen	C3 1.6 16v 185/60R15 84H 2005	30 psi	33 psi	30 psi	41 psi
+Citroen	C5 Exclusive 2.0 16V 195/65R15 91V 2003	33 psi	33 psi	33 psi	39 psi
+Cross Lander	244 Todas	35 psi	30 psi	35 psi	40 psi
+Cross Lander	330 Todas	35 psi	30 psi	35 psi	40 psi
+Crysler	PT Cruiser Sedan 205/55R16 91H 2010	35 psi	35 psi	35 psi	35 psi
+Daewoo	Applause Todas	26 psi	26 psi	26 psi	26 psi
+Daewoo	Charade Todas	26 psi	26 psi	26 psi	26 psi
+Daewoo	Cuore Todas	26 psi	26 psi	26 psi	26 psi
+Daewoo	Feroza Todas	23 psi	23 psi	23 psi	23 psi
+Daewoo	Gran Move Todas	28 psi	28 psi	28 psi	28 psi
+Daewoo	Terios Todas	28 psi	28 psi	28 psi	28 psi
+Daihatsu	Espero Todas	29 psi	36 psi	32 psi	35 psi
+Daihatsu	Lanus Todas	32 psi	32 psi	32 psi	32 psi
+Daihatsu	Leganza Todas	29 psi	29 psi	29 psi	29 psi
+Daihatsu	Nubira Todas	30 psi	28 psi	30 psi	28 psi
+Daihatsu	Prince Todas	26 psi	26 psi	30 psi	34 psi
+Daihatsu	Super Salon Todas	26 psi	26 psi	30 psi	34 psi
+Dodge	Dakota Todas	35 psi	35 psi	35 psi	35 psi
+Dodge	Ram Picape Todas	30 psi	40 psi	60 psi	70 psi
+Ferrari	360 Todas	27 psi	30 psi	27 psi	30 psi
+Ferrari	456 Todas	32 psi	34 psi	32 psi	34 psi
+Ferrari	456M Todas	32 psi	34 psi	32 psi	34 psi
+Ferrari	550 Maranello Todas	32 psi	29 psi	32 psi	29 psi
+Ferrari	575M Maranello Todas	32 psi	29 psi	32 psi	29 psi
+Ferrari	612 Todas	28 psi	30 psi	28 psi	30 psi
+Ferrari	Enzo Todas	30 psi	32 psi	30 psi	32 psi
+Ferrari	F355 Todas	27 psi	30 psi	27 psi	30 psi
+Ferrari	F430 Todas	28 psi	30 psi	28 psi	30 psi
+Ferrari	F50 Todas	29 psi	29 psi	29 psi	29 psi
+Ferrari	F512 M Todas	34 psi	33 psi	34 psi	33 psi
+Fiat	Brava Todas	28 psi	28 psi	31 psi	34 psi
+Fiat	Coupe Todas	36 psi	32 psi	36 psi	35 psi
+Fiat	Doblo Todas	33 psi	33 psi	33 psi	43 psi
+Fiat	Doblo Adventure Todas	33 psi	33 psi	33 psi	43 psi
+Fiat	Doblo Cargo Todas	33 psi	36 psi	33 psi	43 psi
+Fiat	Ducato Todas	56 psi	60 psi	56 psi	60 psi
+Fiat	Duna Todas	26 psi	26 psi	31 psi	31 psi
+Fiat	Elba Todas	26 psi	26 psi	31 psi	43 psi
+Fiat	Fiorino Todas	26 psi	26 psi	31 psi	43 psi
+Fiat	Idea Todas	28 psi	28 psi	31 psi	36 psi
+Fiat	Idea Adventure Todas	33 psi	33 psi	33 psi	43 psi
+Fiat	Marea Todas – Exceto Turbo	28 psi	28 psi	36 psi	36 psi
+Fiat	Marea Turbo	31 psi	31 psi	36 psi	36 psi
+Fiat	Palio Hatch	27 psi	27 psi	31 psi	31 psi
+Fiat	Palio Com Aro 13	31 psi	31 psi	31 psi	36 psi
+Fiat	Palio Equipada Com Aros 14	28 psi	28 psi	31 psi	40 psi
+Fiat	Palio Equipada Com Aros 15	28 psi	28 psi	31 psi	40 psi
+Fiat	Palio Adventure Todas	31 psi	31 psi	31 psi	36 psi
+Fiat	Punto Todas	31 psi	31 psi	31 psi	36 psi
+Fiat	Siena Com Aro 13	31 psi	31 psi	31 psi	36 psi
+Fiat	Siena Equipada Com Aros 14	28 psi	28 psi	31 psi	34 psi
+Fiat	Siena Equipada Com Aros 15	28 psi	28 psi	31 psi	34 psi
+Fiat	Stilo Com Aro 15	35 psi	35 psi	35 psi	35 psi
+Fiat	Stilo Equipada Com Aros 16	35 psi	35 psi	35 psi	35 psi
+Fiat	Stilo Equipada Com Aros 17	35 psi	35 psi	35 psi	35 psi
+Fiat	Strada Todas	28 psi	28 psi	28 psi	43 psi
+Fiat	Tempra Todas	31 psi	31 psi	34 psi	34 psi
+Fiat	Tipo Com 175/65R14	28 psi	27 psi	28 psi	31 psi
+Fiat	Tipo Com 185/65R14	31 psi	31 psi	34 psi	34 psi
+Fiat	Tipo Com 195/60R14	36 psi	31 psi	38 psi	34 psi
+Fiat	Uno Com 145/80R13	24 psi	24 psi	31 psi	31 psi
+Fiat	Uno Com 165/70R13	26 psi	26 psi	31 psi	31 psi
+Fiat	Uno Com 185/60R14	31 psi	28 psi	34 psi	34 psi
+Fiat	Palio 1.4 8V ELX 175/65R14 2006	27 psi	27 psi	31 psi	40 psi
+Fiat	Mille Way Mille Way 175/70R13 2012	26 psi	26 psi	31 psi	31 psi
+Fiat	500 Todas 185/55R15 2011	32 psi	29 psi	35 psi	32 psi
+Fiat	Siena 1.8 8V HLX 175/70R14 84T 2007	28 psi	28 psi	31 psi	34 psi
+Fiat	Uno Mille 145/80R13 75T 2004	26 psi	26 psi	31 psi	31 psi
+Fiat	Punto Todas 195/60R15 88H	27 psi	27 psi	31 psi	31 psi
+Fiat	Punto Essence 1.6 16V Flex 195/55R16 87V	28 psi	28 psi	32 psi	32 psi
+Fiat	Freemont Todas 225/65R17 2011	36 psi	36 psi	36 psi	36 psi
+Fiat	Stilo 1.8 215/50R17 91V 2010	30 psi	30 psi	33 psi	33 psi
+Fiat	Palio 1.6 16v Weekend Stile 175/70R14 88H XL 2001	27 psi	28 psi	31 psi	32 psi
+Fiat	Palio 16v 175/65R14 82H 2000	27 psi	27 psi	31 psi	31 psi
+Fiat	Siena 1.4 Flex 175/70R14 88T 2007	30 psi	30 psi	30 psi	32 psi
+Fiat	Uno Mille 1.0 145/80R13 75T 1991	24 psi	26 psi	25 psi	27 psi
+Fiat	Strada Adventure 1.8 175/80R14 88T 2004	28 psi	28 psi	28 psi	43 psi
+Fiat	Palio Attractive 1.0 175/65R14 82V 2012	30 psi	30 psi	31 psi	36 psi
+Fiat	Novo Palio 1.4 175/65R14 82T 2013	28 psi	28 psi	32 psi	32 psi
+Fiat	Bravo Essence 215/45R17 91V 2011	33 psi	30 psi	36 psi	33 psi
+Fiat	Strada Fire 1.4 175/70R14 88T XL 2012	28 psi	28 psi	28 psi	43 psi
+Fiat	Novo Palio Attractive 1.0 175/65R14 82T 2012	28 psi	28 psi	32 psi	32 psi
+FIAT	PALIO ELX 1.3 175/65R14 82T 2005	27 psi	27 psi	31 psi	31 psi
+Fiat	Strada Fire 1.4 175/70R14 88T XL 2011	28 psi	28 psi	32 psi	32 psi
+Ford	Courier Todas	30 psi	30 psi	30 psi	40 psi
+Ford	Ecosport Todas	30 psi	30 psi	30 psi	35 psi
+Ford	Escort Com 155/70R13	26 psi	26 psi	28 psi	32 psi
+Ford	Escort Com 175/70R13	26 psi	26 psi	29 psi	32 psi
+Ford	Escort Com Aro 14	29 psi	27 psi	30 psi	36 psi
+Ford	Explorer Todas	26 psi	26 psi	26 psi	26 psi
+Ford	F-1000 Todas	32 psi	32 psi	32 psi	38 psi
+Ford	F-250 Com 235/85R16	45 psi	40 psi	50 psi	80 psi
+Ford	F-250 Com 265/75R16	40 psi	40 psi	45 psi	70 psi
+Ford	Fiesta Hatch – Com Aro 13	28 psi	26 psi	29 psi	32 psi
+Ford	Fiesta Sedan – Com Aro 13	29 psi	27 psi	29 psi	32 psi
+Ford	Fiesta 1.0 – Com 175/65R14	26 psi	24 psi	38 psi	32 psi
+Ford	Fiesta 1.3- Com 175/65R14	29 psi	27 psi	29 psi	32 psi
+Ford	Fiesta 1.4 – Com 175/65R14	29 psi	27 psi	29 psi	32 psi
+Ford	Fiesta 1.6 – Com 175/65R14	29 psi	27 psi	29 psi	32 psi
+Ford	Focus Todas	31 psi	29 psi	31 psi	34 psi
+Ford	Fusion Todas	33 psi	33 psi	33 psi	33 psi
+Ford	Ka Com Aro 13	30 psi	24 psi	31 psi	28 psi
+Ford	Ka Com Aro 14	30 psi	28 psi	30 psi	30 psi
+Ford	Mondeo Todas	31 psi	31 psi	31 psi	31 psi
+Ford	Pampa Todas	26 psi	32 psi	26 psi	32 psi
+Ford	Ranger Com Aro 14	28 psi	28 psi	28 psi	35 psi
+Ford	Ranger Equipada Com Aros 15	32 psi	32 psi	32 psi	38 psi
+Ford	Ranger Equipada Com Aros 16	32 psi	32 psi	32 psi	38 psi
+Ford	Royale Todas	26 psi	28 psi	26 psi	34 psi
+Ford	Taurus Todas	36 psi	36 psi	36 psi	36 psi
+Ford	Verona Todas	29 psi	27 psi	30 psi	36 psi
+Ford	Versailles Todas	26 psi	28 psi	26 psi	34 psi
+Ford	Ranger XL LT235/75R15 104/101S 2003	30 psi	30 psi	35 psi	50 psi
+Ford	Focus Todas 195/60R15 88H 2009	31 psi	28 psi	32 psi	35 psi
+Ford	Fusion 2.3 SEL P225/50R17 93V 2008	33 psi	33 psi	33 psi	33 psi
+Ford	Ranger 2.5 Gasolina 4×2 LT235/75R15 104R 1999	30 psi	30 psi	45 psi	50 psi
+Ford	Fusion SEL 2.5 225/50R17 98V XL 2010	31 psi	31 psi	33 psi	33 psi
+Ford	Fiesta Rocam Hatch 1.6 175/65R14 82H 2012	31 psi	30 psi	33 psi	35 psi
+Ford	Focus Hatch GLX 205/55R16 91V 2012	30 psi	30 psi	35 psi	41 psi
+Ford	Landau Landau 215/70R15 1979	26 psi	26 psi	26 psi	26 psi
+GM	Corsa Hatch Maxx 175/65R14 82T 2011	32 psi	28 psi	34 psi	40 psi
+GM	Celta VHC 1.0 165/70R13 79T 2003	31 psi	25 psi	31 psi	31 psi
+GM	Kadet GL 185/70R13 86T 1996	28 psi	29 psi	29 psi	30 psi
+GM	CORSA SUPER 175/70R13 82T 1997	28 psi	30 psi	25 psi	35 psi
+GM	Corsa Hatch 1.4 175/65R14 82T 2011	34 psi	32 psi	34 psi	32 psi
+GM	Agile LTZ 185/60R15 88H 2009	28 psi	26 psi	32 psi	30 psi
+GM	Agile LTZ 185/60R15 88H XL 2009	28 psi	26 psi	32 psi	30 psi
+GM	Onix 1.0 LT 185/70R14 88H 2013	35 psi	35 psi	35 psi	35 psi
+GM	Captiva Sport V6AWD 235/60R17 100H 2011	35 psi	35 psi	35 psi	35 psi
+Honda	Accord Todas	32 psi	32 psi	32 psi	38 psi
+Honda	Civic Coupe – Com 175/70R13	32 psi	32 psi	32 psi	32 psi
+Honda	Civic Coupe – Com 185/65R14	29 psi	29 psi	32 psi	32 psi
+Honda	Civic Crx	35 psi	33 psi	35 psi	33 psi
+Honda	Civic Hatch – Com 175/70R14	32 psi	32 psi	32 psi	32 psi
+Honda	Civic Hatch – Com 195/60R14	29 psi	29 psi	32 psi	32 psi
+Honda	Civic Hatch – Com 195/55R15	35 psi	33 psi	36 psi	39 psi
+Honda	Civic Sedan – Com 185/65R14	29 psi	29 psi	29 psi	29 psi
+Honda	Civic Sedan – Com 185/65R15	30 psi	30 psi	30 psi	30 psi
+Honda	Civic Sedan – Com 205/55R16	32 psi	32 psi	32 psi	32 psi
+Honda	Civic Sedan – Com 205/55R17	32 psi	32 psi	32 psi	32 psi
+Honda	Cl Todas	30 psi	30 psi	30 psi	30 psi
+Honda	CRV Todas	32 psi	30 psi	32 psi	30 psi
+Honda	Fit Todas	32 psi	30 psi	32 psi	30 psi
+Honda	Legend Todas	36 psi	35 psi	36 psi	35 psi
+Honda	Odyssey Todas	32 psi	32 psi	32 psi	32 psi
+Honda	Prelude Todas	32 psi	32 psi	32 psi	32 psi
+Honda	Civic LX 1.6 185/65R14 85T 1999	30 psi	29 psi	30 psi	29 psi
+Honda	City 1.5 16v 185/55R16 83H 2009	32 psi	30 psi	32 psi	32 psi
+Honda	New Fit LX 1.4 175/65R15 84T 2009	32 psi	30 psi	32 psi	30 psi
+Honda	Civic LX 1.7 185/65R15 88H 2002	30 psi	30 psi	30 psi	30 psi
+Honda	City DX 175/65R15 84H 2011	32 psi	30 psi	32 psi	30 psi
+Honda	Fit Ex 185/55R16 83V 2010	32 psi	30 psi	32 psi	30 psi
+HONDA	FIT LXL 1.4 175/65R14 82T 2005	32 psi	30 psi	32 psi	30 psi
+Honda	Fit EX 1.5 16V 175/65R14 82T 2008	32 psi	30 psi	32 psi	30 psi
+Honda	New Fit 1.5 Manual 185/55R16 83H 2010	32 psi	30 psi	32 psi	30 psi
+Honda	Accord LX 2.0 215/60R16 95H 2009	32 psi	30 psi	32 psi	30 psi
+Honda	Fit 1.5 EX 175/65R14 82T 2006	32 psi	30 psi	32 psi	30 psi
+Honda	City LX 1.5 Aut 175/65R15 84T 2012	30 psi	32 psi	32 psi	32 psi
+Honda	Fit LX 175/65R14 82T 2007	32 psi	30 psi	32 psi	30 psi
+Honda	City LX 175/65R15 84T 2011	32 psi	30 psi	32 psi	30 psi
+Honda	City LX 1.5 Automático 175/65R15 84H 2011	32 psi	30 psi	32 psi	32 psi
+Honda	City EX 185/55R16 83H 2011	32 psi	30 psi	32 psi	30 psi
+Honda	City Dx 175/65R15 84T 2011	32 psi	30 psi	32 psi	30 psi
+HONDA	Fit Ex 1.5 CVT 175/65R14 82T 2008	32 psi	30 psi	32 psi	30 psi
+Honda	Civic 1.7 LXL Automatico 185/65R15 88H 2003	30 psi	30 psi	30 psi	30 psi
+Honda	FIT EX 175/65R14 82T 2008	32 psi	30 psi	32 psi	30 psi
+Hyundai	Accent Todas	30 psi	30 psi	32 psi	32 psi
+Hyundai	Atos Todas	30 psi	30 psi	30 psi	30 psi
+Hyundai	Atos Prime Todas	30 psi	30 psi	30 psi	30 psi
+Hyundai	Equus Todas	30 psi	30 psi	30 psi	30 psi
+Hyundai	Centennial Todas	30 psi	30 psi	30 psi	30 psi
+Hyundai	Coupe Todas	30 psi	30 psi	30 psi	30 psi
+Hyundai	Elantra Todas	29 psi	29 psi	29 psi	29 psi
+Hyundai	Galloper Todas	26 psi	29 psi	26 psi	29 psi
+Hyundai	H-1 Com 195/70R14	36 psi	36 psi	36 psi	36 psi
+Hyundai	H-1 Com 205/70R15	32 psi	32 psi	32 psi	36 psi
+Hyundai	H100 Com 185R14	60 psi	60 psi	60 psi	60 psi
+Hyundai	H100 Com 195R14	40 psi	40 psi	40 psi	40 psi
+Hyundai	Hr Todas	40 psi	35 psi	40 psi	35 psi
+Hyundai	Matrix Todas	30 psi	30 psi	30 psi	30 psi
+Hyundai	Santa Fe Todas	30 psi	30 psi	30 psi	30 psi
+Hyundai	Sonata Equipada Com Aros 14	30 psi	30 psi	30 psi	30 psi
+Hyundai	Sonata Equipada Com Aros 15	30 psi	30 psi	30 psi	30 psi
+Hyundai	Sonata Equipada Com Aro 16	32 psi	32 psi	32 psi	32 psi
+Hyundai	Terracan Todas	29 psi	29 psi	29 psi	29 psi
+Hyundai	Trajet Todas	32 psi	32 psi	32 psi	32 psi
+Hyundai	Tucson Todas	30 psi	30 psi	30 psi	30 psi
+Hyundai	Elantra 1.8L 215/45R17 87H 2012	32 psi	32 psi	32 psi	32 psi
+Hyundai	i30 2.0 225/45R17 91V 2011	32 psi	32 psi	32 psi	32 psi
+Hyundai	Tucson 2.0 235/60R16 100H 2009	30 psi	30 psi	30 psi	30 psi
+Hyundai	HB20 Comfort Plus 175/70R14 84T 2012	32 psi	32 psi	32 psi	32 psi
+Hyundai	i30 GLS 2.0 225/45R17 91V 2012	32 psi	32 psi	35 psi	35 psi
+Hyundai	i30 CW 225/45R17 94W XL 2010	32 psi	32 psi	32 psi	32 psi
+Hyundai	i30 2.0 GLS Automatico 225/45R17 91V 2011	32 psi	32 psi	32 psi	32 psi
+Hyundai	Azera V6 235/55R17 98V 2011	30 psi	30 psi	32 psi	32 psi
+Hyundai	Sonata GLS 2.4 225/45R18 95V XL 2010	35 psi	35 psi	35 psi	35 psi
+Hyundai	HB20 Confort Plus 1.0 175/70R14 84T 2013	32 psi	32 psi	32 psi	32 psi
+Hyundai	HB20 Comfort 175/70R14 84T 2014	32 psi	32 psi	32 psi	32 psi
+Hyundai	ix35 2.0 225/55R18 98H 2011	32 psi	32 psi	33 psi	33 psi
+Hyundai	Hb20 Confort Style 175/70R14 84T 2014	32 psi	32 psi	32 psi	32 psi
+Hyundai	Hb20 Confort Style 1.0 175/70R14 84T 2014	32 psi	32 psi	34 psi	34 psi
+Iveco	Cityclass Todas	58 psi	76 psi	58 psi	76 psi
+Iveco	Daily Com 195/75R16	62 psi	51 psi	62 psi	51 psi
+Iveco	Daily Com 205/75R16	58 psi	76 psi	58 psi	76 psi
+Iveco	Daily Com 215/75R16	58 psi	76 psi	58 psi	76 psi
+Iveco	Daily Com 225/75R16	58 psi	76 psi	58 psi	76 psi
+Iveco	Daily Com 7.50R16	58 psi	76 psi	58 psi	76 psi
+Iveco	Maxivan Todas	62 psi	51 psi	62 psi	51 psi
+Iveco	Scudato Com 195/75R16	62 psi	51 psi	62 psi	51 psi
+Iveco	Scudato Com 225/75R16	58 psi	76 psi	58 psi	76 psi
+Jaguar	S-Type Todas	31 psi	38 psi	31 psi	38 psi
+Jaguar	X-Type Todas	34 psi	34 psi	34 psi	36 psi
+Jaguar	Xj Series 6.0	28 psi	28 psi	34 psi	34 psi
+Jaguar	Xj Series 4.0	26 psi	26 psi	32 psi	34 psi
+Jaguar	Xj Series 4.2	26 psi	26 psi	32 psi	34 psi
+Jaguar	Xk Series Todas	28 psi	28 psi	32 psi	34 psi
+Jeep	Cherokee Todas	26 psi	39 psi	35 psi	35 psi
+Jeep	Commander Todas	35 psi	35 psi	35 psi	35 psi
+Jeep	Grand Cherokee Todas	26 psi	39 psi	35 psi	35 psi
+Jeep	Wrangler Todas	28 psi	32 psi	28 psi	32 psi
+Jeep	Grand Cherokee 5.2 8V 4×4 225/70R16 1997	33 psi	33 psi	33 psi	33 psi
+Jpx	Montez Todas	26 psi	30 psi	32 psi	36 psi
+Kia	Besta Normal	38 psi	44 psi	44 psi	54 psi
+Kia	Besta Grand	49 psi	54 psi	54 psi	61 psi
+Kia	Bongo K2400	28 psi	44 psi	44 psi	54 psi
+Kia	Bongo K2700	49 psi	54 psi	54 psi	61 psi
+Kia	Bongo K3600 Rs	49 psi	54 psi	54 psi	61 psi
+Kia	Bongo K2700 Rd	40 psi	35 psi	40 psi	35 psi
+Kia	Carens Todas	30 psi	30 psi	30 psi	30 psi
+Kia	Carnival Todas	35 psi	35 psi	35 psi	35 psi
+Kia	Cerato Todas	30 psi	30 psi	30 psi	30 psi
+Kia	Ceres Todas	38 psi	44 psi	44 psi	54 psi
+Kia	Clarus Todas	30 psi	30 psi	30 psi	30 psi
+Kia	Magentis Com Aros 15	30 psi	30 psi	30 psi	30 psi
+Kia	Magentis Com Aros 15	30 psi	30 psi	30 psi	30 psi
+Kia	Magentis Com Aro 16	32 psi	32 psi	32 psi	32 psi
+Kia	Opirus Todas	32 psi	32 psi	32 psi	32 psi
+Kia	Picanto Todas	30 psi	30 psi	30 psi	30 psi
+Kia	Rio Todas	28 psi	28 psi	31 psi	34 psi
+Kia	Sephia Todas	28 psi	31 psi	31 psi	31 psi
+Kia	Shuma Todas	28 psi	31 psi	31 psi	31 psi
+Kia	Sorento Todas	30 psi	30 psi	30 psi	30 psi
+Kia	Sportage Todas	26 psi	26 psi	26 psi	26 psi
+Kia	Picanto Ex 165/60R14 75T 2010	32 psi	32 psi	32 psi	32 psi
+Kia	Picanto 1.0 8V EX FLEX AUTO III 165/60R14 75H 2012	33 psi	31 psi	36 psi	36 psi
+Lada	Laika Todas	25 psi	28 psi	28 psi	30 psi
+Lada	Niva Todas	26 psi	25 psi	26 psi	25 psi
+Lada	Samara Todas	27 psi	27 psi	28 psi	28 psi
+Lamborghini	Diablo Todas	41 psi	39 psi	41 psi	39 psi
+Land Rover	Defender Todas	28 psi	36 psi	28 psi	36 psi
+Land Rover	Discovery Todas	33 psi	36 psi	36 psi	42 psi
+Land Rover	Freelander Todas	30 psi	30 psi	32 psi	30 psi
+Land Rover	Range Rover Todas	33 psi	36 psi	36 psi	42 psi
+Land Rover	Range Rover Sport Todas	33 psi	36 psi	36 psi	42 psi
+Land Rover	Range Rover Sport Supercharger 275/40R20 106Y	38 psi	42 psi	38 psi	42 psi
+Lexus	Es300 Todas	33 psi	36 psi	36 psi	39 psi
+Lexus	Es330 Todas	33 psi	36 psi	36 psi	39 psi
+Lexus	Ls400 Todas	33 psi	36 psi	36 psi	39 psi
+Lexus	Ls430 Todas	33 psi	36 psi	36 psi	39 psi
+Lotus	Elise Todas	29 psi	29 psi	29 psi	19 psi
+Lotus	Esprit Todas	29 psi	30 psi	29 psi	30 psi
+Maserati	3200 Gt Todas	28 psi	30 psi	28 psi	30 psi
+Maserati	Coupe Todas	28 psi	30 psi	28 psi	30 psi
+Maserati	Gran Sport Todas	28 psi	30 psi	28 psi	30 psi
+Maserati	Spyder Todas	28 psi	30 psi	28 psi	30 psi
+Maserati	Quattroporte Com Aro 17	34 psi	34 psi	40 psi	46 psi
+Maserati	Quattroporte Com Aro 18	36 psi	36 psi	40 psi	46 psi
+Mazda	626 Com Medidas 185/65R14	29 psi	26 psi	29 psi	29 psi
+Mazda	626 Com Medidas 195/60R15	29 psi	26 psi	29 psi	29 psi
+Mazda	626 Com 205/55R15	32 psi	32 psi	32 psi	32 psi
+Mazda	B-Series Todas	26 psi	35 psi	26 psi	50 psi
+Mazda	Millenia Todas	32 psi	29 psi	32 psi	32 psi
+Mazda	Mpv Todas	35 psi	35 psi	35 psi	35 psi
+Mazda	Mx-3 Todas	28 psi	28 psi	28 psi	28 psi
+Mazda	Mx-5 Todas	26 psi	26 psi	26 psi	26 psi
+Mazda	Protege Todas	32 psi	32 psi	32 psi	32 psi
+Mazda	Xedos 9 Todas	32 psi	29 psi	32 psi	32 psi
+Mercedes	Classe A Com Aro 15	29 psi	29 psi	32 psi	35 psi
+Mercedes	Classe A Com Aro 16	26 psi	26 psi	32 psi	38 psi
+Mercedes	Classe B Todas	30 psi	30 psi	32 psi	38 psi
+Mercedes	Classe C Hatch	29 psi	32 psi	32 psi	38 psi
+Mercedes	Classe C Sedan – Exceto Amg	30 psi	33 psi	33 psi	41 psi
+Mercedes	Classe C 32 Amg Sedan	36 psi	36 psi	36 psi	44 psi
+Mercedes	Classe C 36 Amg Sedan	35 psi	36 psi	36 psi	46 psi
+Mercedes	Classe C 43 Amg Sedan	36 psi	36 psi	36 psi	44 psi
+Mercedes	Classe C 55 Amg Sedan	36 psi	36 psi	36 psi	44 psi
+Mercedes	Classe C Touring – Exceto Amg	28 psi	36 psi	32 psi	45 psi
+Mercedes	Classe C Amg Touring	36 psi	36 psi	36 psi	44 psi
+Mercedes	Classe Cl Todas	29 psi	32 psi	36 psi	39 psi
+Mercedes	Classe E Cabriolet	36 psi	36 psi	36 psi	46 psi
+Mercedes	Classe E Sedan – Exceto Amg	35 psi	36 psi	36 psi	46 psi
+Mercedes	Classe E Amg Sedan	29 psi	32 psi	30 psi	38 psi
+Mercedes	Classe E Todas Touring – Exceto Amg	36 psi	36 psi	39 psi	39 psi
+Mercedes	Classe E Amg Touring	35 psi	35 psi	35 psi	35 psi
+Mercedes	Classe G Todas	32 psi	32 psi	34 psi	39 psi
+Mercedes	Classe M Todas	30 psi	34 psi	34 psi	36 psi
+Mercedes	Classe R R 350	35 psi	36 psi	36 psi	44 psi
+Mercedes	Classe S 280	38 psi	38 psi	39 psi	44 psi
+Mercedes	Classe S 320	38 psi	38 psi	39 psi	44 psi
+Mercedes	Classe S 350	38 psi	38 psi	39 psi	44 psi
+Mercedes	Classe S 500	38 psi	38 psi	39 psi	44 psi
+Mercedes	Classe S 55 Amg	38 psi	38 psi	39 psi	44 psi
+Mercedes	Classe S 600	38 psi	38 psi	39 psi	44 psi
+Mercedes	Classe S 65Amg	38 psi	38 psi	39 psi	44 psi
+Mercedes	Clk Todas	30 psi	33 psi	33 psi	41 psi
+Mercedes	Cls Todas	36 psi	38 psi	38 psi	41 psi
+Mercedes	Mb180 Todas	50 psi	57 psi	65 psi	70 psi
+Mercedes	Sl 280	29 psi	33 psi	29 psi	39 psi
+Mercedes	Sl 320	29 psi	33 psi	29 psi	39 psi
+Mercedes	Sl 350	30 psi	33 psi	30 psi	41 psi
+Mercedes	Sl 500 55Amg	30 psi	33 psi	30 psi	41 psi
+Mercedes	Sl 600	30 psi	33 psi	30 psi	41 psi
+Mercedes	Slk Todas	30 psi	33 psi	30 psi	33 psi
+Mercedes	Slr Todas	30 psi	32 psi	30 psi	32 psi
+Mercedes	Sprinter Todas	33 psi	44 psi	44 psi	65 psi
+Mitsubishi	3000 Gt Todas	32 psi	29 psi	32 psi	29 psi
+Mitsubishi	Airtrek Todas	32 psi	32 psi	32 psi	32 psi
+Mitsubishi	Colt Todas	30 psi	29 psi	30 psi	29 psi
+Mitsubishi	Eclipse Todas	28 psi	26 psi	28 psi	26 psi
+Mitsubishi	Eclipse Todas	28 psi	28 psi	28 psi	28 psi
+Mitsubishi	Expo Todas	26 psi	26 psi	26 psi	26 psi
+Mitsubishi	Galant Todas	32 psi	29 psi	33 psi	30 psi
+Mitsubishi	Grandis Todas	30 psi	30 psi	30 psi	30 psi
+Mitsubishi	L200 Com Aro 15	29 psi	29 psi	30 psi	32 psi
+Mitsubishi	L200 Com Aro 16 – Exceto 265/70R16	30 psi	30 psi	32 psi	36 psi
+Mitsubishi	L200 Com 265/70R16	26 psi	26 psi	26 psi	33 psi
+Mitsubishi	L300 Todas	30 psi	30 psi	32 psi	36 psi
+Mitsubishi	Lancer Todas – Exceto Evolution	30 psi	29 psi	30 psi	29 psi
+Mitsubishi	Lancer Evolution	32 psi	29 psi	32 psi	29 psi
+Mitsubishi	Outlander Todas	26 psi	26 psi	26 psi	29 psi
+Mitsubishi	Pajero Todas – Exceto 205/70R16	29 psi	29 psi	29 psi	29 psi
+Mitsubishi	Pajero Com 205/70R16	26 psi	29 psi	26 psi	29 psi
+Mitsubishi	Pajero Io Todas	26 psi	26 psi	26 psi	26 psi
+Mitsubishi	Pajero Sport Com 265/70R15	26 psi	26 psi	26 psi	29 psi
+Mitsubishi	Pajero Sport Com 265/70R16	26 psi	26 psi	26 psi	33 psi
+Mitsubishi	Pajero Tr4 Todas	26 psi	26 psi	26 psi	26 psi
+Mitsubishi	Space Wagon Todas	26 psi	26 psi	26 psi	26 psi
+Mitsubishi	L200 Sport HPE P265/70R16 112T 2005	26 psi	26 psi	26 psi	40 psi
+Mitsubishi	L200 Triton HPE 3.5 Flex v6 P265/70R16 112H 2011	26 psi	28 psi	26 psi	44 psi
+Mitsubishi	Airtrek 2.4 Mivec 215/55R17 94V 2008	32 psi	32 psi	39 psi	39 psi
+Nissan	350Z Todas	35 psi	35 psi	35 psi	35 psi
+Nissan	D21 Todas	29 psi	35 psi	29 psi	35 psi
+Nissan	D22 Todas	39 psi	35 psi	29 psi	29 psi
+Nissan	Frontier Todas	30 psi	30 psi	30 psi	33 psi
+Nissan	Maxima Todas	32 psi	39 psi	32 psi	39 psi
+Nissan	Murano Todas	33 psi	33 psi	33 psi	36 psi
+Nissan	Pathfinder Equipada Com Aros 15	26 psi	26 psi	26 psi	26 psi
+Nissan	Pathfinder Equipada Com Aros 16	26 psi	26 psi	26 psi	26 psi
+Nissan	Pathfinder Com Aro 17	35 psi	35 psi	35 psi	35 psi
+Nissan	Primera Todas	32 psi	30 psi	32 psi	30 psi
+Nissan	Sentra Com 175/70R13	32 psi	30 psi	32 psi	30 psi
+Nissan	Sentra Com 195/60R15	26 psi	23 psi	26 psi	23 psi
+Nissan	Terrano Ii Todas	30 psi	30 psi	30 psi	33 psi
+Nissan	Tiida Todas	32 psi	30 psi	32 psi	30 psi
+Nissan	Xterra Todas	29 psi	29 psi	29 psi	32 psi
+Nissan	X-Trail Todas	29 psi	29 psi	29 psi	29 psi
+Nissan	Sentra 2.0 205/55R16 91V	33 psi	33 psi	33 psi	33 psi
+Nissan	March Todos 165/70R14 81T 2011	32 psi	32 psi	32 psi	44 psi
+Nissan	March 1.6S 165/70R14 81T 2013	32 psi	32 psi	32 psi	44 psi
+Nissan	Livina 1.8 SL 185/65R15 88H 2009	33 psi	30 psi	33 psi	30 psi
+Nissan	March 1.6 16V 175/60R15 81H 2012	32 psi	32 psi	32 psi	44 psi
+Nissan	Tiida Sedan 1.8 Flex 185/65R15 88H 2011	33 psi	30 psi	33 psi	30 psi
+Nissan	Sentra 2.0 SL 205/55R16 91V 2008	30 psi	30 psi	33 psi	33 psi
+Nissan	Sentra 2.0 SL P205/55R16 89H 2008	30 psi	30 psi	33 psi	33 psi
+Nissan	Tiida SL 16V Auto 1.8 185/65R15 88H 2008	33 psi	30 psi	33 psi	30 psi
+Nissan	March SV 1.6 175/60R15 81H 2012	32 psi	32 psi	32 psi	44 psi
+Nissan	March 1.6 SV 175/60R15 81H 2012	32 psi	32 psi	32 psi	44 psi
+Nissan	March 1.6SV 175/60R15 82H 2013	32 psi	32 psi	32 psi	44 psi
+Nissan	Micra 1.2 165/70R14 81S 2010	32 psi	32 psi	32 psi	44 psi
+Nissan	March 1.6 SR 175/60R15 81H 2014	32 psi	32 psi	32 psi	44 psi
+Nissan	Tiida Hatch SL 1.8 Manual 195/55R16 86H 2011	33 psi	30 psi	33 psi	30 psi
+Peugeot	106 Todas	29 psi	29 psi	29 psi	29 psi
+Peugeot	205 Todas	28 psi	30 psi	28 psi	30 psi
+Peugeot	206 Cabriolet	36 psi	36 psi	36 psi	44 psi
+Peugeot	206 Hatch	35 psi	35 psi	35 psi	44 psi
+Peugeot	206 Sw Todas	35 psi	35 psi	35 psi	44 psi
+Peugeot	206 Sw Escapade Todas	33 psi	33 psi	33 psi	44 psi
+Peugeot	306 Cabriolet	32 psi	32 psi	32 psi	32 psi
+Peugeot	306 Hatch – Com 175/65R14	29 psi	30 psi	29 psi	30 psi
+Peugeot	306 Hatch – Com 185/60R14	32 psi	32 psi	32 psi	32 psi
+Peugeot	306 Hatch – Com 185/60R15	32 psi	32 psi	32 psi	32 psi
+Peugeot	306 Hatch – Com 185/65R14	32 psi	32 psi	32 psi	32 psi
+Peugeot	306 Hatch – Com 195/55R15	33 psi	33 psi	33 psi	33 psi
+Peugeot	306 Sedan	32 psi	32 psi	32 psi	32 psi
+Peugeot	306 Wagon	32 psi	32 psi	32 psi	32 psi
+Peugeot	307 Cabriolet	35 psi	35 psi	35 psi	39 psi
+Peugeot	307 Hatch	35 psi	35 psi	35 psi	44 psi
+Peugeot	307 Sedan	33 psi	32 psi	33 psi	46 psi
+Peugeot	307 Sw Todas	36 psi	36 psi	36 psi	46 psi
+Peugeot	405 Todas	30 psi	30 psi	30 psi	30 psi
+Peugeot	406 Coupe	35 psi	35 psi	35 psi	35 psi
+Peugeot	406 Sedan – 2.0	33 psi	33 psi	33 psi	33 psi
+Peugeot	406 Wagon – 2.0	33 psi	33 psi	33 psi	33 psi
+Peugeot	406 Sedan – 3.0	33 psi	33 psi	33 psi	36 psi
+Peugeot	407 Coupe	36 psi	33 psi	36 psi	36 psi
+Peugeot	407 Sedan – 2.0	36 psi	33 psi	36 psi	41 psi
+Peugeot	407 Sedan – 3.0	38 psi	38 psi	38 psi	41 psi
+Peugeot	407 Sw Wagon – 2.0	36 psi	33 psi	36 psi	41 psi
+Peugeot	407 Sw Wagon – 3.0	38 psi	38 psi	38 psi	41 psi
+Peugeot	504 Todas	23 psi	35 psi	26 psi	65 psi
+Peugeot	605 Todas	33 psi	33 psi	33 psi	33 psi
+Peugeot	607 Todas	33 psi	33 psi	33 psi	33 psi
+Peugeot	806 Todas	33 psi	33 psi	33 psi	33 psi
+Peugeot	807 Todas	33 psi	33 psi	33 psi	33 psi
+Peugeot	Boxer Com Aro 15	59 psi	65 psi	59 psi	65 psi
+Peugeot	Boxer Com Aro 16	65 psi	69 psi	65 psi	69 psi
+Peugeot	Partner Todas	41 psi	49 psi	41 psi	49 psi
+Peugeot	207 SW 185/65R14	32 psi	32 psi	32 psi	44 psi
+Peugeot	207 207 XS 1.6 185/60R15 84H 2010	35 psi	35 psi	35 psi	44 psi
+Peugeot	206 1.4 175/65R14 82H	35 psi	35 psi	35 psi	38 psi
+Peugeot	207 HB XR 1.4 185/65R14 86H 2011	32 psi	32 psi	32 psi	44 psi
+Peugeot	207 HB XR 1.4 185/65R14 86H 2011	32 psi	32 psi	32 psi	44 psi
+Peugeot	406 3.0 205/60R15 91V 2001	35 psi	35 psi	35 psi	35 psi
+Peugeot	408 2.0 205/55R16 91V 2011	32 psi	32 psi	33 psi	36 psi
+Peugeot	206 SW 1.4 PRESENCE 175/65R14 82H 2006	35 psi	35 psi	35 psi	44 psi
+Peugeot	207 XR 1.4 185/65R14 86H 2010	33 psi	35 psi	33 psi	46 psi
+Peugeot	408 Allure 202/55R16 91V 2012	32 psi	32 psi	34 psi	34 psi
+Peugeot	307 Sedan 2.0 16v Feline 195/65R15 91H 2007	31 psi	32 psi	32 psi	35 psi
+Peugeot	307 Sedan Feline 205/55R16 91V 2008	33 psi	33 psi	33 psi	46 psi
+Peugeot	307 1.6 Presence Pack 16v Flex 4p Manual 195/65R15 91V 2008	35 psi	35 psi	35 psi	44 psi
+Porsche	911 Todas	36 psi	44 psi	36 psi	44 psi
+Porsche	Boxster Todas	29 psi	36 psi	29 psi	36 psi
+Porsche	Carrera Gt Todas	30 psi	32 psi	30 psi	32 psi
+Porsche	Cayenne Todas	38 psi	49 psi	38 psi	49 psi
+Porsche	Cayman Todas	34 psi	40 psi	34 psi	40 psi
+Renault	19 Equipada Com Aros 14	29 psi	29 psi	32 psi	32 psi
+Renault	19 Equipada Com Aros 15	29 psi	29 psi	32 psi	32 psi
+Renault	19 Com Aro 13	23 psi	26 psi	26 psi	29 psi
+Renault	21 Todas	28 psi	29 psi	30 psi	32 psi
+Renault	Clio Com 155/80R13	28 psi	28 psi	32 psi	33 psi
+Renault	Clio Com 165/70R14 ate 2002	28 psi	28 psi	31 psi	30 psi
+Renault	Clio Com 165/70R14	29 psi	29 psi	32 psi	30 psi
+Renault	Clio Com 175/65R14 ate 2002	31 psi	28 psi	33 psi	30 psi
+Renault	Clio Com 175/65R14 desde 2003	32 psi	30 psi	33 psi	39 psi
+Renault	Clio Com 185/55R15	32 psi	39 psi	33 psi	30 psi
+Renault	Clio Com 185/60R14	32 psi	39 psi	33 psi	30 psi
+Renault	Clio Com 185/65R14	31 psi	28 psi	33 psi	30 psi
+Renault	Espace Todas	35 psi	35 psi	35 psi	35 psi
+Renault	Xpress Todas	26 psi	26 psi	31 psi	43 psi
+Renault	Grand Espace Todas	35 psi	35 psi	35 psi	35 psi
+Renault	Kangoo Todas	32 psi	29 psi	33 psi	34 psi
+Renault	Kangoo Express Todas	32 psi	29 psi	33 psi	34 psi
+Renault	Laguna 2	30 psi	30 psi	33 psi	33 psi
+Renault	Laguna 3	33 psi	30 psi	36 psi	33 psi
+Renault	Logan Todas	32 psi	29 psi	33 psi	30 psi
+Renault	Master Todas	60 psi	68 psi	60 psi	68 psi
+Renault	Mégane Todas	28 psi	28 psi	31 psi	32 psi
+Renault	Safrane Todas	33 psi	30 psi	36 psi	33 psi
+Renault	Scénic Todas	31 psi	28 psi	34 psi	35 psi
+Renault	Trafic Todas	48 psi	55 psi	60 psi	65 psi
+Renault	Twingo Todas	28 psi	28 psi	33 psi	28 psi
+Renault	Mégane Grand Tour 205/55R16	32 psi	29 psi	33 psi	29 psi
+Renault	Symbol Privilege 1.6 185/55R15 82V 2011	32 psi	29 psi	0 psi	0 psi
+Renault	Duster 1.6 16V 215/65R16 98T 2011	29 psi	29 psi	29 psi	29 psi
+Renault	Duster 1.6 16V 215/65R16 98T 2012	29 psi	29 psi	29 psi	29 psi
+Renault	Fluence Dynamic 205/60R16 92H 2012	32 psi	30 psi	35 psi	32 psi
+Renault	Logan 1.6 8V 185/65R15 88T 2008	32 psi	29 psi	33 psi	30 psi
+Renault	Fluence 2.0 16v 205/60R16 2013	33 psi	31 psi	33 psi	31 psi
+Renault	Logan 1.6 8v Hi-torque 185/70R14 88H 2008	29 psi	32 psi	30 psi	32 psi
+Renault	Gran Tour 2.0 16v 205/55R16 91V 2008	32 psi	29 psi	33 psi	29 psi
+Renault	Duster Dinamic 215/65R16 98S 2013	29 psi	29 psi	29 psi	29 psi
+Renault	Symbol Top 185/55R15 82H 2012	30 psi	32 psi	32 psi	32 psi
+Renault	Symbol Top (1.6) 185/55R15 82H 2012	32 psi	29 psi	34 psi	31 psi
+Renault	Sandero Privilege 1.6 16v 185/65R15 88T 2008	29 psi	32 psi	29 psi	32 psi
+Renault	Fluence Dyn 2.0 205/60R16 92H 2011	35 psi	32 psi	35 psi	32 psi
+Renault	Logan 1.6 185/65R15 88T 2009	29 psi	32 psi	32 psi	34 psi
+Santana	Jalapão Todas	28 psi	36 psi	28 psi	36 psi
+Seat	Cordoba Todas	32 psi	28 psi	33 psi	35 psi
+Seat	Ibiza Com 175/70R13	30 psi	26 psi	32 psi	35 psi
+Seat	Ibiza Com 185/60R14	32 psi	28 psi	33 psi	35 psi
+Seat	Inca Todas	27 psi	27 psi	28 psi	43 psi
+Seat	Leon Todas	28 psi	28 psi	32 psi	40 psi
+Seat	Toledo Todas	29 psi	32 psi	29 psi	40 psi
+Seat	Ibiza 1.6 TDI 185/60R15 84H 2011	29 psi	28 psi	36 psi	36 psi
+SMART	FORTWO CABRIO 175/55R15 77T 2009	29 psi	36 psi	29 psi	36 psi
+Ssangyong	Chairman Todas	30 psi	30 psi	35 psi	40 psi
+Ssangyong	Istana Todas	36 psi	42 psi	42 psi	52 psi
+Ssangyong	Korando Todas	30 psi	30 psi	30 psi	30 psi
+Ssangyong	Musso Todas	30 psi	30 psi	30 psi	30 psi
+Ssangyong	Musso Sports Todas	30 psi	30 psi	30 psi	30 psi
+Ssangyong	Rexton Todas	30 psi	30 psi	30 psi	30 psi
+Subaru	Forester Todas	29 psi	28 psi	29 psi	28 psi
+Subaru	Impreza Todas Exceto Turbo	32 psi	29 psi	32 psi	29 psi
+Subaru	Impreza Turbo	33 psi	32 psi	33 psi	32 psi
+Subaru	Legacy Todas ate 2004	30 psi	29 psi	30 psi	33 psi
+Subaru	Legacy Todas desde 2005	33 psi	32 psi	33 psi	32 psi
+Subaru	Outback Todas	31 psi	29 psi	31 psi	29 psi
+Suzuki	Baleno Todas	26 psi	26 psi	30 psi	33 psi
+Suzuki	Grand Vitara 3 Portas	27 psi	27 psi	35 psi	35 psi
+Suzuki	Grand Vitara 5 Portas	28 psi	28 psi	36 psi	36 psi
+Suzuki	Grand Vitara Xl-7 Todas	28 psi	28 psi	36 psi	36 psi
+Suzuki	Ignis Todas	28 psi	28 psi	30 psi	30 psi
+Suzuki	Jimny Todas	20 psi	20 psi	20 psi	20 psi
+Suzuki	Samurai Todas	20 psi	20 psi	20 psi	20 psi
+Suzuki	Swift Todas	29 psi	29 psi	29 psi	29 psi
+Suzuki	Vitara Todas	20 psi	20 psi	20 psi	20 psi
+Suzuki	Wagon R+ Todas	29 psi	29 psi	29 psi	29 psi
+Suzuki	Vitara 1.6 JLX P205/75R15 1994	23 psi	23 psi	23 psi	23 psi
+Toyota	Bandeirante Todas	35 psi	35 psi	35 psi	40 psi
+Toyota	Camry Todas	31 psi	31 psi	32 psi	32 psi
+Toyota	Corolla Todas	30 psi	30 psi	30 psi	30 psi
+Toyota	Corolla Fielder Todas	30 psi	30 psi	30 psi	30 psi
+Toyota	Corona Todas	32 psi	32 psi	32 psi	32 psi
+Toyota	Hilux 2001 4X2 ate 2004	28 psi	34 psi	28 psi	34 psi
+Toyota	Hilux 1996 4X4 ate 2004	29 psi	32 psi	29 psi	32 psi
+Toyota	Hilux Com 255/70R15	29 psi	29 psi	29 psi	36 psi
+Toyota	Hilux Com 205/70R16	29 psi	29 psi	29 psi	36 psi
+Toyota	Hilux Todas ate 2004	29 psi	29 psi	29 psi	36 psi
+Toyota	Hilux Sw4 Todas desde 2005	29 psi	32 psi	29 psi	32 psi
+Toyota	Hilux Sw4 Todas	30 psi	30 psi	30 psi	30 psi
+Toyota	Land Cruiser Todas	29 psi	29 psi	29 psi	29 psi
+Toyota	Paseo Todas	26 psi	26 psi	26 psi	26 psi
+Toyota	Previa Todas	35 psi	35 psi	35 psi	35 psi
+Toyota	Prius Todas	30 psi	30 psi	30 psi	30 psi
+Toyota	Rav4 Todas 215/70R16 2005	29 psi	29 psi	29 psi	29 psi
+Toyota	Corolla XEI 195/60R15 88H 2006	30 psi	30 psi	30 psi	30 psi
+Toyota	Corolla XEI 195/60R15 88H 2005	30 psi	30 psi	30 psi	30 psi
+Toyota	Hilux Hilux SRV 3.0 P265/70R16 112S 2010	29 psi	29 psi	29 psi	29 psi
+Toyota	Corolla XEI 1.8 MT 185/65R14 88H 1999	30 psi	30 psi	30 psi	30 psi
+Troller	Troller Todas	30 psi	30 psi	30 psi	30 psi
+Volkswagen	Amarok Todas P245/70R16 107T	29 psi	29 psi	0 psi	0 psi
+Volkswagen	Bora Todas	33 psi	44 psi	44 psi	65 psi
+Volkswagen	Caravelle Todas	29 psi	29 psi	32 psi	38 psi
+Volkswagen	Crossfox Todas	33 psi	44 psi	44 psi	65 psi
+Volkswagen	Eurova Todas	31 psi	27 psi	33 psi	39 psi
+Volkswagen	Fox Todas	17 psi	22 psi	20 psi	28 psi
+Volkswagen	Fusca Com 185/70R14	16 psi	20 psi	17 psi	24 psi
+Volkswagen	Fusca Com 5.90X14	24 psi	26 psi	24 psi	30 psi
+Volkswagen	Gol Com 145/80R13	26 psi	26 psi	26 psi	30 psi
+Volkswagen	Gol 1.0 – Com 175/70R13	27 psi	28 psi	28 psi	32 psi
+Volkswagen	Gol 1.6 – Com 175/70R13	28 psi	28 psi	29 psi	32 psi
+Volkswagen	Gol 1.8 – Com 175/70R13	28 psi	28 psi	29 psi	32 psi
+Volkswagen	Gol 2.0 – Com 175/70R13	28 psi	28 psi	29 psi	32 psi
+Volkswagen	Gol Com Aro 14	32 psi	30 psi	33 psi	35 psi
+Volkswagen	Gol Com Aro 15	35 psi	32 psi	38 psi	43 psi
+Volkswagen	Golf Cabriolet	35 psi	32 psi	38 psi	43 psi
+Volkswagen	Golf Com 175/80R14	28 psi	28 psi	32 psi	44 psi
+Volkswagen	Golf 1.8 Exceto Gti – Com 185/60R14 ate 1998	30 psi	28 psi	35 psi	38 psi
+Volkswagen	Golf 2.0 Exceto Gti – Com 185/60R14 ate 1998	30 psi	28 psi	35 psi	38 psi
+Volkswagen	Golf Gti – Com 185/60R14 ate 1998	33 psi	30 psi	35 psi	38 psi
+Volkswagen	Golf Com Aro 15	28 psi	28 psi	30 psi	38 psi
+Volkswagen	Golf Com Aro 16	28 psi	28 psi	30 psi	38 psi
+Volkswagen	Golf Com Aro 17	38 psi	35 psi	40 psi	44 psi
+Volkswagen	Jetta Todas	28 psi	28 psi	38 psi	41 psi
+Volkswagen	Kombi Com 185/80R14	29 psi	29 psi	34 psi	34 psi
+Volkswagen	Kombi Com 7.35X14	28 psi	28 psi	33 psi	33 psi
+Volkswagen	Logus Com Aro 13	26 psi	26 psi	28 psi	34 psi
+Volkswagen	Logus Com Aro 14	29 psi	27 psi	30 psi	36 psi
+Volkswagen	Parati Com 175/70R13	26 psi	29 psi	27 psi	34 psi
+Volkswagen	Parati Com 175/70R14	26 psi	29 psi	27 psi	34 psi
+Volkswagen	Parati Com 185/60R14	27 psi	29 psi	28 psi	34 psi
+Volkswagen	Parati Com Aro 15	27 psi	29 psi	28 psi	34 psi
+Volkswagen	Passat 2.0 – Com 195/60R14 ate 1997	32 psi	32 psi	35 psi	44 psi
+Volkswagen	Passat 1.8 Com 195/65R15 ate 2004	29 psi	32 psi	29 psi	40 psi
+Volkswagen	Passat 1.8 Com 205/60R15 ate 2004	29 psi	32 psi	29 psi	40 psi
+Volkswagen	Passat 2.0 Com 195/65R15 ate 2004	29 psi	32 psi	29 psi	40 psi
+Volkswagen	Passat 2.0 Com 205/60R15 ate 2004	29 psi	32 psi	29 psi	40 psi
+Volkswagen	Passat 1.8 Turbo – Com 195/65R15 ate 2004	33 psi	36 psi	33 psi	44 psi
+Volkswagen	Passat 1.8 Turbo – Com 205/60R16 ate 2004	33 psi	36 psi	33 psi	44 psi
+Volkswagen	Passat 2.8 V6 – Com 195/65R15 ate 2004	33 psi	36 psi	33 psi	44 psi
+Volkswagen	Passat 2.8 V6 – Com 205/60R16 ate 2004	33 psi	36 psi	33 psi	44 psi
+Volkswagen	Passat 2.8 VR6 – Com 205/50R15 Ate 1997	36 psi	36 psi	39 psi	48 psi
+Volkswagen	Passat 2.0 – Com 215/55R16	33 psi	36 psi	33 psi	44 psi
+Volkswagen	Passat 2.0 Turbo – Com 235/45R17	33 psi	36 psi	33 psi	44 psi
+Volkswagen	Passat 2.0 – Com 195/60R14 ate 1997	33 psi	33 psi	33 psi	44 psi
+Volkswagen	Passat Variant 2.0 – Com 195/60R14 ate 1997	32 psi	32 psi	35 psi	41 psi
+Volkswagen	Passat Variant 1.8 – Com 195/65R15 ate 2004	32 psi	32 psi	35 psi	41 psi
+Volkswagen	Passat Variant 1.8 – Com 205/60R15 ate 2004	32 psi	32 psi	35 psi	41 psi
+Volkswagen	Passat Variant 2.0 – Com 195/65R15	32 psi	32 psi	35 psi	41 psi
+Volkswagen	Passat Variant 2.0 – Com 205/60R15	32 psi	32 psi	35 psi	41 psi
+Volkswagen	Passat Variant 1.8 Turbo – Com 195/65R15 ate 2004	36 psi	36 psi	36 psi	48 psi
+Volkswagen	Passat Variant 1.8 Turbo – Com 205/60R16 ate 2004	36 psi	36 psi	36 psi	48 psi
+Volkswagen	Passat Variant 2.8 V6 – Com 195/65R15 ate 2004	36 psi	36 psi	36 psi	48 psi
+Volkswagen	Passat Variant 2.8 V6 – Com 205/60R16 ate 2004	36 psi	36 psi	36 psi	48 psi
+Volkswagen	Passat Variant 2.8 Vr6 – Com 205/50R15 ate 1997	36 psi	36 psi	36 psi	48 psi
+Volkswagen	Passat Variant 2.0 – Com 215/55R16	36 psi	36 psi	39 psi	48 psi
+Volkswagen	Passat Variant 2.0 Turbo – Com 235/45R17	36 psi	36 psi	39 psi	48 psi
+Volkswagen	Pointer Todas	30 psi	29 psi	33 psi	39 psi
+Volkswagen	Polo Classic 1.8 185/60R14 1999	32 psi	28 psi	33 psi	35 psi
+Volkswagen	Polo Hatch – Com 195/55R15	30 psi	33 psi	31 psi	34 psi
+Volkswagen	Polo Sedan – Com 185/60R14	32 psi	28 psi	33 psi	35 psi
+Volkswagen	Polo Sedan – Com 195/55R15	28 psi	31 psi	30 psi	37 psi
+Volkswagen	Quantum Todas	26 psi	28 psi	28 psi	34 psi
+Volkswagen	Santana Todas	26 psi	28 psi	28 psi	34 psi
+Volkswagen	Saveiro Com Aro 13	30 psi	30 psi	30 psi	40 psi
+Volkswagen	Saveiro Com Aro 14	27 psi	27 psi	27 psi	43 psi
+Volkswagen	Saveiro Com Aro 15	27 psi	28 psi	27 psi	43 psi
+Volkswagen	Spacefox Todas	28 psi	30 psi	34 psi	40 psi
+Volkswagen	Touareg Todas	32 psi	32 psi	32 psi	38 psi
+Volkswagen	Van Todas	27 psi	27 psi	28 psi	43 psi
+Volkswagen	Voyage Com 175/70R13	24 psi	26 psi	24 psi	32 psi
+Volkswagen	Voyage Com 185/65R13	26 psi	26 psi	26 psi	32 psi
+Volkswagen	Voyage 1.0 175/70R14 2009	30 psi	31 psi	32 psi	39 psi
+Volkswagen	Fusca Fusca 165/80R15 87T	17 psi	17 psi	20 psi	20 psi
+Volkswagen	Polo Polo Hatch – Com 185/60R14	28 psi	28 psi	31 psi	37 psi
+Volkswagen	Gol G5 1.0 175/70R14 2010	30 psi	31 psi	32 psi	39 psi
+Volkswagen	Fox 1.6 195/55R15 2010	29 psi	28 psi	31 psi	36 psi
+Volkswagen	Passat 2.0 8V 195/60R14 1996	32 psi	32 psi	35 psi	39 psi
+Volkswagen	Gol Power 1.6 195/55R15 85H 2011	29 psi	29 psi	31 psi	35 psi
+Volkswagen	Gol G5 Power 1.6 195/55R15 85H	29 psi	29 psi	31 psi	35 psi
+Volkswagen	Beetle Todas	28 psi	28 psi	38 psi	41 psi
+Volkswagen	Saveiro 1.6 CE 175/70R14 88T 2012	29 psi	31 psi	31 psi	43 psi
+Volkswagen	Saveiro 1.6 CE 205/60R15 91H 2012	30 psi	41 psi	30 psi	39 psi
+Volkswagen	Logus Com Aro 13 175/70R13 82T	28 psi	26 psi	30 psi	36 psi
+Volkswagen	Golf Glx 2.0 185/60R14 82H 1995	33 psi	30 psi	35 psi	38 psi
+Volkswagen	Quantum 2.0 175/70R14 84T 1990	30 psi	31 psi	32 psi	39 psi
+Volkswagen	Fox 1.0 195/55R15 85H 2009	27 psi	27 psi	28 psi	33 psi
+Volkswagen	Polo Hatch 1.6 195/55R15 85H 2008	29 psi	29 psi	29 psi	37 psi
+Volkswagen	Voyage Comfortline 195/55R15 85H 2011	29 psi	31 psi	31 psi	36 psi
+Volkswagen	POLO 1.6 185/60R14 82H 2003	29 psi	29 psi	30 psi	30 psi
+Volkswagen	Golf 2.0 195/65R15 91V 2010	28 psi	28 psi	30 psi	38 psi
+Volkswagen	Voyage Comfortline 1.6 195/55R15 85V 2012	29 psi	31 psi	31 psi	36 psi
+Volkswagen	GOL PLUS 1.0 145/80R13 75T 2001	28 psi	30 psi	30 psi	34 psi
+Volkswagen	Voyage GL 1.8 4P 175/70R13 82T 1995	24 psi	26 psi	24 psi	30 psi
+Volkswagen	Polo 2.0 GT 195/55R15 85H 2011	29 psi	29 psi	30 psi	37 psi
+Volkswagen	Saveiro Cross 1.6 205/60R15 2011	30 psi	30 psi	31 psi	39 psi
+Volkswagen	Jetta TSI Tiptronic 225/45R17 94W XL 2012	30 psi	28 psi	30 psi	32 psi
+Volkswagen	Gol 1000 145/80R13 82T 1994	26 psi	28 psi	28 psi	32 psi
+Volkswagen	Bora Tiptronic 205/55R16 91W 2010	33 psi	44 psi	44 psi	65 psi
+Volkswagen	Gol Power 195/55R15 85H 2010	28 psi	28 psi	28 psi	30 psi
+Volkswagen	Gol GL 1.8 175/70R13 82T 1990	24 psi	26 psi	24 psi	30 psi
+Volkswagen	Santana 2.0 185/65R14 86T 1996	26 psi	28 psi	28 psi	34 psi
+Volkswagen	Amarok CD 255/60R18 112T 2011	29 psi	29 psi	29 psi	44 psi
+Volkswagen	Gol Trend 1.6 175/70R14 84T 2012	30 psi	31 psi	32 psi	39 psi
+Volkswagen	Tiguan 2.0 TSi 235/50R18 91V 2011	32 psi	35 psi	36 psi	39 psi
+Volkswagen	Spacefox Sportline 195/55R15 84V 2010	28 psi	34 psi	32 psi	40 psi
+Volkswagen	Fox Plus 1.0 5P 175/65R14 82H 2006	29 psi	28 psi	31 psi	36 psi
+Volkswagen	Gol CLI 1.6 175/70R13 82T 1995	26 psi	30 psi	26 psi	30 psi
+VOLKSWAGEN	FUSCA / ITAMAR 1600 165R15 86T 1994	17 psi	22 psi	20 psi	85 psi
+Volkswagen	Up! Move 175/70R14 84T 2014/2015	29 psi	26 psi	32 psi	36 psi
+Volvo	460 Todas	30 psi	27 psi	30 psi	30 psi
+Volvo	850 2.4 – Com 195/60R15	32 psi	29 psi	33 psi	36 psi
+Volvo	850 2.4 – Com 205/55R15	32 psi	29 psi	33 psi	36 psi
+Volvo	850 2.3 Turbo R – Com 205/45R17	41 psi	39 psi	42 psi	48 psi
+Volvo	850 2.3 Turbo T – Com 205/55R15	32 psi	30 psi	35 psi	41 psi
+Volvo	960 Todas	28 psi	28 psi	30 psi	38 psi
+Volvo	C70 Todas	32 psi	30 psi	33 psi	33 psi
+Volvo	S40 Todas	32 psi	30 psi	33 psi	32 psi
+Volvo	S60 Todas	32 psi	30 psi	33 psi	33 psi
+Volvo	S70 Com Aro 15	32 psi	29 psi	33 psi	36 psi
+Volvo	S70 Equipada Com Aros 16	32 psi	30 psi	33 psi	33 psi
+Volvo	S70 Equipada Com Aros 17	32 psi	30 psi	33 psi	33 psi
+Volvo	S80 Todas	29 psi	29 psi	39 psi	39 psi
+Volvo	V40 Todas	32 psi	30 psi	33 psi	33 psi
+Volvo	V50 Todas	32 psi	30 psi	33 psi	33 psi
+Volvo	V70 Todas	32 psi	29 psi	33 psi	36 psi
+Volvo	V70 Xc Todas	29 psi	29 psi	34 psi	38 psi
+Volvo	Xc70 Todas	29 psi	29 psi	34 psi	38 psi
+Volvo	Xc90 Todas	32 psi	32 psi	36 psi	39 psi
+Volvo	XC60 Todos 255 /65R17	35 psi	35 psi	35 psi	35 psi
+Volvo	C30 T5 205/50R17 93V 2009	35 psi	32 psi	36 psi	36 psi
+ 

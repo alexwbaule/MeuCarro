@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="empty">0</string>
+    <string name="app_name">1</string>
+    <string name="sel_comb">2</string>
+    <string name="sel_abast">3</string>
+    <string name="sel_oil">4</string>
+    <string name="sel_veic">5</string>
+    <string name="sel_ajuda">6</string>
+    <string name="config">7</string>
+    <string name="sel_manut">8</string>
+    <string name="sel_report">9</string>
+    <string name="navigation_drawer_open">10</string>
+    <string name="navigation_drawer_close">11</string>
+    <string name="action_add_veic">12</string>
+    <string name="action_add_oil">13</string>
+    <string name="action_add_abst">14</string>
+    <string name="action_settings">15</string>
+    <string name="help_here_calculo">16</string>
+    <string name="help_here_abastecimento">17</string>
+    <string name="help_here_veiculo">18</string>
+    <string name="help_here_oil">19</string>
+    <string name="selecione_carro">20</string>
+    <string name="selecione_oleo">21</string>
+    <string name="selecione_fuel">22</string>
+    <string name="desfazer">23</string>
+    <string name="gasolina">24</string>
+    <string name="alcool">25</string>
+    <string name="gnv">26</string>
+    <string name="diesel">27</string>
+    <string name="intervalo_valido">28</string>
+    <string name="apartir_valido">29</string>
+    <string name="km_hint_anterior">30</string>
+    <string name="km_atual">31</string>
+    <string name="selecione_um_combustivel">32</string>
+    <string name="o_volume_nao_pode">33</string>
+    <string name="o_volume_nao_pode_max">34</string>
+    <string name="km_atual_maior">35</string>
+    <string name="km_atual_menor">36</string>
+    <string name="inativo">37</string>
+    <string name="ativo">38</string>
+    <string name="salvar">39</string>
+    <string name="deletar">40</string>
+    <string name="set_as_default">41</string>
+    <string name="editar">42</string>
+    <string name="combustivel">43</string>
+    <string name="autonomia">44</string>
+    <string name="custo">45</string>
+    <string name="dash">46</string>
+    <string name="custo_km">47</string>
+    <string name="tanque_cheio">48</string>
+    <string name="date_hint">49</string>
+    <string name="data_do_abastecimento">50</string>
+    <string name="odometro_atual">51</string>
+    <string name="volume_abastecido">52</string>
+    <string name="combustivel_utilizado">53</string>
+    <string name="data_troca_de_oleo">54</string>
+    <string name="odometro_na_proxima_troca">55</string>
+    <string name="oleo_utilizado">56</string>
+    <string name="volume_do_oleo">57</string>
+    <string name="filtro">58</string>
+    <string name="nome_do_carro">59</string>
+    <string name="combustiveis_e_consumo">60</string>
+    <string name="volume_do_combustivel">61</string>
+    <string name="Volume_do_combustivel">62</string>
+    <string name="Volume_do_gnv">63</string>
+    <string name="tipo_de_veiculo">64</string>
+    <string name="oleo">65</string>
+    <string name="odometro_proxima_troca">66</string>
+    <string name="volume">67</string>
+    <string name="consumo">68</string>
+    <string name="distancia_percorrida">69</string>
+    <string name="simbolo_moeda">70</string>
+    <string name="zerado_valor">71</string>
+    <string name="nome_modelo_existente">72</string>
+    <string name="consumo_existente">73</string>
+    <string name="nenhum">74</string>
+    <string name="erro_na_data_inserida">75</string>
+    <string name="insira_um_veiculo">76</string>
+    <string name="registro_existente">77</string>
+    <string name="erro_atualizar">78</string>
+    <string name="erro_deletar">79</string>
+    <string name="carro_sport">80</string>
+    <string name="carro_sedan">81</string>
+    <string name="carro_hatch">82</string>
+    <string name="carro_sw">83</string>
+    <string name="carro_suv">84</string>
+    <string name="carro_conversivel">85</string>
+    <string name="carro_utilitario">86</string>
+    <string name="carro_moto_sport">87</string>
+    <string name="carro_chooper">88</string>
+    <string name="carro_scooter">89</string>
+    <string name="carro_cross">90</string>
+    <string name="primeiro_consumo_nao_vazio">91</string>
+    <string name="segundo_consumo_nao_vazio">92</string>
+    <string name="terceiro_consumo_nao_vazio">93</string>
+    <string name="quarto_consumo_nao_vazio">94</string>
+    <string name="carro_nao_vazio">95</string>
+    <string name="selecione_ao_menos_um_combustivel">96</string>
+    <string name="indique_volume_tanque">97</string>
+    <string name="indique_volume_gnv">98</string>
+    <string name="nome_do_oleo_vazio">99</string>
+    <string name="km_atual_vazio">100</string>
+    <string name="km_proxima_troca_vazio">101</string>
+    <string name="km_anterior_proximo_oil">102</string>
+    <string name="proxima_troca_medida">103</string>
+    <string-array name="consumo_comb_entry_kml">
+        <item>104</item>
+        <item>105</item>
+    </string-array>
+    <string-array name="consumo_comb_entry_kmg">
+        <item>106</item>
+        <item>107</item>
+    </string-array>
+    <string-array name="consumo_comb_entry_mig">
+        <item>108</item>
+        <item>109</item>
+    </string-array>
+    <string-array name="consumo_comb_entry_mil">
+        <item>110</item>
+        <item>111</item>
+    </string-array>
+    <string-array name="consumo_gnv_entry_kmm">
+        <item>112</item>
+        <item>113</item>
+    </string-array>
+    <string-array name="consumo_gnv_entry_kmy">
+        <item>114</item>
+        <item>115</item>
+    </string-array>
+    <string-array name="consumo_gnv_entry_miy">
+        <item>116</item>
+        <item>117</item>
+    </string-array>
+    <string-array name="consumo_gnv_entry_mim">
+        <item>118</item>
+        <item>119</item>
+    </string-array>
+    <string-array name="consumo_values">
+        <item>120</item>
+        <item>121</item>
+    </string-array>
+    <string-array name="custo_name">
+        <item>122</item>
+        <item>123</item>
+    </string-array>
+    <string-array name="custo_values">
+        <item>124</item>
+        <item>125</item>
+    </string-array>
+    <string-array name="list_combustiveis">
+        <item>126</item>
+        <item>127</item>
+        <item>128</item>
+        <item>129</item>
+        <item>130</item>
+    </string-array>
+    <string-array name="medida_entry">
+        <item>131</item>
+        <item>132</item>
+    </string-array>
+    <string-array name="medida_values">
+        <item>133</item>
+        <item>134</item>
+    </string-array>
+    <string-array name="vol_tanque_entry">
+        <item>135</item>
+        <item>136</item>
+        <item>137</item>
+    </string-array>
+    <string-array name="vol_tanque_values">
+        <item>138</item>
+        <item>139</item>
+        <item>140</item>
+    </string-array>
+    <string-array name="vol_gnv_entry">
+        <item>141</item>
+        <item>142</item>
+    </string-array>
+    <string-array name="vol_gnv_values">
+        <item>143</item>
+        <item>144</item>
+    </string-array>
+    <string-array name="limit_select">
+        <item>145</item>
+        <item>146</item>
+        <item>147</item>
+        <item>148</item>
+        <item>149</item>
+    </string-array>
+    <string-array name="limit_select_values">
+        <item>150</item>
+        <item>151</item>
+        <item>152</item>
+        <item>153</item>
+        <item>154</item>
+    </string-array>
+    <string name="about_text">155</string>
+    <string name="feedback_txt">156</string>
+    <string name="email" formatted="false">157</string>
+    <string name="default_m3">158</string>
+    <string name="default_pol3">159</string>
+    <string name="default_lts">160</string>
+    <string name="default_gaus">161</string>
+    <string name="default_gauk">162</string>
+    <string name="default_un_volume_tanque">163</string>
+    <string name="default_vol_tq_gnv">164</string>
+    <string name="default_afer_calc">165</string>
+    <string name="default_afer_calc_gnv">166</string>
+    <string name="default_custo">167</string>
+    <string name="default_select">168</string>
+    <string name="default_distancia">169</string>
+    <string name="unidade_combustivel">170</string>
+    <string name="unidade_gnv">171</string>
+    <string name="unidade_odometro">172</string>
+    <string name="vol_tanque">173</string>
+    <string name="afer_distancia">174</string>
+    <string name="afer_calculo">175</string>
+    <string name="vol_gnv">176</string>
+    <string name="type_calc">177</string>
+    <string name="calc_abast">178</string>
+    <string name="calc_sum_consumo">179</string>
+    <string name="calculo_media_consumo_full">180</string>
+    <string name="calculo_media_consumo_5">181</string>
+    <string name="calculo_media_consumo_10">182</string>
+    <string name="calculo_media_consumo_15">183</string>
+    <string name="calculo_media_consumo_20">184</string>
+    <string name="calculo_type_autonomia">185</string>
+    <string name="calculo_type_custo">186</string>
+    <string name="vol_medido_m3">187</string>
+    <string name="consumo_kml">188</string>
+    <string name="consumo_kmg">189</string>
+    <string name="consumo_mil">190</string>
+    <string name="consumo_mig">191</string>
+    <string name="consumo_l100k">192</string>
+    <string name="consumo_l100m">193</string>
+    <string name="consumo_g100k">194</string>
+    <string name="consumo_g100m">195</string>
+    <string name="consumo_kmm">196</string>
+    <string name="consumo_kmy">197</string>
+    <string name="consumo_mim">198</string>
+    <string name="consumo_miy">199</string>
+    <string name="consumo_m100k">200</string>
+    <string name="consumo_m100m">201</string>
+    <string name="consumo_y100k">202</string>
+    <string name="consumo_y100m">203</string>
+    <string name="vol_tanque_lts">204</string>
+    <string name="vol_tanque_gus">205</string>
+    <string name="vol_tanque_guk">206</string>
+    <string name="vol_gnv_mt">207</string>
+    <string name="vol_gnv_jd">208</string>
+    <string name="medida_km">209</string>
+    <string name="medida_mi">210</string>
+    <string name="galoes">211</string>
+    <string name="litros">212</string>
+    <string name="mcubicos">213</string>
+    <string name="jcubicas">214</string>
+    <string name="milhas_simbolo">215</string>
+    <string name="km_simbolo">216</string>
+    <string name="yd_100_mi_simbolo">217</string>
+    <string name="yd_100_km_simbolo">218</string>
+    <string name="m_100_m_simbolo">219</string>
+    <string name="m_100_km_simbolo">220</string>
+    <string name="mi_yd_simbolo">221</string>
+    <string name="km_yd_simbolo">222</string>
+    <string name="mi_m_simbolo">223</string>
+    <string name="km_m_simbolo">224</string>
+    <string name="g_100_mi_simbolo">225</string>
+    <string name="g_100_km_simbolo">226</string>
+    <string name="g_100_m_simbolo">227</string>
+    <string name="l_100_mi_simbolo">228</string>
+    <string name="l_100_km_simbolo">229</string>
+    <string name="mpg_simbolo">230</string>
+    <string name="km_g_simbolo">231</string>
+    <string name="mi_l_simbolo">232</string>
+    <string name="km_l_simbolo">233</string>
+    <string name="tipo_de_calculo">234</string>
+    <string name="voce_na_tem_veiculos">235</string>
+    <string name="vc_nao_tem_abastecimentos">236</string>
+    <string name="voce_nao_tem_troca_de_oleo">237</string>
+    <string name="vc_nao_tem_veiculo_calculo">238</string>
+    <string name="nenhum_veiculo_cadastrado">239</string>
+    <string name="carregando">240</string>
+    <string name="novo_abastecimento">241</string>
+    <string name="novo_veiculo">242</string>
+    <string name="nova_troca_oleo">243</string>
+    <string name="editar_abastecimento">244</string>
+    <string name="editar_troca_oleo">245</string>
+    <string name="editar_veiculo">246</string>
+    <string name="data">247</string>
+    <string name="hora">248</string>
+    <string name="nome_modelo_oleo">249</string>
+    <string name="nome_marca_oleo">250</string>
+    <string name="vc_nao_tem_veiculos_p_oleo">251</string>
+    <string name="vc_nao_tem_veiculos_p_fuel">252</string>
+    <string name="volume_capacity">253</string>
+    <plurals name="selected_cars">
+        <item quantity="one">254</item>
+        <item quantity="other">255</item>
+    </plurals>
+    <plurals name="selected_oils">
+        <item quantity="one">256</item>
+        <item quantity="other">257</item>
+    </plurals>
+    <plurals name="selected_fuel">
+        <item quantity="one">258</item>
+        <item quantity="other">259</item>
+    </plurals>
+    <plurals name="itens_excluidos">
+        <item quantity="one">260</item>
+        <item quantity="other">261</item>
+    </plurals>
+</resources>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/listspace"
+    card_view:cardCornerRadius="2dp"
+    card_view:cardElevation="6dp">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:padding="@dimen/listspace">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            style="@style/AppTheme.MyListSeparator">
+
+            <TextView
+                android:id="@+id/oil_date"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="start"
+                android:textStyle="bold"
+                android:typeface="sans" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/oil_time"
+                android:layout_weight="1"
+                android:gravity="end"
+                android:textStyle="bold"
+                android:typeface="sans"
+                android:paddingRight="@dimen/padding_margin_top" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/padding_margin_top">
+
+            <com.google.android.material.floatingactionbutton.FloatingActionButton
+                android:id="@+id/oil_type"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_margin="@dimen/listspace"
+                android:src="@drawable/ic_menu_car_oil"
+                app:fabSize="mini"
+                android:tint="@color/mini_fab_tint"
+                app:backgroundTint="@color/mini_fab"
+                android:clickable="true" />
+
+            <TextView
+                android:id="@+id/pricetotalkm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="@dimen/listspace"
+                android:textStyle="bold"
+                android:paddingRight="@dimen/padding_margin_top" />
+
+            <TextView
+                android:id="@+id/cost_label_total"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="false"
+                android:layout_alignParentStart="false"
+                android:layout_marginTop="@dimen/listspace"
+                android:text="@string/oleo"
+                android:textStyle="italic"
+                android:layout_toEndOf="@+id/oil_type"
+                android:layout_toRightOf="@+id/oil_type" />
+
+            <TextView
+                android:id="@+id/oil_label_km"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="false"
+                android:layout_alignParentStart="false"
+                android:layout_below="@+id/cost_label_total"
+                android:text="@string/odometro_atual"
+                android:textStyle="italic"
+                android:layout_toRightOf="@+id/oil_type" />
+
+            <TextView
+                android:id="@+id/oil_km"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/pricetotalkm"
+                android:paddingRight="@dimen/padding_margin_top" />
+
+            <TextView
+                android:id="@+id/oil_label_nextkm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="false"
+                android:layout_alignParentStart="false"
+                android:layout_below="@+id/oil_label_km"
+                android:text="@string/odometro_proxima_troca"
+                android:textStyle="italic"
+                android:layout_toRightOf="@+id/oil_type" />
+
+            <TextView
+                android:id="@+id/oil_nextkm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/oil_km"
+                android:paddingRight="@dimen/padding_margin_top" />
+
+            <TextView
+                android:id="@+id/cost_label_byday"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="false"
+                android:layout_alignParentStart="false"
+                android:layout_below="@+id/oil_label_nextkm"
+                android:text="@string/volume"
+                android:textStyle="italic"
+                android:layout_toRightOf="@+id/oil_type" />
+
+            <TextView
+                android:id="@+id/pricebyday"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/oil_nextkm"
+                android:paddingRight="@dimen/padding_margin_top" />
+
+            <TextView
+                android:id="@+id/cost_label_bykm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="false"
+                android:layout_alignParentStart="false"
+                android:layout_below="@+id/oil_label_price"
+                android:text="@string/filtro"
+                android:textStyle="italic"
+                android:layout_toRightOf="@+id/oil_type"
+                android:layout_alignParentTop="false" />
+
+            <ImageView
+                android:id="@+id/pricebykm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignEnd="@+id/pricebyday"
+                android:layout_alignRight="@+id/oil_price"
+                android:layout_below="@+id/oil_price"
+                android:src="@drawable/ic_stat_filter_on"
+                android:paddingRight="@dimen/padding_margin_top" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/valor_total"
+                android:id="@+id/oil_label_price"
+                android:layout_below="@+id/cost_label_byday"
+                android:layout_toRightOf="@+id/oil_type"
+                android:layout_toEndOf="@+id/oil_type" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/simbolo_moeda"
+                android:id="@+id/oil_price"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignRight="@+id/pricebyday"
+                android:layout_below="@+id/pricebyday"
+                android:paddingRight="@dimen/padding_margin_top" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

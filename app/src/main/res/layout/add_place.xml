@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="280dp">
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/form_spinner_label"
+            android:layout_marginTop="@dimen/form_top_bottom_margin"
+            android:text="@string/posto_map"
+            android:textColor="@color/primary_dark"
+            android:textSize="@dimen/tiny_text_size" />
+
+        <com.google.android.gms.maps.MapView
+            android:layout_marginLeft="@dimen/form_left_right_margin"
+            android:layout_marginRight="@dimen/form_left_right_margin"
+            android:layout_marginTop="@dimen/form_left_right_margin"
+            android:layout_marginBottom="@dimen/form_top_bottom_margin"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/gasmap" />
+    </LinearLayout>
+
+</LinearLayout>

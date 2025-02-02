@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    card_view:cardCornerRadius="@dimen/cardradius"
+    card_view:cardElevation="@dimen/cardelevetion">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/spin_car_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="@dimen/listspace"
+            android:layout_marginTop="@dimen/padding_margin_top"
+            android:text="@string/combustivel"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/result_combustivel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="@dimen/listspace"
+            android:layout_marginTop="@dimen/padding_margin_top"
+            android:text="@string/dash"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/cost_label_total"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/spin_car_type"
+            android:layout_marginLeft="@dimen/listspace"
+            android:layout_marginTop="@dimen/padding_margin_top"
+            android:text="@string/autonomia"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/fuel_km_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/result_combustivel"
+            android:layout_marginRight="@dimen/listspace"
+            android:layout_marginTop="@dimen/padding_margin_top"
+            android:text="@string/dash"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/label_custo_km"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/cost_label_total"
+            android:layout_marginLeft="@dimen/listspace"
+            android:layout_marginTop="@dimen/padding_margin_top"
+            android:text="@string/custo_km"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/fuel_volum_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/fuel_km_label"
+            android:layout_marginRight="@dimen/listspace"
+            android:layout_marginTop="@dimen/padding_margin_top"
+            android:text="@string/dash"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/txt_result_vol_tanque"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/label_custo_km"
+            android:layout_marginLeft="@dimen/listspace"
+            android:layout_marginTop="@dimen/padding_margin_top"
+            android:text="@string/tanque_cheio"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/result_tq_cheio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/fuel_volum_label"
+            android:layout_marginRight="@dimen/listspace"
+            android:layout_marginTop="@dimen/padding_margin_top"
+            android:text="@string/dash"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="@string/tipo_de_calculo"
+            android:id="@+id/textView3"
+            android:layout_below="@+id/txt_result_vol_tanque"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="@dimen/listspace"
+            android:layout_marginTop="@dimen/padding_margin_top"
+            android:layout_marginBottom="@dimen/padding_margin_top" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="@string/dash"
+            android:id="@+id/result_calc_type"
+            android:layout_alignBottom="@+id/textView3"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="@dimen/padding_margin_top"
+            android:layout_marginRight="@dimen/listspace"
+            android:layout_marginBottom="@dimen/padding_margin_top" />
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

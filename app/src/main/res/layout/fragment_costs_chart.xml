@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/card_view"
+        android:layout_margin="@dimen/listspace"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        card_view:cardCornerRadius="6dp"
+        card_view:cardElevation="@dimen/cardelevetion">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="@dimen/listspace"
+            android:orientation="horizontal">
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/image_bla"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="4dp"
+                    android:paddingRight="4dp"
+                    app:srcCompat="@drawable/ic_menu_money" />
+
+
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/cost_label_total"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Total"
+                    android:textStyle="italic" />
+
+                <TextView
+                    android:id="@+id/cost_label_byday"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/cost_label_total"
+                    android:layout_alignStart="@+id/cost_label_total"
+                    android:text="Por dia"
+                    android:textStyle="italic" />
+
+                <TextView
+                    android:id="@+id/cost_label_bykm"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/cost_label_byday"
+                    android:layout_alignStart="@+id/cost_label_byday"
+                    android:text="Por km"
+                    android:textStyle="italic" />
+
+                <TextView
+                    android:id="@+id/pricetotalkm"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/cost_label_total"
+                    android:layout_alignParentEnd="true"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/pricebyday"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/cost_label_byday"
+                    android:layout_alignParentEnd="true"
+                    android:textStyle="bold"/>
+
+                <TextView
+                    android:id="@+id/pricebykm"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/cost_label_bykm"
+                    android:layout_alignParentEnd="true"
+                    android:textStyle="bold"/>
+
+            </RelativeLayout>
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/card_view2"
+        android:layout_margin="@dimen/listspace"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        card_view:cardCornerRadius="6dp"
+        card_view:cardElevation="@dimen/cardelevetion">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="@dimen/listspace"
+            android:orientation="horizontal">
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/cost_fuel_img"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="4dp"
+                    android:paddingRight="4dp"
+                    app:srcCompat="@drawable/ic_menu_car_fuel" />
+
+
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/cost_label_volume"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Total"
+                    android:textStyle="italic" />
+
+                <TextView
+                    android:id="@+id/cost_label_mediageral"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/cost_label_volume"
+                    android:layout_alignStart="@+id/cost_label_volume"
+                    android:text="Média"
+                    android:textStyle="italic" />
+
+                <TextView
+                    android:id="@+id/cost_label_totalkm"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/cost_label_mediageral"
+                    android:layout_alignStart="@+id/cost_label_mediageral"
+                    android:text="@string/Distancia"
+                    android:textStyle="italic" />
+
+                <TextView
+                    android:id="@+id/cost_volume"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/cost_label_volume"
+                    android:layout_alignParentEnd="true"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/cost_mediageral"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/cost_label_mediageral"
+                    android:layout_alignParentEnd="true"
+                    android:textStyle="bold"/>
+
+                <TextView
+                    android:id="@+id/cost_totalkm"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/cost_label_totalkm"
+                    android:layout_alignParentEnd="true"
+                    android:textStyle="bold"/>
+
+            </RelativeLayout>
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

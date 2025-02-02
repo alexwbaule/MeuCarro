@@ -1,0 +1,262 @@
+""
+Meu Carro
+Calculadora Flex
+Abastecimentos
+Óleo
+Veículos
+Ajuda
+Configurações
+Manutenção
+Relatórios
+Abrir menu de navegação
+Fechar menu de navegação
+Incluir veículo
+Incluir troca de óleo
+Incluir abastecimento
+Configurações
+Insira um veículo para fazer o calculo de combustivel.
+Insira um abastecimento para melhorar o calculo de consumo
+Insira um veículo para calcular o consumo
+Insira uma troca de óleo para calcular a próxima troca
+Selecione os carros
+Selecione as trocas de óleo
+Selecione os abastecimentos
+Desfazer
+Gasolina
+Álcool
+GNV
+Diesel
+O intervalo válido de %1$s é %2$d à %3$d
+O %1$s válido é a partir de %2$d
+%1$s anterior %2$d
+%1$s atual
+Selecione um combustivel
+O volume não pode ser zero (%1$d)!
+O volume não pode ser maior que %1$s (%2$s)!
+O odômetro atual (%1$d) não pode ser igual ou MAIOR que o último (%2$d)!
+A odômetro atual (%1$d) não pode ser igual ou MENOR que o último (%2$d)!"
+Inativo
+Ativo
+Salvar
+Deletar
+Setar como Default
+Editar
+Combustível
+Autonomia
+Custo
+-
+Custo KM
+Tanque cheio
+12/07/2014
+Data do abastecimento
+Odômetro atual
+volume abastecido
+combustível utilizado
+data da troca de óleo
+odômetro na próxima troca
+óleo utilizado
+volume de óleo
+Filtro
+Nome do carro
+combustiveis e consumo
+volume do combustível
+Volume do combustível
+Volume do GNV
+tipo de veiculo
+Óleo
+Odômetro próxima troca
+Volume
+Consumo
+Distância percorrida
+R$ 
+0,00
+"Esse veículo já existe"
+Esse consumo já existe
+Nenhum
+Erro na data inserida
+Insira um veículo
+Registro existente
+Erro ao atualizar
+Erro ao deletar
+Sport
+Sedan
+Hatch
+SW
+SUV
+Conversível
+Utilitário
+Moto Sport
+Chooper
+Scooter
+Cross
+O primeiro consumo selecionado não pode ser vazio
+O segundo consumo selecionado não pode ser vazio
+O terceiro consumo selecionado não pode ser vazio
+O quarto consumo selecionado não pode ser vazio
+O Nome do veículo não pode ser vazio
+Selecione ao menos um combustivel
+Indique o volume do tanque de combustivel
+Indique o volume do cilindro de GNV
+O nome do óleo não pode ser vazio
+A quilômetragem atual não pode ser zero
+A quilômetragem da próxima troca não pode ser vazia
+%1$s anterior %2$d ( próxima com %2$d)
+%1$s próxima troca
+km/L
+L/100km
+km/G
+G/100km
+mi/G
+G/100mi
+mi/L
+L/100mi
+km/m³
+m³/100km
+km/yd³
+yd³/100km
+mi/yd³
+yd³/100mi
+mi/m³
+m³/100mi
+mpv
+v100m
+Autonomia
+Custo
+autonomia
+custo
+Nenhum
+Gasolina
+Alcool
+GNV
+Diesel
+Quilômetros
+Milhas
+km
+mi
+Litros
+Galões US
+Galões UK
+LTS
+GUS
+GUK
+Metros cúbicos (m³)
+Jardas cúbicas (yd³)
+MTS
+YAD
+Todos os abastacimentos
+5 abastacimentos
+10 abastacimentos
+15 abastacimentos
+20 abastacimentos
+0
+5
+10
+15
+20
+O app Meu carro, conhecido anteriormente como Flex Profile foi atualizado para resolver alguns problemas referente ao modo antigo            de seleção de números.\n            Esse aplicativo te ajudará a decidir qual o combustível mais vantajoso na hora do abastecimento.\n            Esse calculo é feito pelo custo do KM/L.\n            Para o mesmo funcionar, os abastecimento deverão ser de \"completar o tanque até enche-lo\", ele necessita disso para o calculo correto do consumo.\n            Caso tenha migrado do Flex Profile, o modo de funcionamento é o mesmo, porém com melhorias na inserção dos dados e também o novo menu "Óleo", onde o usuário poderá            cadastrar as trocas de óleo dos veículos.\n            Para o usuário novo, é necessário inserir um veiculo para que o calculo seja feito.\n            Isso pode ser feito adicionando um novo veículo ao aplicativo, puxando o menu lateral para a direita e indo até a opção Veículos.\n            Dentro dessa opção o usuário poderá ver uma lista com os veículos cadastrados, e selecionando o botão de \"+\" poderá adicionar um veículo.\n            Em adicionar veículo, informe o nome do carro, os combustíveis e seus consumos e a capacidade do tanque do mesmo em litros (caso tenha GNV, adicione também a metragem cúbica do cilindro).\n            Com o carro cadastrado, informe o valor do litro de cada combustível que o calculo é feito automaticamente ao modificar o preço dos mesmos.\n
+Caso encontre algum bug ou tenha alguma sugestão, envie um email para
+mailto:alexwbaule@gmail.com?subject=Meu%20Carro%20App
+m³
+yd³
+L
+G
+G
+LTS
+MTS
+mpv
+mpv
+custo
+0
+km
+Combustivel
+GNV
+Odômetro
+Tanque
+Odometro
+Consumo
+Cilindro
+Calculo
+Abastecimento
+Média Geral
+A média geral de consumo será por todos abastecimentos
+A média geral de consumo será pelos 5 últimos abastecimentos
+A média geral de consumo será pelos 10 últimos abastecimentos
+A média geral de consumo será pelos 15 últimos abastecimentos
+A média geral de consumo será pelos 20 últimos abastecimentos
+O calculo será feito pela autonomia
+O calculo será feito pelo custo
+O volume será medido em m³
+O consumo será medido em km/L
+O consumo será medido em km/G
+O consumo será medido em mi/L
+O consumo será medido em mi/G
+O consumo será medido em L/100km
+O consumo será medido em L/100mi
+O consumo será medido em G/100km
+O consumo será medido em G/100mi
+O consumo será medido em km/m³
+O consumo será medido em km/yd³
+O consumo será medido em mi/m³
+O consumo será medido em mi/yd³
+O consumo será medido em m³/100km
+O consumo será medido em m³/100mi
+O consumo será medido em yd³/100km
+O consumo será medido em yd³/100mi
+O volume será medido em Litros
+O volume será medido em Galões US
+O volume será medido em Galões UK
+O volume será medido em m³
+O volume será medido em yd³
+O Odômetro está em Quilômetros (KM)
+O Odômetro está em Milhas (Mi)
+Galões
+Litros
+Metros cubicos
+Jardas cubicas
+MI
+KM
+yd³/100mi
+yd³/100km
+m³/100mi
+m³/100km
+mi/yd³
+km/yd³
+mi/m³
+km/m³
+G/100mi
+G/100km
+G/100mi
+L/100mi
+L/100km
+MPG
+km/G
+mi/L
+km/L
+Tipo de calculo
+Você não tem veículos.
+Você não tem abastecimentos.
+Você não tem trocas de óleo.
+Você não tem veiculos, para fazer um cálculo.
+Nenhum Veículo Cadastrado
+Carregando...
+Novo abastecimento
+Novo veículo
+Nova troca de óleo
+Editar abastecimento
+Editar troca de óleo
+Editar veículo
+Data
+Hora
+Nome/marca do óleo
+Nome/Marca do óleo
+Você não tem veículos para ter trocas de óleo.
+Você não tem veículos para ter abastecimentos.
+Capacidade máximo de %1$s %2$s
+1 carro selecionado
+%d carros selecionados
+1 óleo selecionado
+%d óleo selecionados
+1 abastecimento selecionado
+%d abastecimentos selecionados
+1 excluída
+%d excluídas

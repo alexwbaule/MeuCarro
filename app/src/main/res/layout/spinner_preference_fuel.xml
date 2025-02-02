@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="@dimen/spin_size"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/comb_spinner">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/spin_icon_comb"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/ic_stat_gasolina"
+        android:layout_marginLeft="@dimen/padding_margin_top"
+        android:layout_marginRight="@dimen/padding_margin_top"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:id="@+id/spin_car_type"
+        android:layout_toRightOf="@+id/spin_icon_comb"
+        android:layout_toEndOf="@+id/spin_icon_comb"
+        android:layout_marginLeft="@dimen/padding_margin_top"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:gravity="center_vertical" />
+
+</RelativeLayout>

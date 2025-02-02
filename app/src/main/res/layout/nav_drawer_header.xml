@@ -1,0 +1,94 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/containerNavDrawerListViewHeader"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/userBackground_layout_height"
+    android:layout_gravity="start">
+
+    <ImageView
+        android:id="@+id/imgUserBackground"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/userBackground_layout_height"
+        android:contentDescription="@string/empty"
+        android:scaleType="fitXY"
+        android:src="@drawable/nav_drawer_header" />
+
+    <com.makeramen.roundedimageview.RoundedImageView
+        android:id="@+id/imgUserPhoto"
+        android:layout_width="@dimen/userPhoto_layout_width"
+        android:layout_height="@dimen/userPhoto_layout_height"
+        android:src="@drawable/ic_header_none"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="@dimen/userPhoto_layout_marginLeft"
+        app:riv_corner_radius="35dip"
+        app:riv_border_width="2dip"
+        app:riv_border_color="@color/white"
+        app:riv_mutate_background="true"
+        app:riv_tile_mode="clamp"
+        app:riv_oval="true"
+        android:layout_marginTop="40dp" />
+
+    <LinearLayout
+        android:id="@+id/userData"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/userData_layout_height"
+        android:layout_alignBottom="@+id/imgUserBackground"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="@dimen/userData_layout_marginBottom"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tSelectCar"
+            android:drawableRight="@drawable/ic_header_down"
+            android:text="@string/nenhum_veiculo_cadastrado"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/userName_layout_marginLeft"
+            android:textColor="@color/primary_text"
+            android:layout_marginRight="@dimen/userName_layout_marginLeft"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+    </LinearLayout>
+
+    <include
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        layout="@layout/mini_gasolina"
+        android:layout_alignTop="@+id/imgUserPhoto"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/header_gasolina"
+        android:layout_marginRight="@dimen/userName_layout_marginLeft" />
+
+    <include
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        layout="@layout/mini_alcool"
+        android:layout_below="@+id/header_gasolina"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/header_Etanol"
+        android:layout_marginRight="@dimen/userName_layout_marginLeft" />
+
+    <include
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        layout="@layout/mini_gnv"
+        android:layout_below="@+id/header_Etanol"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/header_gnv"
+        android:layout_marginRight="@dimen/userName_layout_marginLeft" />
+
+    <include
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        layout="@layout/mini_diesel"
+        android:layout_below="@+id/header_gnv"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/header_diesel"
+        android:layout_marginRight="@dimen/userName_layout_marginLeft" />
+</RelativeLayout>

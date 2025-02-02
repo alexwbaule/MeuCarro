@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script type="text/javascript" src="js/jquery.min.js"></script>
+        <script type="text/javascript" src="js/bootstrap.min.js"></script>
+        <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="css/meucarro.css">
+    </head>
+    
+    <body>
+        <div class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <ul class="nav nav-justified nav-pills">
+                            <li>
+                                <a href="index.html"><i class="fa fa-fw fa-info-circle"></i>Sobre o app</a>
+                            </li>
+                            <li>
+                                <a href="calculadora.html"><i class="fa fa-fw fa-calculator"></i>Calculadora Flex</a>
+                            </li>
+                            <li>
+                                <a href="abastecimento.html"><i class="fa fa-fw fa-sign-in"></i>Abastecimentos</a>
+                            </li>
+                            <li>
+                                <a href="oleo.html"><i class="fa fa-fw fa-tint"></i>Óleo</a>
+                            </li>
+                            <li class="active">
+                                <a href="veiculos.html"><i class="fa fa-fw fa-automobile"></i>Veículos</a>
+                            </li>
+                            <li>
+                                <a href="config.html"><i class="fa fa-fw fa-gears"></i>Configurações</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h1>Inicio</h1>
+                        <p>Ao abrir o app, a mensagem avisa sobre a falta de um veículo cadastrado.
+                            Para adicionar um veículo toque no botão inferior direito, em laranja com
+                            um sinal de "+" dentro.</p>
+                    </div>
+                    <div class="col-md-6">
+                        <img src="imgs/Screenshot_2015-08-04-22-29-24.png" class="img-responsive">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h1>Inserindo um veículo</h1>
+                        <h3>Passo 1</h3>
+                        <p>Para inserir um veículo é necessário o preenchimento de alguns itens:</p>
+                        <ol
+                        class="list-unstyled">
+                            <li>Nome do carro.</li>
+                            <li>Carro será o padrão e ficará ativo (opcional).</li>
+                            <li>Tipo de carro.</li>
+                            <li>De 1 a 4 combustíveis que o carro utiliza.</li>
+                            <li>Volume do tanque.</li>
+                            <li>Volume do cilindro de GNV caso um dos combustíveis seja GNV.</li>
+                            </ol>
+                    </div>
+                    <div class="col-md-6">
+                        <img src="imgs/Screenshot_2015-08-04-22-30-24.png" class="img-responsive">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h3>Passo 2</h3>
+                        <p contenteditable="true">Digite o nome do carro, que o auto-complete ajudará a escrever o nome
+                            do seu veículo. Caso o nome não exista no auto-complete, não há problema.
+                            Escreva o nome que desejar.</p>
+                    </div>
+                    <div class="col-md-6">
+                        <img src="imgs/Screenshot_2015-08-04-22-30-33.png" class="img-responsive">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h3>Passo 3</h3>
+                        <p>Escolha o tipo de veículo que esse carro é:</p>
+                        <ol class="list-unstyled">
+                            <li>Sport</li>
+                            <li>Sedan</li>
+                            <li>Hatch</li>
+                            <li>Station Wagon</li>
+                            <li>SUV</li>
+                            <li>Conversível</li>
+                            <li>Utilitário</li>
+                            <li>Moto Sport</li>
+                            <li>Moto Chooper</li>
+                            <li>Scooter</li>
+                            <li>Moto Cross</li>
+                        </ol>
+                    </div>
+                    <div class="col-md-6">
+                        <img src="imgs/Screenshot_2015-08-04-22-31-12.png" class="img-responsive">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h3>Passo 4</h3>
+                        <p>Escolha qualquer um dos containers de combustivel para incluir os combustiveis
+                            que seu carro possui, e preencha o consumo inicial. Lembre-se, o cálculo
+                            automático só é possivel com mais de 2 abastecimentos cadastrados.
+                            <br>O App suporta até 4 combustíveis:</p>
+                        <ol class="list-unstyled">
+                            <li>Gasolina</li>
+                            <li>Etanol</li>
+                            <li>GNV</li>
+                            <li>Diesel</li>
+                        </ol>
+                    </div>
+                    <div class="col-md-6">
+                        <img src="imgs/Screenshot_2015-08-04-22-31-25.png" class="img-responsive">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h3>Passo 5</h3>
+                        <p>Preencha também o volume do tanque, e caso um dos combustíveis usados
+                            for GNV, preencha também o volume do cilindro.
+                            <br>
+                        </p>
+                    </div>
+                    <div class="col-md-6">
+                        <img src="imgs/Screenshot_2015-08-04-22-31-50.png" class="img-responsive">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h3>Concluído !</h3>
+                        <p>Carro inserido com sucesso !
+                            <br>Note a bolinha verde do lado oposto ao nome do veículo, essa bolinha indica
+                            que esse veículo está em uso. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                            <br>Agora a tela principal em veículos, será uma listagem com todos os&nbsp;veículos,&nbsp;em
+                            ordem de inserção.&nbsp;
+                            <br>Caso queira adicionar um outro veículo, toque no botão inferior direito,
+                            em laranja com o sinal de "+", e volte para o&nbsp;
+                            <b>
+                                <i>passo 2</i>&nbsp;</b>desse item.
+                            <br>
+                        </p>
+                    </div>
+                    <div class="col-md-6">
+                        <img src="imgs/Screenshot_2015-08-04-22-31-54.png" class="img-responsive">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h1>Editando um veículo</h1>
+                        <h3>Passo 1</h3>
+                        <p contenteditable="true">Na listagem de veículos, selecione um registro que deseje editar, caso
+                            seja selecionado mais de um registro, a opção de editar não aparecerá e
+                            será somente possivel fazer a exclusão dos registros selecionados.</p>
+                    </div>
+                    <div class="col-md-6">
+                        <img src="imgs/Screenshot_2015-08-04-22-37-38.png" class="img-responsive">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h3>Concluído !</h3>
+                        <p contenteditable="true">Altere o dado que necessitar e salve em seguida com o botão salvar, do
+                            lado direito acima.&nbsp;&nbsp;
+                            <br>Caso o consumo seja editado, somente após um abastecimento o mesmo será
+                            recalculado.</p>
+                    </div>
+                    <div class="col-md-6">
+                        <img src="imgs/Screenshot_2015-08-04-22-37-53.png" class="img-responsive">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h1>Exclusão de um veículo</h1>
+                        <p>Para fazer a exclusão de uma veículo, selecione um ou mais itens que deseja
+                            excluir, na listagem de veículos (conforme em "editando um veículo, passo
+                            1).&nbsp;&nbsp;
+                            <br>Após a seleção, toque no ultimo botão superior direito. Caso queira desfazer
+                            a exclusão, clique em "Desfazer" na barra inferior.</p>
+                    </div>
+                    <div class="col-md-6">
+                        <img src="imgs/Screenshot_2015-08-04-22-37-46.png" class="img-responsive">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+
+</html>

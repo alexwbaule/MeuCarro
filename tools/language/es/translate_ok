@@ -1,0 +1,262 @@
+""
+Mi Coche
+Calculadora de Flex
+Suministros
+Petróleo
+Vehículos
+Ayuda
+Ajustes
+Mantenimiento
+Informes
+Abra el menú de navegación
+Cerrar el menú de navegación
+Añadir vehículo
+Incluye cambio de aceite
+Incluya suministro
+Ajustes
+Inserte un vehículo para hacer el cálculo de combustible.
+Introduzca un suministro para mejorar el cálculo del consumo
+Insertar un vehículo para calcular el consumo
+Introduzca un cambio de aceite para calcular el siguiente intercambio
+Seleccione coches
+Seleccione los cambios de aceite
+Seleccione los suministros
+Deshacer
+Gasolina
+Alcohol
+GNC
+Diesel
+El rango válido de %1$s es %2$d para %3$d
+ %1$s es válida desde el %2$d
+ %1$s anterior %2$d
+Actual %1$s
+Seleccione un combustible
+El volumen no puede ser cero ( %1$d)!
+El volumen no puede ser mayor que %1$s ( %2$s)!
+El actual del odómetro ( %1$d) no puede ser igual o mayor que el último ( %2$d)!
+El actual del odómetro ( %1$d) No puede ser igual o menor que el anterior ( %2$d)!
+Inactivo
+Activo
+Guardar
+Borrar
+Setar como predeterminado
+Editar
+Combustible
+Autonomía
+Costo
+-
+Costo KM
+Tanque lleno
+07/12/2014
+Fecha de suministro
+Odómetro actual
+volumen abastecido
+combustible
+fecha de cambio de aceite
+siguiente intercambio odómetro
+aceite usado
+volumen de aceite
+Filtro
+Nombre de coches
+y el consumo de combustible
+volumen de combustible
+Volumen de combustible
+Volumen de GNC
+tipo de vehículo
+Petróleo
+Siguiente intercambio cuentakilómetros
+Volumen
+Consumo
+La distancia recorrida
+EUR
+0.00
+Este vehículo ya está
+Ya existe Este consumo
+Ninguno
+¿Problemas con la fecha insertada
+Inserte un vehículo
+Registro existente
+Error al actualizar
+Eliminación de errores
+Deporte
+Sedán
+Escotilla
+SO
+SUV
+Convertible
+Utilitario
+Moto Sport
+Chooper
+Scooter
+Cruzar
+El primer uso seleccionado no puede estar vacío
+El segundo consumo seleccionado no puede estar vacío
+La tercera consumo seleccionado no puede estar vacío
+El cuarto consumo seleccionado no puede estar vacío
+El nombre del vehículo no puede estar vacío
+Seleccione al menos un combustible
+Indicando el volumen del depósito de combustible
+Dígale al volumen del cilindro de GNC
+El nombre del aceite no puede estar vacío
+El kilometraje actual no puede ser cero
+El kilometraje del próximo cambio no puede estar vacío
+ %1$s anterior %2$d (junto a %2$d)
+ %1$s siguiente intercambio
+km/L
+L/100km
+km/L
+L/100km
+ml/L
+G/100mÎ
+mil
+T/100mÎ
+km/m³
+m³/100km
+km/yd³
+yd³/100km
+ml/yd³
+yd³/100mÎ
+mi/m³
+m³/100mÎ
+mpv
+v100m
+Autonomía
+Costo
+autonomía
+costo
+Ninguno
+Gasolina
+Alcohol
+GNC
+Diesel
+Kilómetros
+Miles
+km
+mi
+Litros
+Galones estadounidenses
+UK galones
+LTS
+GUS
+GUK
+Metros cúbicos (m³)
+Yardas cúbicas (yd³)
+MTS
+YAD
+Todos abastacimentos
+5 abastacimentos
+10 abastacimentos
+15 abastacimentos
+20 abastacimentos
+0
+5
+10
+15
+20
+La aplicación My Car, antes conocido como Flex perfil ha sido actualizado para resolver algunos problemas relacionados con la antigua forma de la selección de números.\n Esta aplicación le ayudará a decidir el combustible más ventajosa en el momento de la oferta.\n Este cálculo se hace por costará KM/L. \ n Por el mismo trabajo, la alimentación debe ser \ "completar el tanque para llenarlo \" lo necesita para el cálculo correcto de consumo. \ n Si ha migrado de la Reseña Flex, el modo de funcionamiento es el mismo, pero con mejoras en el ingreso de datos y también el nuevo menú "Petróleo", donde el usuario puede registrar los cambios de aceite del vehículo. \ n Para el nuevo usuario, debe introducir un vehículo para el se hace el cálculo. \ n Esto se puede hacer mediante la adición de un nuevo vehículo para la aplicación, tirando el menú lateral a la derecha e ir a la opción de vehículo. \ n Dentro de esta opción el usuario puede ver una lista de los vehículos registrados, y seleccionando Botón \ "+ \" puede añadir un vehículo. \ n En añada vehículo, informará nombre, los combustibles del coche y su consumo y la misma capacidad del tanque en litros (si GNC, también se suman los metros cúbicos del tambor ). \ n Con el coche registrado, ingrese la cantidad de cada litro de combustible que el cálculo se realiza automáticamente mediante la modificación del precio de ellos. \ n
+Si encuentra algún error o tiene alguna sugerencia, envíelo a la
+mailto :? subject = Mi alexwbaule@gmail.com% 20Carro% 20App
+m³
+yd³
+L
+G
+G
+LTS
+MTS
+mpv
+mpv
+costo
+0
+km
+Combustible
+GNC
+Cuentakilómetros
+Tanque
+Cuentakilómetros
+Consumo
+Cilindro
+Cálculo
+Suministro
+Promedio General
+El consumo medio global será para todos los suministros
+El consumo medio global será los últimos 5 suministros
+El consumo promedio general será del 10 por los últimos suministros
+El consumo medio global será los 15 últimos suministros
+El consumo medio global será 20 por los últimos suministros
+El cálculo será por la autonomía
+El cálculo se hará a un costo
+El volumen se mide en metros cúbicos
+El consumo se mide en km/L
+El consumo se mide en km/L
+Consumo se medirá en E/L
+El consumo se mide en E/G
+El consumo se mide en L/100km
+Consumo se medirá en L/100mÎ
+El consumo se mide en L/100km
+El consumo se mide en G/100mÎ
+El consumo se mide en km/m³
+El consumo se mide en km/yd³
+El consumo se mide en millas/m³
+El consumo se mide en E/yd³
+El consumo se mide en m³/100km
+El consumo se mide en m³/100mÎ
+El consumo se mide en yd³/100km
+El consumo se mide en yd³/100mÎ
+El volumen se mide en litros
+El volumen se mide en galones estadounidenses
+El volumen se mide en galones Reino Unido
+El volumen se mide en metros cúbicos
+El volumen se mide en yd³
+El odómetro es Kilómetros (KM)
+El odómetro es Miles (Mi)
+Galones
+Litros
+Metros cubicos
+Yardas cúbicas
+Michigan
+KM
+yd³/100mÎ
+yd³/100km
+m³/100mÎ
+m³/100km
+ml/yd³
+km/yd³
+mi/m³
+km/m³
+G/100mÎ
+L/100km
+G/100mÎ
+T/100mÎ
+L/100km
+MPG
+km/L
+mil
+km/L
+Tipo de cálculo
+Usted no tiene vehículos.
+No tiene suministros.
+Usted no tiene cambios de aceite.
+Usted no tiene vehículos para hacer un cálculo.
+No Vehículo Registrado
+Cargando ...
+Nuevo abastecimiento
+Nuevo vehículo
+Nuevo cambio de aceite
+Editar la oferta
+Cambio de aceite Editar
+Editar vehículo
+Fecha
+Hora
+Nombre/marca de aceite
+Nombre/Marca Petróleo
+Usted no tiene vehículos para tener los cambios de aceite.
+No tiene vehículos para llevar suministros.
+Capacidad máxima %1$s %2$s
+1 vehículo seleccionado
+%d coches seleccionados
+1 aceite seleccionado
+d% aceite seleccionado
+1 Fuente seleccionada
+%d oferta seleccionada
+1 eliminada
+%d excluido

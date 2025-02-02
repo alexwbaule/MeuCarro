@@ -1,0 +1,9 @@
+.idea/*
+.gradle/*
+build/
+local.properties
+app/app-release.apk
+app/release/
+gradle/
+server/src/meucarroAPI/restapi/
+server/src/meucarroAPI/models/

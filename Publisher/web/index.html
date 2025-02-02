@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script type="text/javascript" src="js/jquery.min.js"></script>
+        <script type="text/javascript" src="js/bootstrap.min.js"></script>
+        <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="css/meucarro.css">
+    </head>
+    
+    <body>
+        <div class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <ul class="nav nav-justified nav-pills">
+                            <li class="active">
+                                <a href="index.html"><i class="fa fa-fw fa-info-circle"></i>Sobre o app</a>
+                            </li>
+                            <li>
+                                <a href="calculadora.html"><i class="fa fa-fw fa-calculator"></i>Calculadora Flex</a>
+                            </li>
+                            <li>
+                                <a href="abastecimento.html"><i class="fa fa-fw fa-sign-in"></i>Abastecimentos</a>
+                            </li>
+                            <li>
+                                <a href="oleo.html"><i class="fa fa-fw fa-tint"></i>Óleo</a>
+                            </li>
+                            <li>
+                                <a href="veiculos.html"><i class="fa fa-fw fa-automobile"></i>Veículos</a>
+                            </li>
+                            <li>
+                                <a href="config.html"><i class="fa fa-fw fa-gears"></i>Configurações</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1>Sobre o Aplicativo</h1>
+                        <p class="text-justify">O aplicativo Meu carro, conhecido anteriormente como Flex Profile foi
+                            atualizado para resolver alguns problemas referente ao modo antigo de seleção
+                            de números. Esse aplicativo te ajudará a decidir qual o combustível mais
+                            vantajoso na hora do abastecimento. Esse calculo é feito pelo custo do
+                            KM/L. Para o mesmo funcionar, os abastecimento deverão ser de "completar
+                            o tanque até enche-lo", ele necessita disso para o calculo correto do consumo.
+                            <br>Caso tenha migrado do Flex Profile, o modo de funcionamento é o mesmo,
+                            porém com melhorias na inserção dos dados e também o novo menu "Óleo",
+                            onde o usuário poderá cadastrar as trocas de óleo dos veículos.
+                            <br>Para o usuário novo, é necessário inserir um veiculo para que o calculo
+                            seja feito. Isso pode ser feito adicionando um novo veículo ao aplicativo,
+                            puxando o menu lateral para a direita e indo até a opção Veículos.
+                            <br>Dentro dessa opção o usuário poderá ver uma lista com os veículos cadastrados,
+                            e selecionando o botão de "+" poderá adicionar um veículo. Em adicionar
+                            veículo, informe o nome do carro, os combustíveis e seus consumos e a capacidade
+                            do tanque do mesmo em litros (caso tenha GNV, adicione também a metragem
+                            cúbica do cilindro).
+                            <br>Com o carro cadastrado, informe o valor do litro de cada combustível que
+                            o calculo é feito automaticamente ao modificar o preço dos mesmos.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1>Sobre essa atualização</h1>
+                        <p class="text-justify">Essa é a segunda grande alteração de layout e modo de funcionamento, pretendo
+                            nas proximas atualizações adicionar mais funções e complementos, tais como
+                            gráficos, itens de manutenção do veículo e talvez algumas notificações.
+                            <br>Esse aplicativo usa algumas bibliotecas , que gostaria de cita-las:
+                            <br>
+                            <br>
+                            <br>
+                        </p>
+                        <ol class="list-unstyled">
+                            <li>
+                                <i class="fa fa-android fa-fw text-info"></i>betterpickers</li>
+                            <li>
+                                <i class="fa fa-android fa-fw text-info"></i>support-v4-preferencefragment</li>
+                            <li>
+                                <i class="fa fa-android fa-fw text-info"></i>android-switch-backport</li>
+                            <li>
+                                <i class="fa fa-android fa-fw text-info"></i>nineoldandroids</li>
+                            <li>
+                                <i class="fa fa-android fa-fw text-info"></i>hellocharts-library</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1>Limitações</h1>
+                        <p class="text-justify">Para que o app calcule corretamente se faz necessário que o abastecimento
+                            de combustivel seja sempre de "encher o tanque", para que o calculo seja
+                            feito com os litros inseridos pra encher o tanque.
+                            <br>
+                            <br>Devido ao modo de funcionamento ou até, por limitações fisicas algumas
+                            funções possuem um funcionamento diferente do esperado: Exibição de Média
+                            de consumo quando há troca de GNV e outros combustiveis e vice-versa: Quando
+                            essa troca é feita, há uma quebra no fluxo de funcionamento da medição
+                            de consumo,: Basicamente a conta feita para medir o consumo é :
+                            <br>
+                            <br>
+                            <i>
+                                <b>&nbsp;(KM do Ultimo Abastecimento - KM do Atual abastecimento / Litros
+                                    do atual abastecimento )
+                                    <br>
+                                </b>
+                            </i>
+                            <br>Quando a troca de combustiveis é feita, não há como o aplicativo ou o
+                            usuário saber quantos litros foram inseridos para rodar o trecho (KM -
+                            KM atual), para isso o app irá assumir que o combustivel anterior foi usado
+                            até o final, com isso os litros utilizados na formula será do Ultimo Abastecimento
+                            e não do Abastecimento Atual, porém o KM será do Abastecimento atual. Quando
+                            isso ocorrer, consumo será exibido em vermelho, com um * na frente do valor
+                            informado. Caso você tenha uma outra maneira de medição para essa limitação
+                            e quiser comparilhar com o App, entre em contato explicando o seu ponto
+                            de vista , para que ele possa ser implementado no App.&nbsp;</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="thumbnail">
+                            <img src="imgs/igual-combustivel.png" class="img-responsive">
+                            <div class="caption">
+                                <h3>Calculo de consumo Normal
+                                    <br>
+                                </h3>
+                                <p>O cálculo é feito utilizando os dois abastecimentos, usando o KM atual,
+                                    KM anterior e a
+                                    <b>
+                                        <i>litragem atual de combustivel</i>
+                                    </b>, para se obter a média de Consumo do abastecimento Anterior.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="thumbnail">
+                            <img src="imgs/troca-combustivel.png" class="img-responsive">
+                            <div class="caption">
+                                <h3>Calculo de consumo Estimado &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                                    &nbsp; &nbsp; &nbsp;&nbsp;
+                                    <br>
+                                </h3>
+                                <p>O cálculo é feito utilizando os dois abastecimentos, usando o KM atual,
+                                    KM anterior e a
+                                    <b>
+                                        <i>litragem anterior de combustivel</i>
+                                    </b>, para se obter a média de Consumo do abastecimento Anterior.
+                                    <br>Note que quando esse calculo estimado é realizado, o Consumo e distancia
+                                    percorrida ficam marcados em vermelho com um asterisco, indicando que o
+                                    método de calculo foi estimado.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+
+</html>

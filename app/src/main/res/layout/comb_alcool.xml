@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    card_view:cardCornerRadius="2dp"
+    card_view:cardElevation="6dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/imageView_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="false"
+            android:layout_centerVertical="true"
+            android:layout_margin="@dimen/listspace"
+            android:background="@drawable/ic_alcool" />
+
+        <TextView
+            android:id="@+id/price_Etanol_currency"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/price_Etanol"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/price_Etanol"
+            android:layout_toStartOf="@+id/price_Etanol"
+            android:gravity="center"
+            android:text="@string/simbolo_moeda"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/Etanol" />
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/price_Etanol"
+            android:gravity="end"
+            android:singleLine="true"
+            android:focusable="false"
+            android:editable="false"
+            android:layout_width="@dimen/consumo_edit"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/listspace"
+            android:text="@string/zerado_valor"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/Etanol"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

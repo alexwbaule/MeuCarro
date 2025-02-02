@@ -1,0 +1,83 @@
+apply plugin: 'com.android.application'
+
+android {
+    //noinspection GroovyAssignabilityCheck
+    signingConfigs {
+        config {
+        }
+    }
+    compileSdkVersion 29
+    buildToolsVersion '29.0.3'
+    //noinspection GroovyAssignabilityCheck
+    defaultConfig {
+        applicationId "com.alexwbaule.flexprofile"
+        minSdkVersion 19
+        targetSdkVersion 29
+        versionCode 104
+        versionName '7.0.0'
+        //multiDexEnabled true
+    }
+    //noinspection GroovyAssignabilityCheck
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.config
+            //multiDexKeepFile file('multidex-config.txt')
+        }
+        debug {
+            minifyEnabled false
+            signingConfig signingConfigs.config
+            //multiDexKeepFile file('multidex-config.txt')
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    productFlavors {
+    }
+}
+repositories {
+    mavenLocal()
+    maven { url "https://jitpack.io" }
+    google()
+}
+
+
+//noinspection GroovyAssignabilityCheck
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    //implementation 'com.google.android.gms:play-services-identity:16.0.0'
+    implementation 'com.google.android.gms:play-services-maps:17.0.0'
+    implementation 'com.google.android.gms:play-services-location:17.0.0'
+    implementation 'com.google.android.gms:play-services-auth:18.0.0'
+    implementation 'com.google.android.libraries.places:places:2.2.0'
+
+
+    //noinspection GradleCompatible
+    implementation 'com.google.android.material:material:1.1.0'
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+    implementation 'androidx.cardview:cardview:1.0.0'
+    implementation 'androidx.recyclerview:recyclerview:1.1.0'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'androidx.preference:preference:1.1.1'
+    implementation 'androidx.annotation:annotation:1.1.0'
+    annotationProcessor 'androidx.annotation:annotation:1.1.0'
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+    implementation 'androidx.annotation:annotation:1.1.0'
+
+
+    api 'org.jraf:android-switch-backport:1.4.0'
+    api 'com.nineoldandroids:library:2.4.0'
+    api 'com.github.PhilJay:MPAndroidChart:v2.2.5'
+    api 'com.makeramen:roundedimageview:2.3.0'
+    api 'org.apache.commons:commons-lang3:3.10'
+    api 'com.android.volley:volley:1.1.1'
+    api 'com.google.code.gson:gson:2.8.6'
+    //api 'com.squareup.okhttp3:okhttp:3.14.0'
+    implementation('com.doomonafireball.betterpickers:library:1.5.6') {
+        exclude group: 'com.android.support', module: 'support-v4'
+    }
+}
+

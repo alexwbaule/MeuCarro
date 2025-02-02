@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/menu_normal"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_calculator"
+            android:checked="true"
+            android:icon="@drawable/ic_menu_car_done"
+            android:title="@string/sel_comb" />
+        <item
+            android:id="@+id/navigation_fuel"
+            android:icon="@drawable/ic_menu_car_fuel"
+            android:title="@string/sel_abast" />
+        <item
+            android:id="@+id/navigation_oil"
+            android:icon="@drawable/ic_menu_car_oil"
+            android:title="@string/sel_oil" />
+        <item
+            android:id="@+id/navigation_vehicle_manut"
+            android:icon="@drawable/ic_menu_maintenance"
+            android:title="@string/sel_manut" />
+        <item
+            android:id="@+id/navigation_vehicle"
+            android:icon="@drawable/ic_menu_car"
+            android:title="@string/sel_veic" />
+        <item
+            android:id="@+id/navigation_report"
+            android:icon="@drawable/ic_menu_report"
+            android:title="@string/sel_report" />
+    </group>
+    <group
+        android:id="@+id/menu_config"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_config"
+            android:icon="@drawable/ic_menu_settings"
+            android:title="@string/action_settings" />
+
+        <item
+            android:id="@+id/navigation_help"
+            android:icon="@drawable/ic_menu_car_help"
+            android:title="@string/sel_ajuda" />
+    </group>
+</menu>

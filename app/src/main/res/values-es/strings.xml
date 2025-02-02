@@ -1,0 +1,408 @@
+<resources>
+    <string name="empty">""</string>
+    <string name="app_name">Mi Coche</string>
+    <string name="sel_comb">Calculadora de Flex</string>
+    <string name="sel_abast">Suministros</string>
+    <string name="sel_oil">Petróleo</string>
+    <string name="sel_veic">Vehículos</string>
+    <string name="sel_ajuda">Ayuda e feedback</string>
+    <string name="config">Ajustes</string>
+    <string name="sel_manut">Mantenimiento</string>
+    <string name="sel_report">Informes</string>
+    <string name="navigation_drawer_open">Abra el menú de navegación</string>
+    <string name="navigation_drawer_close">Cerrar el menú de navegación</string>
+    <string name="action_add_veic">Añadir vehículo</string>
+    <string name="action_add_oil">Incluye cambio de aceite</string>
+    <string name="action_add_abst">Incluya suministro</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="help_here_calculo">Inserte un vehículo para hacer el cálculo de combustible.</string>
+    <string name="help_here_abastecimento">Introduzca un suministro para mejorar el cálculo del consumo</string>
+    <string name="help_here_veiculo">Insertar un vehículo para calcular el consumo</string>
+    <string name="help_here_oil">Introduzca un cambio de aceite para calcular el siguiente intercambio</string>
+    <string name="selecione_carro">Seleccione coches</string>
+    <string name="selecione_oleo">Seleccione los cambios de aceite</string>
+    <string name="selecione_fuel">Seleccione los suministros</string>
+    <string name="desfazer">Deshacer</string>
+    <string name="gasolina">Gasolina</string>
+    <string name="Etanol">Etanol</string>
+    <string name="gnv">GNC</string>
+    <string name="diesel">Diesel</string>
+    <string name="intervalo_valido">El rango válido es %1$s de %2$s %3$s</string>
+    <string name="km_hint_anterior">desde %1$s %2$s</string>
+    <string name="km_atual">%1$s actual</string>
+    <string name="selecione_um_combustivel">Seleccione un combustible</string>
+    <string name="o_volume_nao_pode">El volumen no puede ser cero ( %1$s )!</string>
+    <string name="o_volume_nao_pode_max">El volumen no puede ser mayor que %1$s ( %2$s )!</string>
+    <string name="km_atual_maior">El actual del odómetro ( %1$d ) no puede ser igual o mayor que el último ( %2$d )!</string>
+    <string name="km_atual_menor">El actual del odómetro ( %1$d ) No puede ser igual o menor que el anterior ( %2$d )!</string>
+    <string name="inativo">Inactivo</string>
+    <string name="ativo">Activo</string>
+    <string name="salvar">Guardar</string>
+    <string name="deletar">Borrar</string>
+    <string name="set_as_default">Setar como predeterminado</string>
+    <string name="editar">Editar</string>
+    <string name="combustivel">Combustible</string>
+    <string name="autonomia">Autonomía</string>
+    <string name="custo">Costo</string>
+    <string name="dash">-</string>
+    <string name="custo_km">Costo %1$s</string>
+    <string name="tanque_cheio">Tanque lleno</string>
+    <string name="date_hint">07/12/2014</string>
+    <string name="data_do_abastecimento">Fecha de suministro</string>
+    <string name="odometro_atual">Odómetro actual</string>
+    <string name="volume_abastecido">volumen abastecido</string>
+    <string name="combustivel_utilizado">combustible</string>
+    <string name="data_troca_de_oleo">fecha de cambio de aceite</string>
+    <string name="odometro_na_proxima_troca">siguiente intercambio odómetro</string>
+    <string name="oleo_utilizado">aceite usado</string>
+    <string name="volume_do_oleo">volumen de aceite</string>
+    <string name="filtro">Filtro</string>
+    <string name="nome_do_carro">Nombre de coches</string>
+    <string name="combustiveis_e_consumo">y el consumo de combustible</string>
+    <string name="volume_do_combustivel">volumen de combustible</string>
+    <string name="Volume_do_combustivel">Volumen de combustible</string>
+    <string name="Volume_do_gnv">Volumen de GNC</string>
+    <string name="tipo_de_veiculo">tipo de vehículo</string>
+    <string name="oleo">Petróleo</string>
+    <string name="odometro_proxima_troca">Siguiente intercambio cuentakilómetros</string>
+    <string name="volume">Volumen abastecido</string>
+    <string name="consumo">Consumo</string>
+    <string name="distancia_percorrida">La distancia recorrida</string>
+    <string name="simbolo_moeda">EUR </string>
+    <string name="zerado_valor">0.00</string>
+    <string name="nome_modelo_existente">Este vehículo ya se</string>
+    <string name="consumo_existente">Ya existe Este consumo</string>
+    <string name="nenhum">Ninguno</string>
+    <string name="erro_na_data_inserida">¿Problemas con la fecha insertada</string>
+    <string name="insira_um_veiculo">Inserte un vehículo</string>
+    <string name="registro_existente">Registro existente</string>
+    <string name="erro_atualizar">Error al actualizar</string>
+    <string name="erro_deletar">Eliminación de errores</string>
+    <string name="carro_sport">Deporte</string>
+    <string name="carro_sedan">Sedán</string>
+    <string name="carro_hatch">Escotilla</string>
+    <string name="carro_sw">SO</string>
+    <string name="carro_suv">SUV</string>
+    <string name="carro_conversivel">Convertible</string>
+    <string name="carro_utilitario">Utilitario</string>
+    <string name="carro_moto_sport">Moto Sport</string>
+    <string name="carro_chooper">Chooper</string>
+    <string name="carro_scooter">Scooter</string>
+    <string name="carro_cross">Cruzar</string>
+    <string name="primeiro_consumo_nao_vazio">El primer uso seleccionado no puede estar vacío</string>
+    <string name="segundo_consumo_nao_vazio">El segundo consumo seleccionado no puede estar vacío</string>
+    <string name="terceiro_consumo_nao_vazio">La tercera consumo seleccionado no puede estar vacío</string>
+    <string name="quarto_consumo_nao_vazio">El cuarto consumo seleccionado no puede estar vacío</string>
+    <string name="carro_nao_vazio">El nombre del vehículo no puede estar vacío</string>
+    <string name="selecione_ao_menos_um_combustivel">Seleccione al menos un combustible</string>
+    <string name="indique_volume_tanque">Indicando el volumen del depósito de combustible</string>
+    <string name="indique_volume_gnv">Dígale al volumen del cilindro de GNC</string>
+    <string name="nome_do_oleo_vazio">El nombre del aceite no puede estar vacío</string>
+    <string name="km_atual_vazio">El kilometraje actual no puede ser cero</string>
+    <string name="km_proxima_troca_vazio">El kilometraje del próximo cambio no puede estar vacío</string>
+    <string name="km_anterior_proximo_oil">%1$s anterior %2$d (junto a %2$d )</string>
+    <string name="proxima_troca_medida">%1$s siguiente intercambio</string>
+    <string-array name="consumo_comb_entry_kml">
+        <item>km / L</item>
+        <item>L / 100km</item>
+    </string-array>
+    <string-array name="consumo_comb_entry_kmg">
+        <item>km / L</item>
+        <item>L / 100km</item>
+    </string-array>
+    <string-array name="consumo_comb_entry_mig">
+        <item>ml / L</item>
+        <item>G / 100mÎ</item>
+    </string-array>
+    <string-array name="consumo_comb_entry_mil">
+        <item>mil</item>
+        <item>T / 100mÎ</item>
+    </string-array>
+    <string-array name="consumo_gnv_entry_kmm">
+        <item>km / m³</item>
+        <item>m³ / 100km</item>
+    </string-array>
+    <string-array name="consumo_gnv_entry_kmy">
+        <item>km / yd³</item>
+        <item>yd³ / 100km</item>
+    </string-array>
+    <string-array name="consumo_gnv_entry_miy">
+        <item>ml / yd³</item>
+        <item>yd³ / 100mÎ</item>
+    </string-array>
+    <string-array name="consumo_gnv_entry_mim">
+        <item>mi / m³</item>
+        <item>m³ / 100mÎ</item>
+    </string-array>
+    <string-array name="consumo_values">
+        <item>mpv</item>
+        <item>v100m</item>
+    </string-array>
+    <string-array name="custo_name">
+        <item>Autonomía</item>
+        <item>Costo</item>
+    </string-array>
+    <string-array name="custo_values">
+        <item>autonomía</item>
+        <item>costo</item>
+    </string-array>
+    <string-array name="list_combustiveis">
+        <item>Ninguno</item>
+        <item>Gasolina</item>
+        <item>Alcohol</item>
+        <item>GNC</item>
+        <item>Diesel</item>
+    </string-array>
+    <string-array name="medida_entry">
+        <item>Kilómetros</item>
+        <item>Miles</item>
+    </string-array>
+    <string-array name="medida_values">
+        <item>km</item>
+        <item>mi</item>
+    </string-array>
+    <string-array name="vol_tanque_entry">
+        <item>Litros</item>
+        <item>Galones estadounidenses</item>
+        <item>UK galones</item>
+    </string-array>
+    <string-array name="vol_tanque_values">
+        <item>LTS</item>
+        <item>GUS</item>
+        <item>GUK</item>
+    </string-array>
+    <string-array name="vol_gnv_entry">
+        <item>Metros cúbicos (m³)</item>
+        <item>Yardas cúbicas (yd³)</item>
+    </string-array>
+    <string-array name="vol_gnv_values">
+        <item>MTS</item>
+        <item>YAD</item>
+    </string-array>
+    <string-array name="limit_select">
+        <item>Todos abastecimentos</item>
+        <item>5 abastecimentos</item>
+        <item>10 abastecimentos</item>
+        <item>15 abastecimentos</item>
+        <item>20 abastecimentos</item>
+    </string-array>
+    <string-array name="limit_select_values">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
+
+    <string name="default_m3">m³</string>
+    <string name="default_pol3">yd³</string>
+
+    <string name="default_lts">L</string>
+    <string name="default_gaus">G</string>
+    <string name="default_gauk">G</string>
+
+
+    <string name="default_un_volume_tanque">LTS</string>
+    <string name="default_vol_tq_gnv">MTS</string>
+    <string name="default_afer_calc">mpv</string>
+    <string name="default_afer_calc_gnv">mpv</string>
+    <string name="default_custo">custo</string>
+    <string name="default_select">0</string>
+    <string name="default_distancia">km</string>
+    <string name="unidade_combustivel">Combustible</string>
+    <string name="unidade_gnv">GNC</string>
+    <string name="unidade_odometro">Cuentakilómetros</string>
+    <string name="vol_tanque">Tanque</string>
+    <string name="afer_distancia">Cuentakilómetros</string>
+    <string name="afer_calculo">Consumo</string>
+    <string name="vol_gnv">Cilindro</string>
+    <string name="type_calc">Cálculo</string>
+    <string name="calc_abast">Suministro</string>
+    <string name="calc_sum_consumo">Promedio General</string>
+    <string name="calculo_media_consumo_full">El consumo medio global será para todos los suministros</string>
+    <string name="calculo_media_consumo_5">El consumo medio global será los últimos 5 suministros</string>
+    <string name="calculo_media_consumo_10">El consumo promedio general será del 10 por los últimos suministros</string>
+    <string name="calculo_media_consumo_15">El consumo medio global será los 15 últimos suministros</string>
+    <string name="calculo_media_consumo_20">El consumo medio global será 20 por los últimos suministros</string>
+    <string name="calculo_type_autonomia">El cálculo será por la autonomía</string>
+    <string name="calculo_type_custo">El cálculo se hará a un costo</string>
+    <string name="vol_medido_m3">El volumen se mide en metros cúbicos</string>
+    <string name="consumo_kml">El consumo se mide en km / L</string>
+    <string name="consumo_kmg">El consumo se mide en km / L</string>
+    <string name="consumo_mil">Consumo se medirá en E / L</string>
+    <string name="consumo_mig">El consumo se mide en E / G</string>
+    <string name="consumo_l100k">El consumo se mide en L / 100km</string>
+    <string name="consumo_l100m">Consumo se medirá en L / 100mÎ</string>
+    <string name="consumo_g100k">El consumo se mide en L / 100km</string>
+    <string name="consumo_g100m">El consumo se mide en G / 100mÎ</string>
+    <string name="consumo_kmm">El consumo se mide en km / m³</string>
+    <string name="consumo_kmy">El consumo se mide en km / yd³</string>
+    <string name="consumo_mim">El consumo se mide en millas / m³</string>
+    <string name="consumo_miy">El consumo se mide en E / yd³</string>
+    <string name="consumo_m100k">El consumo se mide en m³ / 100km</string>
+    <string name="consumo_m100m">El consumo se mide en m³ / 100mÎ</string>
+    <string name="consumo_y100k">El consumo se mide en yd³ / 100km</string>
+    <string name="consumo_y100m">El consumo se mide en yd³ / 100mÎ</string>
+    <string name="vol_tanque_lts">El volumen se mide en litros</string>
+    <string name="vol_tanque_gus">El volumen se mide en galones estadounidenses</string>
+    <string name="vol_tanque_guk">El volumen se mide en galones Reino Unido</string>
+    <string name="vol_gnv_mt">El volumen se mide en metros cúbicos</string>
+    <string name="vol_gnv_jd">El volumen se mide en yd³</string>
+    <string name="medida_km">El odómetro es Kilómetros (KM)</string>
+    <string name="medida_mi">El odómetro es Miles (Mi)</string>
+    <string name="galoes">Galones</string>
+    <string name="litros">Litros</string>
+    <string name="mcubicos">Metros cubicos</string>
+    <string name="jcubicas">Yardas cúbicas</string>
+    <string name="milhas_simbolo">Michigan</string>
+    <string name="km_simbolo">KM</string>
+    <string name="yd_100_mi_simbolo">yd³ / 100mÎ</string>
+    <string name="yd_100_km_simbolo">yd³ / 100km</string>
+    <string name="m_100_m_simbolo">m³ / 100mÎ</string>
+    <string name="m_100_km_simbolo">m³ / 100km</string>
+    <string name="mi_yd_simbolo">ml / yd³</string>
+    <string name="km_yd_simbolo">km / yd³</string>
+    <string name="mi_m_simbolo">mi / m³</string>
+    <string name="km_m_simbolo">km / m³</string>
+    <string name="g_100_mi_simbolo">G / 100mÎ</string>
+    <string name="g_100_km_simbolo">L / 100km</string>
+    <string name="g_100_m_simbolo">G / 100mÎ</string>
+    <string name="l_100_mi_simbolo">T / 100mÎ</string>
+    <string name="l_100_km_simbolo">L / 100km</string>
+    <string name="mpg_simbolo">MPG</string>
+    <string name="km_g_simbolo">km / L</string>
+    <string name="mi_l_simbolo">mil</string>
+    <string name="km_l_simbolo">km / L</string>
+    <string name="tipo_de_calculo">Tipo de cálculo</string>
+    <string name="voce_na_tem_veiculos">Usted no tiene vehículos.</string>
+    <string name="vc_nao_tem_abastecimentos">No tiene suministros.</string>
+    <string name="voce_nao_tem_troca_de_oleo">Usted no tiene cambios de aceite.</string>
+    <string name="vc_nao_tem_veiculo_calculo">Usted no tiene vehículos para hacer un cálculo.</string>
+    <string name="nenhum_veiculo_cadastrado">No Vehículo Registrado</string>
+    <string name="carregando">Cargando ...</string>
+    <string name="novo_abastecimento">Nuevo abastecimiento</string>
+    <string name="novo_veiculo">Nuevo vehículo</string>
+    <string name="nova_troca_oleo">Nuevo cambio de aceite</string>
+    <string name="editar_abastecimento">Editar la oferta</string>
+    <string name="editar_troca_oleo">Cambio de aceite Editar</string>
+    <string name="editar_veiculo">Editar vehículo</string>
+    <string name="data">Fecha</string>
+    <string name="hora">Hora</string>
+    <string name="nome_modelo_oleo">Nombre / marca de aceite</string>
+    <string name="nome_marca_oleo">Nombre / Marca Petróleo</string>
+    <string name="vc_nao_tem_veiculos_p_oleo">Usted no tiene vehículos para tener los cambios de aceite.</string>
+    <string name="vc_nao_tem_veiculos_p_fuel">No tiene vehículos para llevar suministros.</string>
+    <string name="volume_capacity">Cap. %1$s</string>
+    <string name="existe_charge_datetime">Ya existe una disposición que la fecha y la hora.</string>
+    <string name="existe_oil_datetime">Ya existe un cambio de aceite en esa fecha y la hora.</string>
+    <string name="add_new_vehicle">Añadir nuevo vehículo</string>
+    <string name="posto_map">Gasolinera</string>
+    <string name="total_price">Total: %1$s %2$s</string>
+    <string name="price_by_liter">Precio %1$s %2$s</string>
+    <string name="valor_litro">Valor Unitario</string>
+    <string name="valor_total">Cantidad</string>
+    <string name="bkp_title">Crear copia de seguridad</string>
+    <string name="main_bkp_title">Copia de seguridad</string>
+    <string name="bkp_restore_title">Restaurar copia de seguridad</string>
+    <string name="summary_backup">Crear copia de seguridad ahora</string>
+    <string name="summary_restore">Restaurar copia de seguridad</string>
+    <string name="restaurando">Restauración ... </string>
+    <string name="restore_sucesso">Copia de seguridad con éxito restaurado !</string>
+    <string name="restore_fail">Restaurar fallar !</string>
+    <string name="botao_ok">Aceptar</string>
+    <string name="backup">Copia de seguridad</string>
+    <string name="backup_sucesso">Copia de seguridad hecho con éxito !</string>
+    <string name="extract_restore">Al restaurar un elemento, se perderán todos los datos actuales !</string>
+    <string name="wait">Espera ... </string>
+
+    <plurals name="selected_cars">
+        <item quantity="one">1 vehículo seleccionado</item>
+        <item quantity="other">%d coches seleccionados</item>
+    </plurals>
+    <plurals name="selected_oils">
+        <item quantity="one">1 aceite seleccionado</item>
+        <item quantity="other">%d aceite seleccionado</item>
+    </plurals>
+    <plurals name="selected_fuel">
+        <item quantity="one">1 Fuente seleccionada</item>
+        <item quantity="other">%d suministro seleccionado</item>
+    </plurals>
+    <plurals name="itens_excluidos">
+        <item quantity="one">1 eliminada</item>
+        <item quantity="other">%d excluidos</item>
+    </plurals>
+    <string name="eletrico">eléctrico</string>
+    <string name="eletronico">electrónico</string>
+    <string name="escapamento">escape</string>
+    <string name="estofamento">tapicería</string>
+    <string name="lataria">carrocería</string>
+    <string name="motor">motor</string>
+    <string name="rodas_pneu">ruedas y neumáticos</string>
+    <string name="suspensao">suspensión</string>
+    <string name="geral">General</string>
+    <string name="vc_nao_tem_veiculo_maintenance">Usted no tiene vehículos para hacer un mantenimiento.</string>
+    <string name="estabelecimento">Tienda</string>
+    <string name="Descritivo">Descriptivo</string>
+    <string name="Quantidade">Cantidad</string>
+    <string name="preco_unitario">Precio unitario</string>
+    <string name="Categoria">Categoría</string>
+    <string name="subtotal">Total parcial: %1$s %2$s </string>
+    <string name="nova_peca">Nova peça</string>
+    <string name="vc_nao_tem_manutencao">Usted no tiene mantenimiento.</string>
+    <string name="nao_ha_graficos">No hay gráficos de este período.</string>
+    <string name="edit_maintenance">Editar mantenimiento</string>
+    <string name="nova_manutencao">Nuevo mantenimiento</string>
+    <string name="dist_em_km">Distância em %1$s</string>
+    <string name="Litros">Litros</string>
+    <string name="Preco">Precio</string>
+    <string name="Distancia">Distancia</string>
+    <string name="ConsumoGasolina">Consumo Gasolina</string>
+    <string name="ConsumoEtanol">Consumo Etanol</string>
+    <string name="ConsumoGnv">Consumo GNV</string>
+    <string name="ConsumoDiesel">Consumo Diesel</string>
+    <string name="VolumeEmLitros">Volume em %1$s</string>
+    <string name="PrecoUnitario">Precio unitario</string>
+    <string name="PrecoTotal">Precio Total</string>
+    <string name="Restore">Restore</string>
+    <string name="allow">Permitir</string>
+    <string name="denied_permission">Permisos negado</string>
+    <string name="permission_explanation">Sin estos permisos, la aplicación no puede guardar copias de seguridad y el tema de día / noche no funcionar correctamente.</string>
+    <string name="screen1_desc">Controle sus gastos y saber que el combustible a utilizar en función de su perfil de conductor.</string>
+    <string name="screen1_title">¡Bienvenido! </string>
+    <string name="screen2_desc">Con el cálculo automático de consumo medio, usted sabrá que el combustible a utilizar solamente indicar el precio.</string>
+    <string name="screen2_title">¿Qué combustible?</string>
+    <string name="screen3_desc">Con la función de suministro, se controla el suministro de su vehículo y se puede ver los gráficos por periodos.</string>
+    <string name="screen3_title">Cuántos Suministros ?</string>
+    <string name="screen4_desc">Es necesario cambiar una pieza del coche? Con la función de mantenimiento puede saber el momento adecuado para el intercambio.</string>
+    <string name="screen4_title">Necesito hacer el mantenimiento ?</string>
+    <string name="screen5_desc">Para utilizar Mi Coche, el permiso de acceso al medio es necesaria para permitir el uso en la siguiente pantalla.</string>
+    <string name="screen5_title">Casi listo !</string>
+    <string name="proporcao">Nivel de combustible </string>
+    <string name="v14_sign">¼</string>
+    <string name="v12_sign">½</string>
+    <string name="v34_sign">¾</string>
+    <string name="percent">%1$d%2$s</string>
+    <string name="percent_sign">%</string>
+    <string name="cheio_sign">C</string>
+    <string name="vazio_sign">V</string>
+    <string name="_0p">0%</string>
+    <string name="ap_s_abastecimento">Después de suministro</string>
+    <string name="direcao">volante</string>
+    <string name="freios">frenos</string>
+    <string name="transmissao">caja de cambios</string>
+    <string name="PrecoKM">Precio p/ %1$s</string>
+    <string name="quantidade_um">La cantidad debe ser mayor o igual a 1 </string>
+    <string name="descritivo_vazio">El campo de descripción no puede estar vacío </string>
+    <string name="parcial">Parcial</string>
+    <string name="qtde">Cantidad</string>
+    <string name="fuel_place">Local do Abastecimento</string>
+    <string name="changelog_title">Qué hay de nuevo</string>
+    <string name="changelog_full_title">Changelog</string>
+    <string name="changelog_ok_button">OK</string>
+    <string name="changelog_show_full">más...</string>
+    <string name="comb_list">Combustibles</string>
+    <string name="fuel_kind">Tenemos  %1$d Tipos de combustible</string>
+    <string name="distancia_media">Distancia media %1$s</string>
+    <string name="simbolo_moeda_valor">EUR %1$s</string>
+    <string name="update_models">Actualizando modelos de coches</string>
+</resources>

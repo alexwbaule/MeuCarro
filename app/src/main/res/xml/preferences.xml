@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/unidade_combustivel">
+        <ListPreference
+            android:title="@string/vol_tanque"
+            android:key="un_volume_tanque"
+            android:defaultValue="@string/default_un_volume_tanque"
+            android:summary="@string/vol_tanque_lts"
+            android:entries="@array/vol_tanque_entry"
+            android:entryValues="@array/vol_tanque_values"/>
+        <ListPreference
+            android:title="@string/afer_calculo"
+            android:defaultValue="@string/default_afer_calc"
+            android:key="un_consumo_comb"
+            android:summary="@string/consumo_kml"
+            android:entries="@array/consumo_comb_entry_kml"
+            android:entryValues="@array/consumo_values"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/unidade_gnv">
+        <ListPreference
+            android:title="@string/vol_gnv"
+            android:defaultValue="@string/default_vol_tq_gnv"
+            android:key="un_volume_gnv"
+            android:summary="@string/vol_gnv_mt"
+            android:entries="@array/vol_gnv_entry"
+            android:entryValues="@array/vol_gnv_values"/>
+        <ListPreference
+            android:title="@string/afer_calculo"
+            android:defaultValue="@string/default_afer_calc_gnv"
+            android:key="un_consumo_gnv"
+            android:summary="@string/consumo_kmm"
+            android:entries="@array/consumo_gnv_entry_kmm"
+            android:entryValues="@array/consumo_values"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/unidade_odometro">
+        <ListPreference
+            android:title="@string/afer_distancia"
+            android:defaultValue="@string/default_distancia"
+            android:key="un_medida_dist"
+            android:summary="@string/medida_km"
+            android:entries="@array/medida_entry"
+            android:entryValues="@array/medida_values"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/type_calc">
+        <ListPreference
+            android:title="@string/calc_sum_consumo"
+            android:defaultValue="@string/default_select"
+            android:key="un_limit_select"
+            android:summary="@string/calculo_media_consumo_full"
+            android:entries="@array/limit_select"
+            android:entryValues="@array/limit_select_values"/>
+        <ListPreference
+            android:title="@string/calc_abast"
+            android:defaultValue="@string/default_custo"
+            android:key="un_calculo_custo"
+            android:summary="@string/calculo_type_custo"
+            android:entries="@array/custo_name"
+            android:entryValues="@array/custo_values"/>
+    </PreferenceCategory>
+
+    <!--
+    <PreferenceCategory android:title="Personalizações">
+        <com.alexwbaule.flexprofile.dialogs.FuelAdd
+            android:title="@string/comb_list"
+            android:key="fuel_list"
+            android:summary="@string/fuel_kind">
+        </com.alexwbaule.flexprofile.dialogs.FuelAdd>
+    </PreferenceCategory>
+    -->
+    <PreferenceCategory android:title="@string/main_bkp_title">
+        <com.alexwbaule.flexprofile.dialogs.MakeBackup
+            android:title="@string/bkp_title"
+            android:key="bkp_make"
+            android:summary="@string/summary_backup"/>
+        <com.alexwbaule.flexprofile.dialogs.MakeRestore
+            android:title="@string/bkp_restore_title"
+            android:persistent="true"
+            android:key="bkp_restore"
+            android:summary="@string/summary_restore"/>
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,408 @@
+<resources>
+    <string name="empty">""</string>
+    <string name="app_name">My car</string>
+    <string name="sel_comb">Flex Calculator</string>
+    <string name="sel_abast">Supplies</string>
+    <string name="sel_oil">Oil</string>
+    <string name="sel_veic">Vehicles</string>
+    <string name="sel_ajuda">Help and feedback</string>
+    <string name="config">Settings</string>
+    <string name="sel_manut">Maintenance</string>
+    <string name="sel_report">Reports</string>
+    <string name="navigation_drawer_open">Open navigation menu</string>
+    <string name="navigation_drawer_close">Close navigation menu</string>
+    <string name="action_add_veic">Add vehicle</string>
+    <string name="action_add_oil">Add oil change</string>
+    <string name="action_add_abst">Add fuel supply</string>
+    <string name="action_settings">Settings</string>
+    <string name="help_here_calculo">Add a vehicle to make the fuel calculation.</string>
+    <string name="help_here_abastecimento">Add a supply to improve the calculation of consumption</string>
+    <string name="help_here_veiculo">Add a vehicle to calculate the consumption</string>
+    <string name="help_here_oil">Add a oil change to calculate the next exchange</string>
+    <string name="selecione_carro">Select cars</string>
+    <string name="selecione_oleo">Select oil changes</string>
+    <string name="selecione_fuel">Select the supplies</string>
+    <string name="desfazer">Undo</string>
+    <string name="gasolina">Gasoline</string>
+    <string name="Etanol">Ethanol</string>
+    <string name="gnv">CNG</string>
+    <string name="diesel">Diesel</string>
+    <string name="intervalo_valido">The valid range is %1$s to %2$s %3$s</string>
+    <string name="km_hint_anterior">from %1$s %2$s</string>
+    <string name="km_atual">%1$s current</string>
+    <string name="selecione_um_combustivel">Select a fuel</string>
+    <string name="o_volume_nao_pode">Volume can\'t be zero ( %1$s )!</string>
+    <string name="o_volume_nao_pode_max">The volume can not be higher than %1$s ( %2$s )!</string>
+    <string name="km_atual_maior">The current odometer ( %1$d ) can not be equal to or HIGHER than the last ( %2$d )!</string>
+    <string name="km_atual_menor">The current odometer ( %1$d ) can not be equal to or LESS than the last ( %2$d )!</string>
+    <string name="inativo">Inactive</string>
+    <string name="ativo">Active</string>
+    <string name="salvar">Save</string>
+    <string name="deletar">Delete</string>
+    <string name="set_as_default">Set as Default</string>
+    <string name="editar">Edit</string>
+    <string name="combustivel">Fuel</string>
+    <string name="autonomia">Autonomy</string>
+    <string name="custo">Cost</string>
+    <string name="dash">-</string>
+    <string name="custo_km">Cost %1$s</string>
+    <string name="tanque_cheio">Full tank</string>
+    <string name="date_hint">07/12/2014</string>
+    <string name="data_do_abastecimento">Date supply</string>
+    <string name="odometro_atual">Current odometer</string>
+    <string name="volume_abastecido">filled volume</string>
+    <string name="combustivel_utilizado">fuel</string>
+    <string name="data_troca_de_oleo">date of oil change</string>
+    <string name="odometro_na_proxima_troca">odometer next  oil change</string>
+    <string name="oleo_utilizado">oil used</string>
+    <string name="volume_do_oleo">oil volume</string>
+    <string name="filtro">Filter</string>
+    <string name="nome_do_carro">Car Name</string>
+    <string name="combustiveis_e_consumo">fuel and consumption</string>
+    <string name="volume_do_combustivel">fuel volume</string>
+    <string name="Volume_do_combustivel">Fuel Volume</string>
+    <string name="Volume_do_gnv">Volume of CNG</string>
+    <string name="tipo_de_veiculo">type of vehicle</string>
+    <string name="oleo">Oil</string>
+    <string name="odometro_proxima_troca">Odometer next change</string>
+    <string name="volume">Fueled volume</string>
+    <string name="consumo">Consumption</string>
+    <string name="distancia_percorrida">Travelled distance</string>
+    <string name="simbolo_moeda">U$ </string>
+    <string name="zerado_valor">0.00</string>
+    <string name="nome_modelo_existente">This vehicle already exists</string>
+    <string name="consumo_existente">This consumption already exists</string>
+    <string name="nenhum">None</string>
+    <string name="erro_na_data_inserida">Error in the date inserted</string>
+    <string name="insira_um_veiculo">Add a vehicle</string>
+    <string name="registro_existente">Existing record</string>
+    <string name="erro_atualizar">Updating error</string>
+    <string name="erro_deletar">Deleting error</string>
+    <string name="carro_sport">Sport</string>
+    <string name="carro_sedan">Sedan</string>
+    <string name="carro_hatch">Hatch</string>
+    <string name="carro_sw">SW</string>
+    <string name="carro_suv">SUV</string>
+    <string name="carro_conversivel">Convertible</string>
+    <string name="carro_utilitario">Utility</string>
+    <string name="carro_moto_sport">Sport Bike</string>
+    <string name="carro_chooper">Chooper</string>
+    <string name="carro_scooter">Scooter</string>
+    <string name="carro_cross">Cross</string>
+    <string name="primeiro_consumo_nao_vazio">The first selected consumption can\'t be empty</string>
+    <string name="segundo_consumo_nao_vazio">The second selected consumption can not be empty</string>
+    <string name="terceiro_consumo_nao_vazio">The third selected consumption can not be empty</string>
+    <string name="quarto_consumo_nao_vazio">The fourth selected consumption can not be empty</string>
+    <string name="carro_nao_vazio">Vehicle name can not be empty</string>
+    <string name="selecione_ao_menos_um_combustivel">Select at least one fuel</string>
+    <string name="indique_volume_tanque">Specify the fuel tank volume</string>
+    <string name="indique_volume_gnv">Specify the cylinder volume of CNG</string>
+    <string name="nome_do_oleo_vazio">The oil name can not be empty</string>
+    <string name="km_atual_vazio">Current odometer can not be zero</string>
+    <string name="km_proxima_troca_vazio">Current odometer of the next change can not be empty</string>
+    <string name="km_anterior_proximo_oil">%1$s previous %2$d (next %2$d )</string>
+    <string name="proxima_troca_medida">%1$s next change</string>
+    <string-array name="consumo_comb_entry_kml">
+        <item>km/L</item>
+        <item>L/100km</item>
+    </string-array>
+    <string-array name="consumo_comb_entry_kmg">
+        <item>km/G</item>
+        <item>G/100km</item>
+    </string-array>
+    <string-array name="consumo_comb_entry_mig">
+        <item>mi/G</item>
+        <item>G/100mi</item>
+    </string-array>
+    <string-array name="consumo_comb_entry_mil">
+        <item>mi/L</item>
+        <item>L/100mi</item>
+    </string-array>
+    <string-array name="consumo_gnv_entry_kmm">
+        <item>km/m³</item>
+        <item>m³/100km</item>
+    </string-array>
+    <string-array name="consumo_gnv_entry_kmy">
+        <item>km/yd³</item>
+        <item>yd³/100km</item>
+    </string-array>
+    <string-array name="consumo_gnv_entry_miy">
+        <item>ml/yd³</item>
+        <item>yd³/100mi</item>
+    </string-array>
+    <string-array name="consumo_gnv_entry_mim">
+        <item>mi/m³</item>
+        <item>m³/100mi</item>
+    </string-array>
+    <string-array name="consumo_values">
+        <item>mpv</item>
+        <item>v100m</item>
+    </string-array>
+    <string-array name="custo_name">
+        <item>Autonomy</item>
+        <item>Cost</item>
+    </string-array>
+    <string-array name="custo_values">
+        <item>autonomy</item>
+        <item>cost</item>
+    </string-array>
+    <string-array name="list_combustiveis">
+        <item>None</item>
+        <item>Gasoline</item>
+        <item>Ethanol</item>
+        <item>CNG</item>
+        <item>Diesel</item>
+    </string-array>
+    <string-array name="medida_entry">
+        <item>Kilometers</item>
+        <item>Miles</item>
+    </string-array>
+    <string-array name="medida_values">
+        <item>km</item>
+        <item>mi</item>
+    </string-array>
+    <string-array name="vol_tanque_entry">
+        <item>Liters</item>
+        <item>US gallons</item>
+        <item>UK gallons</item>
+    </string-array>
+    <string-array name="vol_tanque_values">
+        <item>LTS</item>
+        <item>GUS</item>
+        <item>GUK</item>
+    </string-array>
+    <string-array name="vol_gnv_entry">
+        <item>Cubic meters (m³)</item>
+        <item>Cubic yards (yd³)</item>
+    </string-array>
+    <string-array name="vol_gnv_values">
+        <item>MTS</item>
+        <item>YAD</item>
+    </string-array>
+    <string-array name="limit_select">
+        <item>All fuel supplies</item>
+        <item>5 fuel supplies</item>
+        <item>10 fuel supplies</item>
+        <item>15 fuel supplies</item>
+        <item>20 fuel supplies</item>
+    </string-array>
+    <string-array name="limit_select_values">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
+
+    <string name="default_m3">m³</string>
+    <string name="default_pol3">yd³</string>
+
+    <string name="default_lts">L</string>
+    <string name="default_gaus">G</string>
+    <string name="default_gauk">G</string>
+
+
+    <string name="default_un_volume_tanque">LTS</string>
+    <string name="default_vol_tq_gnv">MTS</string>
+    <string name="default_afer_calc">mpv</string>
+    <string name="default_afer_calc_gnv">mpv</string>
+    <string name="default_custo">custo</string>
+    <string name="default_select">0</string>
+    <string name="default_distancia">km</string>
+    <string name="unidade_combustivel">Fuel</string>
+    <string name="unidade_gnv">CNG</string>
+    <string name="unidade_odometro">Odometer</string>
+    <string name="vol_tanque">Tank</string>
+    <string name="afer_distancia">Odometer</string>
+    <string name="afer_calculo">Consumption</string>
+    <string name="vol_gnv">Cylinder</string>
+    <string name="type_calc">Calculation</string>
+    <string name="calc_abast">Supply</string>
+    <string name="calc_sum_consumo">General Average</string>
+    <string name="calculo_media_consumo_full">The overall average consumption will be for all supplies</string>
+    <string name="calculo_media_consumo_5">The overall average consumption will be the last 5 supplies</string>
+    <string name="calculo_media_consumo_10">The overall average consumption will be 10 by the last supplies</string>
+    <string name="calculo_media_consumo_15">The overall average consumption will be the 15 last supplies</string>
+    <string name="calculo_media_consumo_20">The overall average consumption will be 20 by the last supplies</string>
+    <string name="calculo_type_autonomia">The calculation will be for autonomy</string>
+    <string name="calculo_type_custo">The calculation will be made at cost</string>
+    <string name="vol_medido_m3">The volume is measured in cubic meters</string>
+    <string name="consumo_kml">Consumption is measured in km/L</string>
+    <string name="consumo_kmg">Consumption is measured in km/G</string>
+    <string name="consumo_mil">Consumption will be measured in mi/L</string>
+    <string name="consumo_mig">Consumption will be measured in mi/G</string>
+    <string name="consumo_l100k">Consumption will be measured in L/100km</string>
+    <string name="consumo_l100m">Consumption will be measured in L/100mi</string>
+    <string name="consumo_g100k">Consumption will be measured in G/100km</string>
+    <string name="consumo_g100m">Consumption is measured in G/100mi</string>
+    <string name="consumo_kmm">Consumption is measured in km/m³</string>
+    <string name="consumo_kmy">Consumption is measured in km/yd³</string>
+    <string name="consumo_mim">Consumption is measured in mi/m³</string>
+    <string name="consumo_miy">Consumption will be measured in mi/yd³</string>
+    <string name="consumo_m100k">Consumption is measured in m³/100km</string>
+    <string name="consumo_m100m">Consumption is measured in m³/100mi</string>
+    <string name="consumo_y100k">Consumption will be measured in yd³/100km</string>
+    <string name="consumo_y100m">Consumption will be measured in yd³/100mi</string>
+    <string name="vol_tanque_lts">The volume is measured in liters</string>
+    <string name="vol_tanque_gus">The volume will be measured in US Gallons</string>
+    <string name="vol_tanque_guk">The volume is measured in UK Gallons</string>
+    <string name="vol_gnv_mt">The volume is measured in  m³</string>
+    <string name="vol_gnv_jd">The volume will be measured in yd³</string>
+    <string name="medida_km">The Odometer is Kilometers (KM)</string>
+    <string name="medida_mi">The Odometer is Miles (Mi)</string>
+    <string name="galoes">Gallons</string>
+    <string name="litros">Liters</string>
+    <string name="mcubicos">Cubic meters</string>
+    <string name="jcubicas">Cubic yards</string>
+    <string name="milhas_simbolo">MI</string>
+    <string name="km_simbolo">KM</string>
+    <string name="yd_100_mi_simbolo">yd³/100mi</string>
+    <string name="yd_100_km_simbolo">yd³/100km</string>
+    <string name="m_100_m_simbolo">m³/100mi</string>
+    <string name="m_100_km_simbolo">m³/100km</string>
+    <string name="mi_yd_simbolo">mi/yd³</string>
+    <string name="km_yd_simbolo">km/yd³</string>
+    <string name="mi_m_simbolo">mi/m³</string>
+    <string name="km_m_simbolo">km/m³</string>
+    <string name="g_100_mi_simbolo">G/100mi</string>
+    <string name="g_100_km_simbolo">G/100km</string>
+    <string name="g_100_m_simbolo">G/100mi</string>
+    <string name="l_100_mi_simbolo">L/100mi</string>
+    <string name="l_100_km_simbolo">L/100km</string>
+    <string name="mpg_simbolo">MPG</string>
+    <string name="km_g_simbolo">km/G</string>
+    <string name="mi_l_simbolo">mi/L</string>
+    <string name="km_l_simbolo">km/L</string>
+    <string name="tipo_de_calculo">Calculation type</string>
+    <string name="voce_na_tem_veiculos">You do not have vehicles.</string>
+    <string name="vc_nao_tem_abastecimentos">You have no supplies.</string>
+    <string name="voce_nao_tem_troca_de_oleo">You do not have oil changes.</string>
+    <string name="vc_nao_tem_veiculo_calculo">You do not have vehicles to make a calculation.</string>
+    <string name="nenhum_veiculo_cadastrado">None registered vehicle</string>
+    <string name="carregando">Loading...</string>
+    <string name="novo_abastecimento">New supply</string>
+    <string name="novo_veiculo">New vehicle</string>
+    <string name="nova_troca_oleo">New oil change</string>
+    <string name="editar_abastecimento">Edit supply</string>
+    <string name="editar_troca_oleo">Edit oil change</string>
+    <string name="editar_veiculo">Edit vehicle</string>
+    <string name="data">Date</string>
+    <string name="hora">Hour</string>
+    <string name="nome_modelo_oleo">Name/brand oil</string>
+    <string name="nome_marca_oleo">Name/Brand Oil</string>
+    <string name="vc_nao_tem_veiculos_p_oleo">You do not have vehicles to have oil changes.</string>
+    <string name="vc_nao_tem_veiculos_p_fuel">You have no vehicles to take supplies.</string>
+    <string name="volume_capacity">Cap. %1$s</string>
+    <string name="existe_charge_datetime">There is already a supply on that date and time.</string>
+    <string name="existe_oil_datetime">There is already an oil change on that date and time.</string>
+    <string name="add_new_vehicle">Add new vehicle</string>
+    <string name="posto_map">Fuel station</string>
+    <string name="total_price">Total: %1$s %2$s</string>
+    <string name="price_by_liter">Price %1$s %2$s</string>
+    <string name="valor_litro">Unitary value</string>
+    <string name="valor_total">Amount</string>
+    <string name="bkp_title">Create backup</string>
+    <string name="main_bkp_title">Backup</string>
+    <string name="bkp_restore_title">Restore backup</string>
+    <string name="summary_backup">Create backup now</string>
+    <string name="summary_restore">Restore backup</string>
+    <string name="restaurando">Restoring...</string>
+    <string name="restore_sucesso">Successfully restored backup !</string>
+    <string name="restore_fail">Restore fail !</string>
+    <string name="botao_ok">OK</string>
+    <string name="backup">Backup</string>
+    <string name="backup_sucesso">Successfully done backup !</string>
+    <string name="extract_restore">When restore an item, all current data will be lost!</string>
+    <string name="wait">Wait...</string>
+
+    <plurals name="selected_cars">
+        <item quantity="one">1 selected car</item>
+        <item quantity="other">%d selected cars</item>
+    </plurals>
+    <plurals name="selected_oils">
+        <item quantity="one">1 selected oil</item>
+        <item quantity="other">%d oil selected</item>
+    </plurals>
+    <plurals name="selected_fuel">
+        <item quantity="one">1 selected supply</item>
+        <item quantity="other">%d selected supply</item>
+    </plurals>
+    <plurals name="itens_excluidos">
+        <item quantity="one">1 deleted</item>
+        <item quantity="other">%d excluded</item>
+    </plurals>
+    <string name="eletrico">eletric</string>
+    <string name="eletronico">electronic</string>
+    <string name="escapamento">exhaust</string>
+    <string name="estofamento">upholstery</string>
+    <string name="lataria">car bodywork</string>
+    <string name="motor">engine</string>
+    <string name="rodas_pneu">wheels and tires</string>
+    <string name="suspensao">suspension</string>
+    <string name="geral">General</string>
+    <string name="vc_nao_tem_veiculo_maintenance">You do not have vehicles to make a maintenance.</string>
+    <string name="estabelecimento">Store</string>
+    <string name="Descritivo">Descriptive</string>
+    <string name="Quantidade">Amount</string>
+    <string name="preco_unitario">Unit price</string>
+    <string name="Categoria">Category</string>
+    <string name="subtotal">Subtotal: %1$s %2$s</string>
+    <string name="nova_peca">Nova peça</string>
+    <string name="vc_nao_tem_manutencao">You have no maintenance. </string>
+    <string name="nao_ha_graficos">There are no graphics for this period.</string>
+    <string name="edit_maintenance">Edit maintenance</string>
+    <string name="nova_manutencao">New maintenance</string>
+    <string name="Litros">Liters</string>
+    <string name="Preco">Price</string>
+    <string name="Distancia">Distance</string>
+    <string name="ConsumoGasolina">Gasoline Consumption</string>
+    <string name="ConsumoEtanol">Ethanol Consumption</string>
+    <string name="ConsumoGnv">CNG Consumption</string>
+    <string name="ConsumoDiesel">Diesel Consumption</string>
+    <string name="PrecoUnitario">Unit price</string>
+    <string name="PrecoTotal">Total Price</string>
+    <string name="VolumeEmLitros">Volume em %1$s</string>
+    <string name="dist_em_km">Distance in %1$s</string>
+    <string name="Restore">Restore</string>
+    <string name="allow">Allow</string>
+    <string name="denied_permission">Permissions denied</string>
+    <string name="permission_explanation">Without these permissions, the application can not save backups and theme day / night not work properly.</string>
+    <string name="screen1_desc">Control your spending and know which fuel to use based on your driver profile. </string>
+    <string name="screen1_title">Welcome !</string>
+    <string name="screen2_desc">With automatic calculation of average consumption, you will know which fuel to use only informing the price.</string>
+    <string name="screen2_title">What Fuel?</string>
+    <string name="screen3_desc">With the supply function, you control the supply of your vehicle and you can see charts for periods.</string>
+    <string name="screen3_title">How many Fills?</string>
+    <string name="screen4_desc">You need to exchange a car part? With the maintenance function you may know the right time for the exchange.</string>
+    <string name="screen4_title">I need to do maintenance ?</string>
+    <string name="screen5_desc">To use My Car, the Media Access permission is required allow the use in the next screen.</string>
+    <string name="screen5_title">Almost done !</string>
+    <string name="proporcao">Fuel Level</string>
+    <string name="v14_sign">¼</string>
+    <string name="v12_sign">½</string>
+    <string name="v34_sign">¾</string>
+    <string name="percent">%1$d%2$s</string>
+    <string name="percent_sign">%</string>
+    <string name="cheio_sign">F</string>
+    <string name="vazio_sign">E</string>
+    <string name="_0p">0%</string>
+    <string name="ap_s_abastecimento">After supply</string>
+    <string name="direcao">steering</string>
+    <string name="freios">brakes</string>
+    <string name="transmissao">gearbox</string>
+    <string name="PrecoKM">Price by %1$s</string>
+    <string name="parcial">Partial</string>
+    <string name="quantidade_um">The amount must be greater than or equal to 1</string>
+    <string name="descritivo_vazio">The description field can not be empty</string>
+    <string name="qtde">Amount</string>
+    <string name="fuel_place">Gas Station</string>
+    <string name="changelog_title">What\'s new</string>
+    <string name="changelog_full_title">Changelog</string>
+    <string name="changelog_ok_button">OK</string>
+    <string name="changelog_show_full">more...</string>
+    <string name="comb_list">Fuels</string>
+    <string name="fuel_kind">We have %1$d fuel types</string>
+    <string name="distancia_media">Average distance %1$s</string>
+    <string name="simbolo_moeda_valor">U$ %1$s</string>
+    <string name="update_models">Updating cars models</string>
+</resources>

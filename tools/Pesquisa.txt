@@ -1,0 +1,75 @@
+Proximos Releases:
+
+ - Calibragem de pneus com tabela por carro.
+
+ - Avisos pré-cadastrados:
+  - Vencimento seguro veiculo.
+  - proxima troca de oleo
+  - proximo abastecimento.
+  - revisões do veiculo.
+  - troca filtro de oleo
+  - troca filtro de combustivel
+  - troca filtro de ar condicionado
+  - alinhamento e balanceamento
+  - liquido de arrefecimento
+  - oléo de cambio
+  - oléo de diferencial
+  - troca de bateria
+  - rodizio pneus
+  - troca de velas
+  - troca de cabos de velas
+  - Pastilhas de freio
+  - Correia dentada
+
+
+ - Estacionar o carro
+  - Busca por estacionamentos
+  - cadastra o valor gasto no estacionamento
+
+ - Colocar todos dados na Nuvem
+  - Multi App (android)
+  - Web App
+
+ - Multi combustivel (ao add o carro nao informar o combustivel)
+  - exibir todos tipos de combustiveis no abastecimento
+  - calcular consumo por varios tipos de combustivel
+  - na tabela superior do carro, agrupar por combustivel (gasolina, gasolina aditivada, podium, premium, etc)
+
+  - Shell
+   - Gasolina Comum
+   - V-Power (aditivada)
+   - V-Power Racing (alta octanagem)
+   - V-Power Etanol
+   - Etanol Comum
+   - Evolux Diesel
+   - Evolux Arla 32
+
+  - Petrobras
+   - Gasolina Comum
+   - Petrobras Grid (aditivada)
+   - Petrobras Podium (alta octanagem)
+   - Etanol Comum
+   - GNV
+   - Diesel Podium S-10
+   - Diesel Grid S-10
+   - Diesel Grid S-500
+   - Diesel Comum S-10
+   - Diesel Comum S-500
+
+  - Ipiranga
+   - OctaPro (alta octanagem)
+   - DT Clean  (aditivada)
+   - Gasolina Comum
+   - Diesel Comum
+   - Diesel Aditivado
+   - Diesel S10
+   - Etanol
+   - GNV
+
+  - Ale
+   - Ale Premium
+   - Ale Plus
+   - Diesel Plus
+   - Diesel S-10
+   - Etanol
+   - GNV

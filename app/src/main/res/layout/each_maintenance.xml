@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/listspace"
+    card_view:cardCornerRadius="2dp"
+    card_view:contentPadding="@dimen/listspace"
+    card_view:cardElevation="6dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="@dimen/listspace"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:textAlignment="center">
+
+            <TextView
+                android:text="18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/maintenance_date"
+                android:textSize="36sp"
+                android:gravity="center"
+                android:textAllCaps="false"
+                style="@style/AppTheme.MyListSeparator"
+                android:textStyle="bold" />
+
+            <TextView
+                android:text="12:00"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@dimen/dim_8dp"
+                android:id="@+id/maintenance_time" />
+
+            <com.google.android.material.floatingactionbutton.FloatingActionButton
+                android:id="@+id/fab_maintenance"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_margin="@dimen/listspace"
+                android:src="@drawable/ic_menu_maintenance"
+                app:fabSize="mini"
+                android:tint="@color/mini_fab_tint"
+                app:backgroundTint="@color/mini_fab"
+                android:clickable="true" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@drawable/ic_menu_store"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:id="@+id/imageView16"
+                    android:paddingLeft="4dp"
+                    android:paddingRight="4dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/estabelecimento"
+                    android:id="@+id/textView2"
+                    android:layout_alignTop="@+id/imageView16"
+                    android:layout_toRightOf="@+id/imageView16"
+                    android:layout_toEndOf="@+id/imageView16" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/maintenance_name"
+                    android:layout_alignBottom="@+id/textView2"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@drawable/ic_menu_money"
+                    android:id="@+id/imageView17"
+                    android:paddingLeft="4dp"
+                    android:paddingRight="4dp"
+                    android:layout_below="@+id/imageView16"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginTop="14dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/Quantidade"
+                    android:id="@+id/textView11"
+                    android:layout_alignTop="@+id/imageView17"
+                    android:layout_toRightOf="@+id/imageView17"
+                    android:layout_toEndOf="@+id/imageView17" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/valor_total"
+                    android:id="@+id/textView12"
+                    android:layout_below="@+id/textView11"
+                    android:layout_alignLeft="@+id/textView11"
+                    android:layout_alignStart="@+id/textView11" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/maintenance_qtde"
+                    android:layout_alignBottom="@+id/textView11"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/maintenance_total"
+                    android:layout_alignBottom="@+id/textView12"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@drawable/ic_menu_odometer"
+                    android:id="@+id/imageView21"
+                    android:paddingLeft="4dp"
+                    android:paddingRight="4dp"
+                    android:layout_below="@id/imageView17"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginTop="14dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/odometro_atual"
+                    android:id="@+id/fuel_km_label"
+                    android:layout_alignTop="@+id/imageView21"
+                    android:layout_toRightOf="@+id/imageView21"
+                    android:layout_toEndOf="@+id/imageView21" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/maintenance_km"
+                    android:layout_alignBottom="@+id/fuel_km_label"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true" />
+
+            </RelativeLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/maintenance_layout_parts">
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

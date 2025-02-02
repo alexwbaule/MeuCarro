@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/listspace"
+    card_view:cardCornerRadius="2dp"
+    android:padding="@dimen/listspace"
+    card_view:cardElevation="6dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="@dimen/listspace"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            style="@style/AppTheme.MyListSeparator">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/fuel_date"
+                android:layout_weight="1"
+                android:gravity="start"
+                android:textStyle="bold"
+                android:typeface="sans" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/fuel_time"
+                android:layout_weight="1"
+                android:gravity="end"
+                android:textStyle="bold"
+                android:typeface="sans" />
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/padding_margin_top">
+
+            <com.google.android.material.floatingactionbutton.FloatingActionButton
+                android:id="@+id/comb_type"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_margin="@dimen/listspace"
+                android:src="@drawable/ic_alcool"
+                app:backgroundTint="@color/mini_fab"
+                app:fabSize="mini"
+                android:clickable="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/odometro_atual"
+                android:id="@+id/fuel_km_label"
+                android:layout_below="@+id/fuel_volum_label"
+                android:layout_alignLeft="@+id/fuel_volum_label"
+                android:layout_alignStart="@+id/fuel_volum_label" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/fuel_km"
+                android:layout_alignTop="@+id/fuel_km_label"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:paddingRight="@dimen/padding_margin_top" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/volume"
+                android:id="@+id/fuel_volum_label"
+                android:layout_below="@+id/fuel_proportion_label"
+                android:layout_toRightOf="@+id/comb_type"
+                android:layout_toEndOf="@+id/comb_type" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/fuel_qtde"
+                android:layout_alignTop="@+id/fuel_volum_label"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:paddingRight="@dimen/padding_margin_top" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/consumo"
+                android:id="@+id/fuel_kml_label"
+                android:layout_below="@+id/fuel_distance_label"
+                android:layout_toRightOf="@+id/comb_type"
+                android:layout_toEndOf="@+id/comb_type" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/fuel_kml"
+                android:layout_alignTop="@+id/fuel_kml_label"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:paddingRight="@dimen/padding_margin_top" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/distancia_percorrida"
+                android:id="@+id/fuel_distance_label"
+                android:layout_below="@+id/fuel_used_label"
+                android:layout_toEndOf="@+id/comb_type"
+                android:layout_toRightOf="@+id/comb_type" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/fuel_km_road"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignTop="@+id/fuel_distance_label"
+                android:paddingRight="@dimen/padding_margin_top" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/combustivel"
+                android:id="@+id/textView2"
+                android:layout_alignParentTop="true"
+                android:layout_toRightOf="@+id/comb_type"
+                android:layout_toEndOf="@+id/comb_type" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/fuel_comb_name"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:textStyle="bold"
+                android:paddingRight="@dimen/padding_margin_top" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/valor_litro"
+                android:id="@+id/fuel_unit_label"
+                android:layout_below="@+id/fuel_km_label"
+                android:layout_alignLeft="@+id/fuel_km_label"
+                android:layout_alignStart="@+id/fuel_km_label" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/fuel_price_unit"
+                android:layout_alignTop="@+id/fuel_unit_label"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:paddingRight="@dimen/padding_margin_top" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/valor_total"
+                android:id="@+id/fuel_sum_label"
+                android:layout_below="@+id/fuel_unit_label"
+                android:layout_toRightOf="@+id/comb_type"
+                android:layout_toEndOf="@+id/comb_type" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/fuel_price_tot"
+                android:layout_alignTop="@+id/fuel_sum_label"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:paddingRight="@dimen/padding_margin_top" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Proporção abast."
+                android:id="@+id/fuel_proportion_label"
+                android:layout_below="@+id/textView14"
+                android:layout_toRightOf="@+id/comb_type"
+                android:layout_toEndOf="@+id/comb_type" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/fuel_proportion"
+                android:layout_alignTop="@+id/fuel_proportion_label"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:paddingRight="@dimen/padding_margin_top" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tipo de abast."
+                android:id="@+id/textView14"
+                android:layout_below="@+id/textView2"
+                android:layout_toRightOf="@+id/comb_type"
+                android:layout_toEndOf="@+id/comb_type" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/fuel_type"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignTop="@+id/textView14"
+                android:paddingRight="@dimen/padding_margin_top"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Volume consumido"
+                android:id="@+id/fuel_used_label"
+                android:layout_toRightOf="@+id/comb_type"
+                android:layout_toEndOf="@+id/comb_type"
+                android:layout_below="@+id/fuel_sum_label"
+                android:layout_marginTop="10dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/fuel_qtde_used"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignTop="@+id/fuel_used_label"
+                android:paddingRight="@dimen/padding_margin_top" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

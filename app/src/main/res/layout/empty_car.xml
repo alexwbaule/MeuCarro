@@ -1,0 +1,29 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/voce_na_tem_veiculos"
+        android:padding="@dimen/padding"
+        android:id="@+id/txt_empty_value"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:background="@drawable/bg_empty" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab_vehicle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:layout_margin="16dp"
+        android:tint="@color/white"
+        android:src="@drawable/ic_menu_car"
+        app:layout_anchorGravity="bottom|right|end"
+        app:borderWidth="0dp"
+        app:elevation="@dimen/fab_elevation" />
+</FrameLayout>

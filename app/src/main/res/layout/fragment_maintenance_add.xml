@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/maintenance_parts_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/imageView10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/form_left_right_margin"
+                android:layout_weight="0"
+                android:src="@drawable/ic_menu_store" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                app:errorTextAppearance="@style/AppTheme.TextAppearance.Error"
+                android:id="@+id/hint_maintenance_add_local"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/form_left_right_margin"
+                android:layout_marginRight="@dimen/form_left_right_margin"
+                android:layout_marginTop="@dimen/form_top_bottom_margin"
+                android:layout_weight="1">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/maintenance_add_local"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/estabelecimento"
+                    android:inputType="text"
+                    android:singleLine="true" />
+            </com.google.android.material.textfield.TextInputLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/form_left_right_margin"
+                android:layout_weight="0"
+                android:src="@drawable/ic_menu_calendar_2" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                app:errorTextAppearance="@style/AppTheme.TextAppearance.Error"
+                android:id="@+id/hint_maintenance_date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/form_left_right_margin"
+                android:layout_marginRight="@dimen/form_left_right_margin"
+                android:layout_marginTop="@dimen/form_top_bottom_margin"
+                android:layout_weight="1">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/maintenance_add_date"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:focusable="false"
+                    android:hint="@string/data"
+                    android:singleLine="true"
+                    android:textColorHint="@color/primary_dark" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="0"
+                android:src="@drawable/ic_menu_time" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                app:errorTextAppearance="@style/AppTheme.TextAppearance.Error"
+                android:id="@+id/hint_maintenance_time"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/form_left_right_margin"
+                android:layout_marginRight="@dimen/form_left_right_margin"
+                android:layout_marginTop="@dimen/form_top_bottom_margin"
+                android:layout_weight="1">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/maintenance_add_time"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:focusable="false"
+                    android:hint="@string/hora"
+                    android:singleLine="true"
+                    android:textColorHint="@color/primary_dark" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/imageView9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/form_left_right_margin"
+                android:layout_weight="0"
+                android:src="@drawable/ic_menu_odometer" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                app:errorTextAppearance="@style/AppTheme.TextAppearance.Error"
+                android:id="@+id/hint_maintenance_add_km"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/form_left_right_margin"
+                android:layout_marginRight="@dimen/form_left_right_margin"
+                android:layout_marginTop="@dimen/form_top_bottom_margin"
+                android:layout_weight="1">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/maintenance_add_km"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:editable="false"
+                    android:focusable="false"
+                    android:hint="@string/odometro_atual"
+                    android:inputType="numberDecimal"
+                    android:singleLine="true" />
+            </com.google.android.material.textfield.TextInputLayout>
+        </LinearLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:background="?attr/selectableItemBackground"
+                android:id="@+id/parts_list_recycler"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:cacheColorHint="@android:color/transparent"
+                android:clipToPadding="false"
+                android:divider="@null"
+                android:dividerHeight="0dp"
+                android:listSelector="@android:color/transparent"
+                android:paddingBottom="@dimen/activity_vertical_margin"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:paddingTop="@dimen/activity_vertical_margin"
+                android:layout_gravity="center" />
+
+            <include
+                android:id="@+id/empty_list_warn"
+                layout="@layout/empty_maintenance_list"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center" />
+
+        </FrameLayout>
+
+    </LinearLayout>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
+

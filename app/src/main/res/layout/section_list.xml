@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingRight="@dimen/padding_margin_top"
+    android:paddingLeft="@dimen/padding_margin_top"
+    android:paddingBottom="@dimen/listspace"
+    android:paddingTop="@dimen/listspace">
+
+    <ImageView
+        android:id="@+id/list_parts_header_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp" />
+
+    <TextView
+        android:id="@+id/list_parts_header_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/AppTheme.MyListSeparator"
+        android:text="New Text" />
+</LinearLayout>

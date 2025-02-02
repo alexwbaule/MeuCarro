@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/car_cardview"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/listspace"
+    card_view:cardCornerRadius="2dp"
+    card_view:cardElevation="6dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="@dimen/listspace"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            style="@style/AppTheme.MyListSeparator">
+
+            <TextView
+                android:id="@+id/car_name"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/icon_default_car"
+                android:src="@android:drawable/presence_online"
+                android:layout_gravity="right|center_vertical" />
+        </FrameLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/padding_margin_top">
+
+            <com.google.android.material.floatingactionbutton.FloatingActionButton
+                android:id="@+id/fab_maintenance"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_margin="@dimen/listspace"
+                android:src="@drawable/ic_menu_car"
+                app:fabSize="mini"
+                android:tint="@color/mini_fab_tint"
+                app:backgroundTint="@color/mini_fab"
+                android:clickable="true" />
+
+            <TextView
+                android:id="@+id/txt_gasolina_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/fab_maintenance"
+                android:layout_toEndOf="@+id/fab_maintenance"
+                android:layout_toRightOf="@+id/fab_maintenance"
+                android:text="@string/gasolina"
+                android:textStyle="italic" />
+
+            <TextView
+                android:id="@+id/txt_gasolina"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/txt_gasolina_name"
+                android:layout_marginRight="@dimen/padding_margin_top"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:gravity="end"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txt_Etanol_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt_gasolina_name"
+                android:layout_toEndOf="@+id/fab_maintenance"
+                android:layout_toRightOf="@+id/fab_maintenance"
+                android:text="@string/Etanol"
+                android:textStyle="italic" />
+
+
+            <TextView
+                android:id="@+id/txt_Etanol"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/txt_Etanol_name"
+                android:layout_marginRight="@dimen/padding_margin_top"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:gravity="end"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txt_diesel_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt_Etanol_name"
+                android:layout_toEndOf="@+id/fab_maintenance"
+                android:layout_toRightOf="@+id/fab_maintenance"
+                android:text="@string/diesel"
+                android:textStyle="italic" />
+
+            <TextView
+                android:id="@+id/txt_diesel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/txt_diesel_name"
+                android:layout_marginRight="@dimen/padding_margin_top"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:gravity="end"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txt_gnv_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt_diesel_name"
+                android:layout_toEndOf="@+id/fab_maintenance"
+                android:layout_toRightOf="@+id/fab_maintenance"
+                android:text="@string/gnv"
+                android:textStyle="italic" />
+
+            <TextView
+                android:id="@+id/txt_gnv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/txt_gnv_name"
+                android:layout_marginRight="@dimen/padding_margin_top"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:gravity="end"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txt_tanque_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt_gnv_name"
+                android:layout_toEndOf="@+id/fab_maintenance"
+                android:layout_toRightOf="@+id/fab_maintenance"
+                android:text="@string/Volume_do_combustivel"
+                android:ellipsize="end"
+                android:textStyle="italic"
+                android:singleLine="true"
+                android:layout_alignRight="@+id/txt_cap_tanque" />
+
+            <TextView
+                android:id="@+id/txt_cap_tanque"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/txt_tanque_name"
+                android:layout_marginRight="@dimen/padding_margin_top"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:gravity="end"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txt_cilindro_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txt_tanque_name"
+                android:layout_toEndOf="@+id/fab_maintenance"
+                android:layout_toRightOf="@+id/fab_maintenance"
+                android:ellipsize="end"
+                android:text="@string/Volume_do_gnv"
+                android:singleLine="true"
+                android:layout_alignParentEnd="false"
+                android:layout_alignRight="@+id/txt_cap_gnv" />
+
+            <TextView
+                android:id="@+id/txt_cap_gnv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/txt_cilindro_name"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="@dimen/padding_margin_top"
+                android:gravity="end"
+                android:textStyle="bold" />
+        </RelativeLayout>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

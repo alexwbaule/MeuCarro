@@ -1,0 +1,73 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="android:textColorHint">@color/primary_dark</item>
+        <item name="actionModeBackground">@color/primary</item>
+    </style>
+
+    <style name="AppTheme.AppDialog" parent="Theme.AppCompat.DayNight.Dialog.Alert">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="android:textColorHint">@color/primary_dark</item>
+        <item name="actionModeBackground">@color/primary</item>
+        <item name="windowMinWidthMajor">60%</item>
+        <item name="windowMinWidthMinor">95%</item>
+    </style>
+
+    <style name="WalkthroughTheme" parent="Theme.AppCompat">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppDialog.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="AppTheme.Launcher">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+
+    <style name="AppTheme.MyListSeparator">
+        <item name="android:minHeight">22dp</item>
+        <item name="textAllCaps">true</item>
+        <item name="android:background">@drawable/my_separator</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/secondary_text</item>
+        <item name="android:textStyle">bold|italic</item>
+        <item name="android:paddingRight">@dimen/padding_margin_top</item>
+        <item name="android:paddingBottom">@dimen/padding_margin_top</item>
+        <item name="android:paddingLeft">@dimen/padding_margin_top</item>
+    </style>
+
+    <style name="AppTheme.MyTextInputLayout" parent="Widget.Design.TextInputLayout">
+        <item name="android:textColor">@color/primary_dark</item>
+        <item name="android:textSize">@dimen/tiny_text_size</item>
+        <item name="android:layout_marginTop">@dimen/form_top_bottom_margin</item>
+        <item name="android:layout_marginLeft">@dimen/form_spinner_label</item>
+    </style>
+
+    <style name="AppTheme.TextAppearance.Error" parent="TextAppearance.Design.Error">
+        <item name="android:textColor">?attr/colorError</item>
+    </style>
+</resources>
